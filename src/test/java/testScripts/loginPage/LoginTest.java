@@ -1,3 +1,6 @@
+/**
+ * Author: Sumit Singh
+ */
 package testScripts.loginPage;
 
 import org.apache.log4j.Logger;
