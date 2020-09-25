@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.guru99demo.helper.listener.ExtentListener"/>
+  </listeners>
+  <test name="LoginTest">
+    <classes>
+      <class name="testScripts.loginPage.LoginTest"/>
+    </classes>
+  </test> <!-- LoginTest -->
+  <test name="LoginTest(failed)">
+    <classes>
+      <class name="testScripts.loginPage.LoginTest">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="afterTest"/>
+          <include name="loginTestWithCredentials" invocation-numbers="1 2 3"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- testScripts.loginPage.LoginTest -->
+    </classes>
+  </test> <!-- LoginTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

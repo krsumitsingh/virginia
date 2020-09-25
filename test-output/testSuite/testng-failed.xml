@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [testSuite]">
+	<listeners>
+		<listener class-name="com.guru99demo.helper.listener.ExtentListener" />
+	</listeners>
+	<test name="LoginTest">
+		<classes>
+			<class name="testScripts.loginPage.LoginTest" />
+		</classes>
+	</test> <!-- LoginTest -->
+</suite> <!-- Failed suite [testSuite] -->
