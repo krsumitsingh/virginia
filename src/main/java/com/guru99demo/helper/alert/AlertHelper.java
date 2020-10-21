@@ -2,8 +2,11 @@ package com.guru99demo.helper.alert;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.Alert;
+import org.openqa.selenium.By;
 import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
 import com.guru99demo.helper.logger.LoggerHelper;
 
 public class AlertHelper {
@@ -105,4 +108,15 @@ public class AlertHelper {
 		}
 	}
 
+	public void CloseAlertIfPresent(WebElement element1,WebElement element2){
+		if(element1.isDisplayed()){
+			log.info("Transparent inner alert present...");
+			element2.click();
+		}else{
+			log.info("Transparent inner alert not present...");
+		}
+	}
+	
+	
+	
 }

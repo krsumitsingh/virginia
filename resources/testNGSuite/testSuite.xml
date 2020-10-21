@@ -11,4 +11,10 @@
     </classes>
   </test> 
   
+  <test name="VerifyProductNameInAscendingOrder">
+    <classes>
+      <class name="testScripts.productDetailPage.VerifyProductNameInAscendingOrder"></class>
+    </classes>
+  </test> 
+  
 </suite>

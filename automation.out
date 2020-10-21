@@ -3543,3 +3543,940 @@ Session ID: 334e10bd0b337314a7608d2ae8672a12
 2020-09-25 23:09:776 INFO  TestBase :86 - **************loginTestWithCredentialsFinished***************
 2020-09-25 23:09:845 INFO  TestBase :93 - chrome browser closed..
 2020-09-25 23:09:629 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-07 12:10:169 INFO  TestBase :129 - Initialize Web driver: 1033917063
+2020-10-07 12:10:172 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-07 12:10:200 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-07 12:10:119 INFO  TestBase :172 - excel location C:\Virginia/resources/configFile/TestData.xlsx
+2020-10-07 12:10:145 INFO  ExcelHelper :50 - number of active rows are: 4----number of active columns in row: 3
+2020-10-07 12:10:171 INFO  TestBase :68 - **************loginTestWithCredentialsStarted***************
+2020-10-07 12:10:353 INFO  VerificationHelper :26 - element is displayed Demo Site
+2020-10-07 12:10:375 INFO  AssertionHelper :13 - verify text with Demo Site and Demo Site
+2020-10-07 12:10:377 INFO  LoginPage :65 - user id entered..
+2020-10-07 12:10:613 INFO  LoginPage :71 - password entered..
+2020-10-07 12:10:715 INFO  LoginPage :77 - login button clicked..
+2020-10-07 12:10:447 INFO  AlertHelper :63 - alert is present
+2020-10-07 12:10:451 INFO  AlertHelper :25 - switched to alert: org.openqa.selenium.remote.RemoteWebDriver$RemoteAlert@37d80fe7
+2020-10-07 12:10:456 INFO  AlertHelper :25 - switched to alert: org.openqa.selenium.remote.RemoteWebDriver$RemoteAlert@384fc774
+2020-10-07 12:10:464 INFO  AlertHelper :52 - alert text is: User or Password is not valid
+2020-10-07 12:10:467 INFO  AlertHelper :25 - switched to alert: org.openqa.selenium.remote.RemoteWebDriver$RemoteAlert@e3cee7b
+2020-10-07 12:10:495 INFO  AlertHelper :34 - accept the alert
+2020-10-07 12:10:70 INFO  LoginTest :67 - homepage not visible..
+2020-10-07 12:10:81 INFO  TestBase :86 - **************loginTestWithCredentialsFinished***************
+2020-10-07 12:10:484 INFO  TestBase :68 - **************loginTestWithCredentialsStarted***************
+2020-10-07 12:10:492 INFO  TestBase :86 - **************loginTestWithCredentialsFinished***************
+2020-10-07 12:10:576 INFO  TestBase :68 - **************loginTestWithCredentialsStarted***************
+2020-10-07 12:10:577 INFO  TestBase :86 - **************loginTestWithCredentialsFinished***************
+2020-10-07 12:10:623 INFO  TestBase :68 - **************loginTestWithCredentialsStarted***************
+2020-10-07 12:10:626 INFO  TestBase :86 - **************loginTestWithCredentialsFinished***************
+2020-10-07 12:10:679 INFO  TestBase :93 - chrome browser closed..
+2020-10-09 22:10:109 INFO  TestBase :129 - Initialize Web driver: 90346768
+2020-10-09 22:10:172 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-09 22:10:211 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-09 22:10:548 INFO  TestBase :172 - excel location C:\Virginia/resources/configFile/TestData.xlsx
+2020-10-09 22:10:423 INFO  ExcelHelper :50 - number of active rows are: 4----number of active columns in row: 3
+2020-10-09 22:10:448 INFO  TestBase :93 - chrome browser closed..
+2020-10-09 22:10:844 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-09 22:10:96 INFO  TestBase :129 - Initialize Web driver: 1763260873
+2020-10-09 22:10:97 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-09 22:10:105 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-09 22:10:327 INFO  TestBase :172 - excel location C:\Virginia/resources/configFile/TestData.xlsx
+2020-10-09 22:10:967 INFO  ExcelHelper :50 - number of active rows are: 4----number of active columns in row: 3
+2020-10-09 22:10:985 WARN  ExtentListener :47 - loginTestWithCredentials Test Skipped..java.lang.NullPointerException
+2020-10-09 22:10:987 INFO  TestBase :93 - chrome browser closed..
+2020-10-09 22:10:670 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-09 22:10:839 INFO  TestBase :129 - Initialize Web driver: 2038232668
+2020-10-09 22:10:842 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-09 22:10:849 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-09 22:10:119 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-09 22:10:905 INFO  VerificationHelper :26 - element is displayed Demo Site
+2020-10-09 22:10:925 INFO  AssertionHelper :13 - verify text with Demo Site and Demo Site
+2020-10-09 22:10:927 INFO  LoginPage :65 - user id entered..
+2020-10-09 22:10:43 INFO  LoginPage :71 - password entered..
+2020-10-09 22:10:132 INFO  LoginPage :77 - login button clicked..
+2020-10-09 22:10:971 INFO  AlertHelper :68 - alert not present: null
+2020-10-09 22:10:05 INFO  JavaScriptHelper :75 - scroll to element and click element: Log out
+2020-10-09 22:10:25 INFO  JavaScriptHelper :66 - scroll to element: Log out
+2020-10-09 22:10:828 INFO  LoginPage :123 - clicked on logout link
+2020-10-09 22:10:831 INFO  AlertHelper :63 - alert is present
+2020-10-09 22:10:834 INFO  AlertHelper :25 - switched to alert: org.openqa.selenium.remote.RemoteWebDriver$RemoteAlert@4212a0c8
+2020-10-09 22:10:839 INFO  AlertHelper :25 - switched to alert: org.openqa.selenium.remote.RemoteWebDriver$RemoteAlert@1e7aa82b
+2020-10-09 22:10:850 INFO  AlertHelper :52 - alert text is: You Have Succesfully Logged Out!!
+2020-10-09 22:10:852 INFO  AlertHelper :25 - switched to alert: org.openqa.selenium.remote.RemoteWebDriver$RemoteAlert@1c6804cd
+2020-10-09 22:10:863 INFO  AlertHelper :34 - accept the alert
+2020-10-09 22:10:278 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (db1cfd07ab8ae766c45bb996666c2a6f)] -> xpath: //a[text()='Demo Site']] for :200 seconds
+2020-10-09 22:10:332 INFO  WaitHelper :141 - element is visible now
+2020-10-09 22:10:333 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-09 22:10:757 INFO  TestBase :93 - chrome browser closed..
+2020-10-10 00:10:837 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-10 00:10:232 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-10-10 00:10:233 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-10 00:10:241 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-10 00:10:958 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-10 00:10:963 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-10 00:10:153 ERROR VerificationHelper :29 - element not  displayed
+2020-10-10 00:10:154 INFO  AssertionHelper :13 - verify text with null and Default welcome msg!
+2020-10-10 00:10:159 ERROR ExtentListener :40 - testLoginToApplication Test Failed..java.lang.AssertionError: expected [Default welcome msg!] but found [null]
+2020-10-10 00:10:522 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-10 00:10:922 INFO  TestBase :93 - chrome browser closed..
+2020-10-10 00:10:637 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-10 00:10:687 INFO  TestBase :129 - Initialize Web driver: 2038232668
+2020-10-10 00:10:690 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-10 00:10:698 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-10 00:10:362 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-10 00:10:624 INFO  VerificationHelper :26 - element is displayed DEFAULT WELCOME MSG!
+2020-10-10 00:10:647 INFO  AssertionHelper :13 - verify text with DEFAULT WELCOME MSG! and Default welcome msg! 
+2020-10-10 00:10:00 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-10 00:10:491 INFO  TestBase :93 - chrome browser closed..
+2020-10-10 00:10:699 INFO  TestBase :129 - Initialize Web driver: 2038232668
+2020-10-10 00:10:703 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-10 00:10:710 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-10 00:10:292 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-10 00:10:525 INFO  VerificationHelper :26 - element is displayed DEFAULT WELCOME MSG!
+2020-10-10 00:10:545 INFO  AssertionHelper :13 - verify text with DEFAULT WELCOME MSG! and DEFAULT WELCOME MSG! 
+2020-10-10 00:10:871 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-10 00:10:341 INFO  TestBase :93 - chrome browser closed..
+2020-10-10 00:10:823 INFO  TestBase :129 - Initialize Web driver: 2038232668
+2020-10-10 00:10:826 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-10 00:10:833 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-10 00:10:471 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-10 00:10:688 INFO  VerificationHelper :26 - element is displayed DEFAULT WELCOME MSG!
+2020-10-10 00:10:710 INFO  AssertionHelper :13 - verify text with DEFAULT WELCOME MSG! and DEFAULT WELCOME MSG! 
+2020-10-10 00:10:30 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-10 00:10:402 INFO  TestBase :93 - chrome browser closed..
+2020-10-10 00:10:755 INFO  TestBase :129 - Initialize Web driver: 2038232668
+2020-10-10 00:10:758 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-10 00:10:765 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-10 00:10:428 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-10 00:10:660 INFO  VerificationHelper :26 - element is displayed DEFAULT WELCOME MSG!
+2020-10-10 00:10:681 INFO  AssertionHelper :13 - verify text with DEFAULT WELCOME MSG! and Default welcome msg! 
+2020-10-10 00:10:994 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-10 00:10:370 INFO  TestBase :93 - chrome browser closed..
+2020-10-10 00:10:792 INFO  TestBase :129 - Initialize Web driver: 2038232668
+2020-10-10 00:10:794 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-10 00:10:801 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-10 00:10:443 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-10 00:10:886 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-10 00:10:248 INFO  TestBase :93 - chrome browser closed..
+2020-10-10 00:10:228 INFO  TestBase :129 - Initialize Web driver: 2038232668
+2020-10-10 00:10:231 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-10 00:10:238 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-10 00:10:897 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-10 00:10:34 INFO  LoginPage :73 - user clicks on the account...
+2020-10-10 00:10:67 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-10 00:10:183 INFO  LoginPage :85 - user id entered..
+2020-10-10 00:10:288 INFO  LoginPage :91 - password entered..
+2020-10-10 00:10:376 INFO  LoginPage :97 - login button clicked..
+2020-10-10 00:10:80 INFO  AlertHelper :68 - alert not present: null
+2020-10-10 00:10:82 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-10 00:10:477 INFO  TestBase :93 - chrome browser closed..
+2020-10-10 00:10:197 INFO  TestBase :129 - Initialize Web driver: 2038232668
+2020-10-10 00:10:200 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-10 00:10:207 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-10 00:10:107 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-10 00:10:601 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-10 00:10:956 INFO  TestBase :93 - chrome browser closed..
+2020-10-10 00:10:508 INFO  TestBase :129 - Initialize Web driver: 1774589469
+2020-10-10 00:10:511 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-10 00:10:613 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-10 00:10:286 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-10 00:10:690 INFO  TestBase :129 - Initialize Web driver: 2038232668
+2020-10-10 00:10:693 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-10 00:10:702 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-10 00:10:495 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-10 00:10:14 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-10 00:10:459 INFO  TestBase :93 - chrome browser closed..
+2020-10-10 00:10:31 INFO  TestBase :129 - Initialize Web driver: 2038232668
+2020-10-10 00:10:34 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-10 00:10:41 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-10 00:10:714 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-10 00:10:925 INFO  LoginPage :73 - user clicks on the account...
+2020-10-10 00:10:960 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-10 00:10:100 INFO  LoginPage :85 - user id entered..
+2020-10-10 00:10:199 INFO  LoginPage :91 - password entered..
+2020-10-10 00:10:286 INFO  LoginPage :97 - login button clicked..
+2020-10-10 00:10:112 INFO  AlertHelper :68 - alert not present: null
+2020-10-10 00:10:114 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-10 00:10:551 INFO  TestBase :93 - chrome browser closed..
+2020-10-10 01:10:24 INFO  TestBase :129 - Initialize Web driver: 2038232668
+2020-10-10 01:10:27 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-10 01:10:35 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-10 01:10:642 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-10 01:10:337 INFO  AlertHelper :113 - Transparent inner alert present...
+2020-10-10 01:10:375 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-10 01:10:809 INFO  TestBase :93 - chrome browser closed..
+2020-10-10 01:10:478 INFO  TestBase :129 - Initialize Web driver: 2038232668
+2020-10-10 01:10:482 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-10 01:10:490 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-10 01:10:59 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-10 01:10:110 INFO  LoginPage :80 - user clicks on the account...
+2020-10-10 01:10:143 INFO  LoginPage :86 - user clicks on the Log In link...
+2020-10-10 01:10:192 INFO  LoginPage :92 - user id entered..
+2020-10-10 01:10:298 INFO  LoginPage :98 - password entered..
+2020-10-10 01:10:383 INFO  LoginPage :104 - login button clicked..
+2020-10-10 01:10:74 INFO  AlertHelper :71 - alert not present: null
+2020-10-10 01:10:76 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-10 01:10:434 INFO  TestBase :93 - chrome browser closed..
+2020-10-10 01:10:400 INFO  TestBase :129 - Initialize Web driver: 2038232668
+2020-10-10 01:10:404 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-10 01:10:412 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-10 01:10:124 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-10 01:10:280 INFO  LoginTest :37 - The tile of the page is: Home page
+2020-10-10 01:10:281 INFO  LoginPage :80 - user clicks on the account...
+2020-10-10 01:10:314 INFO  LoginPage :86 - user clicks on the Log In link...
+2020-10-10 01:10:440 INFO  LoginPage :92 - user id entered..
+2020-10-10 01:10:543 INFO  LoginPage :98 - password entered..
+2020-10-10 01:10:623 INFO  LoginPage :104 - login button clicked..
+2020-10-10 01:10:554 INFO  AlertHelper :71 - alert not present: null
+2020-10-10 01:10:557 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-10 01:10:937 INFO  TestBase :93 - chrome browser closed..
+2020-10-10 01:10:425 INFO  TestBase :129 - Initialize Web driver: 2038232668
+2020-10-10 01:10:428 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-10 01:10:436 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-10 01:10:310 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-10 01:10:481 INFO  LoginTest :37 - The tile of the page is: Home page
+2020-10-10 01:10:488 INFO  LoginPage :80 - user clicks on the account...
+2020-10-10 01:10:524 INFO  LoginPage :86 - user clicks on the Log In link...
+2020-10-10 01:10:630 INFO  LoginPage :92 - user id entered..
+2020-10-10 01:10:742 INFO  LoginPage :98 - password entered..
+2020-10-10 01:10:826 INFO  LoginPage :104 - login button clicked..
+2020-10-10 01:10:550 INFO  AlertHelper :71 - alert not present: null
+2020-10-10 01:10:553 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-10 01:10:995 INFO  TestBase :93 - chrome browser closed..
+2020-10-11 23:10:710 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-11 23:10:537 INFO  TestBase :129 - Initialize Web driver: 1789110533
+2020-10-11 23:10:538 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-11 23:10:560 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-11 23:10:08 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-11 23:10:88 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-11 23:10:321 INFO  LoginTest :37 - The tile of the page is: Home page
+2020-10-11 23:10:326 INFO  LoginPage :73 - user clicks on the account...
+2020-10-11 23:10:413 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-11 23:10:476 INFO  LoginPage :85 - user id entered..
+2020-10-11 23:10:84 INFO  LoginPage :91 - password entered..
+2020-10-11 23:10:191 INFO  LoginPage :97 - login button clicked..
+2020-10-11 23:10:542 INFO  NavigationMenu :30 - DropDownHelper object created..
+2020-10-11 23:10:561 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (91f1907f7f47b720bb44bd4f3013ecf0)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-11 23:10:703 INFO  WaitHelper :141 - element is visible now
+2020-10-11 23:10:704 INFO  ExtentListener :59 - testLoginToApplication Test Passed..
+2020-10-11 23:10:706 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-11 23:10:361 INFO  TestBase :93 - chrome browser closed..
+2020-10-11 23:10:110 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-11 23:10:808 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-11 23:10:208 INFO  TestBase :129 - Initialize Web driver: 1901238627
+2020-10-11 23:10:208 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-11 23:10:217 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-11 23:10:657 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-11 23:10:661 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-11 23:10:690 INFO  LoginTest :37 - The tile of the page is: Home page
+2020-10-11 23:10:696 INFO  LoginPage :73 - user clicks on the account...
+2020-10-11 23:10:729 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-11 23:10:841 INFO  LoginPage :85 - user id entered..
+2020-10-11 23:10:940 INFO  LoginPage :91 - password entered..
+2020-10-11 23:10:43 INFO  LoginPage :97 - login button clicked..
+2020-10-11 23:10:725 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (c6b3c691daca098f4739c6d68f7e15e7)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-11 23:10:810 INFO  WaitHelper :141 - element is visible now
+2020-10-11 23:10:812 INFO  ExtentListener :59 - testLoginToApplication Test Passed..
+2020-10-11 23:10:812 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-11 23:10:192 INFO  TestBase :93 - chrome browser closed..
+2020-10-11 23:10:580 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-11 23:10:581 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-11 23:10:786 INFO  TestBase :129 - Initialize Web driver: 583559449
+2020-10-11 23:10:786 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-11 23:10:790 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-11 23:10:802 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-11 23:10:803 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-11 23:10:805 ERROR ExtentListener :40 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Failed..java.lang.NullPointerException
+2020-10-11 23:10:136 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-11 23:10:198 INFO  TestBase :93 - chrome browser closed..
+2020-10-11 23:10:426 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-11 23:10:533 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-11 23:10:859 INFO  TestBase :129 - Initialize Web driver: 1901238627
+2020-10-11 23:10:861 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-11 23:10:868 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-11 23:10:320 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-11 23:10:324 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-11 23:10:356 INFO  LoginTest :37 - The tile of the page is: Home page
+2020-10-11 23:10:362 INFO  LoginPage :73 - user clicks on the account...
+2020-10-11 23:10:401 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-11 23:10:450 INFO  LoginPage :85 - user id entered..
+2020-10-11 23:10:554 INFO  LoginPage :91 - password entered..
+2020-10-11 23:10:634 INFO  LoginPage :97 - login button clicked..
+2020-10-11 23:10:289 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (156f9c76fcf8df1813170da90a5403b4)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-11 23:10:365 INFO  WaitHelper :141 - element is visible now
+2020-10-11 23:10:366 INFO  ExtentListener :59 - testLoginToApplication Test Passed..
+2020-10-11 23:10:367 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-11 23:10:715 INFO  TestBase :93 - chrome browser closed..
+2020-10-11 23:10:447 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-11 23:10:448 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-11 23:10:771 INFO  TestBase :129 - Initialize Web driver: 583559449
+2020-10-11 23:10:772 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-11 23:10:775 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-11 23:10:271 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-11 23:10:273 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-11 23:10:278 ERROR ExtentListener :40 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Failed..java.lang.NullPointerException
+2020-10-11 23:10:606 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-11 23:10:671 INFO  TestBase :93 - chrome browser closed..
+2020-10-11 23:10:324 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-11 23:10:631 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-11 23:10:938 INFO  TestBase :129 - Initialize Web driver: 1901238627
+2020-10-11 23:10:939 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-11 23:10:946 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-11 23:10:473 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-11 23:10:477 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-11 23:10:513 INFO  LoginTest :37 - The tile of the page is: Home page
+2020-10-11 23:10:519 INFO  LoginPage :73 - user clicks on the account...
+2020-10-11 23:10:562 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-11 23:10:584 INFO  LoginPage :85 - user id entered..
+2020-10-11 23:10:690 INFO  LoginPage :91 - password entered..
+2020-10-11 23:10:792 INFO  LoginPage :97 - login button clicked..
+2020-10-11 23:10:490 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (186eca5578c2324eb77932cabfee2a6f)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-11 23:10:566 INFO  WaitHelper :141 - element is visible now
+2020-10-11 23:10:568 INFO  ExtentListener :59 - testLoginToApplication Test Passed..
+2020-10-11 23:10:569 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-11 23:10:17 INFO  TestBase :93 - chrome browser closed..
+2020-10-11 23:10:928 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-11 23:10:929 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-11 23:10:168 INFO  TestBase :129 - Initialize Web driver: 583559449
+2020-10-11 23:10:168 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-11 23:10:172 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-11 23:10:644 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-11 23:10:646 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-11 23:10:649 ERROR ExtentListener :40 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Failed..java.lang.NullPointerException
+2020-10-11 23:10:954 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-11 23:10:10 INFO  TestBase :93 - chrome browser closed..
+2020-10-11 23:10:664 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-11 23:10:371 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-11 23:10:690 INFO  TestBase :129 - Initialize Web driver: 1901238627
+2020-10-11 23:10:691 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-11 23:10:698 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-11 23:10:162 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-11 23:10:166 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-11 23:10:202 INFO  LoginTest :37 - The tile of the page is: Home page
+2020-10-11 23:10:207 INFO  LoginPage :73 - user clicks on the account...
+2020-10-11 23:10:245 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-11 23:10:302 INFO  LoginPage :85 - user id entered..
+2020-10-11 23:10:401 INFO  LoginPage :91 - password entered..
+2020-10-11 23:10:482 INFO  LoginPage :97 - login button clicked..
+2020-10-11 23:10:138 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (7c29462296cb514b04c6770ee4f95736)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-11 23:10:210 INFO  WaitHelper :141 - element is visible now
+2020-10-11 23:10:212 INFO  ExtentListener :59 - testLoginToApplication Test Passed..
+2020-10-11 23:10:213 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-11 23:10:548 INFO  TestBase :93 - chrome browser closed..
+2020-10-11 23:10:287 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-11 23:10:288 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-11 23:10:431 INFO  TestBase :129 - Initialize Web driver: 583559449
+2020-10-11 23:10:432 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-11 23:10:435 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-11 23:10:959 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-11 23:10:960 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-11 23:10:964 ERROR ExtentListener :40 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Failed..java.lang.NullPointerException
+2020-10-11 23:10:289 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-11 23:10:346 INFO  TestBase :93 - chrome browser closed..
+2020-10-11 23:10:24 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-11 23:10:383 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-11 23:10:772 INFO  TestBase :129 - Initialize Web driver: 1901238627
+2020-10-11 23:10:773 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-11 23:10:779 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-11 23:10:301 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-11 23:10:305 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-11 23:10:338 INFO  LoginTest :37 - The tile of the page is: Home page
+2020-10-11 23:10:343 INFO  LoginPage :73 - user clicks on the account...
+2020-10-11 23:10:385 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-11 23:10:349 INFO  LoginPage :85 - user id entered..
+2020-10-11 23:10:468 INFO  LoginPage :91 - password entered..
+2020-10-11 23:10:556 INFO  LoginPage :97 - login button clicked..
+2020-10-11 23:10:149 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (368b1acbc78d6d82edd7248fcaeeace1)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-11 23:10:225 INFO  WaitHelper :141 - element is visible now
+2020-10-11 23:10:226 INFO  ExtentListener :59 - testLoginToApplication Test Passed..
+2020-10-11 23:10:227 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-11 23:10:625 INFO  TestBase :93 - chrome browser closed..
+2020-10-11 23:10:895 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-11 23:10:896 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-11 23:10:156 INFO  TestBase :129 - Initialize Web driver: 583559449
+2020-10-11 23:10:156 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-11 23:10:159 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-11 23:10:470 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-11 23:10:471 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-11 23:10:479 INFO  VerifyProductNameInAscendingOrder :30 - The tile of the page is: Home page
+2020-10-11 23:10:485 INFO  LoginPage :73 - user clicks on the account...
+2020-10-11 23:10:519 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-11 23:10:588 INFO  LoginPage :85 - user id entered..
+2020-10-11 23:10:684 INFO  LoginPage :91 - password entered..
+2020-10-11 23:10:768 INFO  LoginPage :97 - login button clicked..
+2020-10-11 23:10:355 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (747ac0e0829072728ceb03e3309c452d)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-11 23:10:387 INFO  WaitHelper :141 - element is visible now
+2020-10-11 23:10:390 ERROR ExtentListener :40 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Failed..java.lang.NullPointerException
+2020-10-11 23:10:716 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-11 23:10:788 INFO  TestBase :93 - chrome browser closed..
+2020-10-11 23:10:512 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-11 23:10:08 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-11 23:10:311 INFO  TestBase :129 - Initialize Web driver: 1901238627
+2020-10-11 23:10:312 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-11 23:10:322 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-11 23:10:701 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-11 23:10:705 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-11 23:10:738 INFO  LoginTest :37 - The tile of the page is: Home page
+2020-10-11 23:10:747 INFO  LoginPage :73 - user clicks on the account...
+2020-10-11 23:10:786 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-11 23:10:745 INFO  LoginPage :85 - user id entered..
+2020-10-11 23:10:849 INFO  LoginPage :91 - password entered..
+2020-10-11 23:10:936 INFO  LoginPage :97 - login button clicked..
+2020-10-11 23:10:530 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (ed195513e1222e3f9c7ffa6abed3c142)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-11 23:10:596 INFO  WaitHelper :141 - element is visible now
+2020-10-11 23:10:598 INFO  ExtentListener :59 - testLoginToApplication Test Passed..
+2020-10-11 23:10:599 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-11 23:10:118 INFO  TestBase :93 - chrome browser closed..
+2020-10-11 23:10:874 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-11 23:10:875 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-11 23:10:170 INFO  TestBase :129 - Initialize Web driver: 583559449
+2020-10-11 23:10:171 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-11 23:10:175 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-11 23:10:526 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-11 23:10:527 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-11 23:10:534 INFO  VerifyProductNameInAscendingOrder :31 - The tile of the page is: Home page
+2020-10-11 23:10:539 INFO  LoginPage :73 - user clicks on the account...
+2020-10-11 23:10:572 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-11 23:10:570 INFO  LoginPage :85 - user id entered..
+2020-10-11 23:10:668 INFO  LoginPage :91 - password entered..
+2020-10-11 23:10:748 INFO  LoginPage :97 - login button clicked..
+2020-10-11 23:10:353 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (6834d850d5dfdb980f0076dd19a6b462)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-11 23:10:416 INFO  WaitHelper :141 - element is visible now
+2020-10-11 23:10:418 ERROR ExtentListener :40 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Failed..java.lang.NullPointerException
+2020-10-11 23:10:711 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-11 23:10:776 INFO  TestBase :93 - chrome browser closed..
+2020-10-11 23:10:437 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-11 23:10:684 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-11 23:10:08 INFO  TestBase :129 - Initialize Web driver: 1901238627
+2020-10-11 23:10:09 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-11 23:10:15 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-11 23:10:442 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-11 23:10:446 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-11 23:10:482 INFO  LoginTest :37 - The tile of the page is: Home page
+2020-10-11 23:10:487 INFO  LoginPage :73 - user clicks on the account...
+2020-10-11 23:10:524 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-11 23:10:502 INFO  LoginPage :85 - user id entered..
+2020-10-11 23:10:640 INFO  LoginPage :91 - password entered..
+2020-10-11 23:10:738 INFO  LoginPage :97 - login button clicked..
+2020-10-11 23:10:347 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (5c3b2aa9d7a5591067a0c426482e6c48)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-11 23:10:428 INFO  WaitHelper :141 - element is visible now
+2020-10-11 23:10:429 INFO  ExtentListener :59 - testLoginToApplication Test Passed..
+2020-10-11 23:10:430 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-11 23:10:848 INFO  TestBase :93 - chrome browser closed..
+2020-10-11 23:10:524 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-11 23:10:526 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-11 23:10:786 INFO  TestBase :129 - Initialize Web driver: 583559449
+2020-10-11 23:10:786 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-11 23:10:790 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-11 23:10:233 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-11 23:10:234 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-11 23:10:277 ERROR ExtentListener :40 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Failed..java.lang.StackOverflowError
+2020-10-11 23:10:578 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-11 23:10:636 INFO  TestBase :93 - chrome browser closed..
+2020-10-11 23:10:351 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-11 23:10:116 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-11 23:10:449 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-10-11 23:10:450 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-11 23:10:457 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-11 23:10:751 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-11 23:10:755 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-11 23:10:787 INFO  VerifyProductNameInAscendingOrder :31 - The tile of the page is: Home page
+2020-10-11 23:10:792 INFO  LoginPage :73 - user clicks on the account...
+2020-10-11 23:10:827 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-11 23:10:836 INFO  LoginPage :85 - user id entered..
+2020-10-11 23:10:944 INFO  LoginPage :91 - password entered..
+2020-10-11 23:10:21 INFO  LoginPage :97 - login button clicked..
+2020-10-11 23:10:622 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (7327ddbe12f010a2533dd520a9ba93fd)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-11 23:10:701 INFO  WaitHelper :141 - element is visible now
+2020-10-11 23:10:704 ERROR ExtentListener :40 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Failed..java.lang.NullPointerException
+2020-10-11 23:10:42 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-11 23:10:419 INFO  TestBase :93 - chrome browser closed..
+2020-10-11 23:10:17 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-12 00:10:895 INFO  TestBase :129 - Initialize Web driver: 1002911155
+2020-10-12 00:10:898 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-12 00:10:509 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-12 00:10:868 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-12 00:10:910 INFO  VerifyProductNameInAscendingOrder :31 - The tile of the page is: Home page
+2020-10-12 00:10:917 INFO  LoginPage :73 - user clicks on the account...
+2020-10-12 00:10:962 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-12 00:10:918 INFO  LoginPage :85 - user id entered..
+2020-10-12 00:10:19 INFO  LoginPage :91 - password entered..
+2020-10-12 00:10:96 INFO  LoginPage :97 - login button clicked..
+2020-10-12 00:10:643 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (08e3975ba7bd3a3698b529b685464276)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-12 00:10:722 INFO  WaitHelper :141 - element is visible now
+2020-10-12 00:10:974 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-12 00:10:381 INFO  TestBase :93 - chrome browser closed..
+2020-10-12 00:10:686 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-12 00:10:78 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-10-12 00:10:79 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-12 00:10:86 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-12 00:10:537 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-12 00:10:541 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-12 00:10:595 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (8a5c24c9fd83f49a77380a771edf5960)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-12 00:10:677 INFO  WaitHelper :141 - element is visible now
+2020-10-12 00:10:683 INFO  VerifyProductNameInAscendingOrder :32 - The tile of the page is: Home page
+2020-10-12 00:10:688 INFO  LoginPage :73 - user clicks on the account...
+2020-10-12 00:10:719 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-12 00:10:726 INFO  LoginPage :85 - user id entered..
+2020-10-12 00:10:830 INFO  LoginPage :91 - password entered..
+2020-10-12 00:10:907 INFO  LoginPage :97 - login button clicked..
+2020-10-12 00:10:558 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (8a5c24c9fd83f49a77380a771edf5960)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-12 00:10:607 INFO  WaitHelper :141 - element is visible now
+2020-10-12 00:10:692 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-10-12 00:10:736 INFO  ExtentListener :59 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Passed..
+2020-10-12 00:10:737 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-12 00:10:74 INFO  TestBase :93 - chrome browser closed..
+2020-10-12 00:10:826 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-12 00:10:37 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-12 00:10:389 INFO  TestBase :129 - Initialize Web driver: 1901238627
+2020-10-12 00:10:390 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-12 00:10:398 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-12 00:10:831 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-12 00:10:835 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-12 00:10:869 INFO  LoginTest :37 - The tile of the page is: Home page
+2020-10-12 00:10:877 INFO  LoginPage :73 - user clicks on the account...
+2020-10-12 00:10:919 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-12 00:10:962 INFO  LoginPage :85 - user id entered..
+2020-10-12 00:10:63 INFO  LoginPage :91 - password entered..
+2020-10-12 00:10:141 INFO  LoginPage :97 - login button clicked..
+2020-10-12 00:10:776 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (0df5aa01f57a9ba281248af7e49ecca5)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-12 00:10:842 INFO  WaitHelper :141 - element is visible now
+2020-10-12 00:10:843 INFO  ExtentListener :59 - testLoginToApplication Test Passed..
+2020-10-12 00:10:844 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-12 00:10:189 INFO  TestBase :93 - chrome browser closed..
+2020-10-12 00:10:920 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-12 00:10:921 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-12 00:10:157 INFO  TestBase :129 - Initialize Web driver: 583559449
+2020-10-12 00:10:157 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-12 00:10:161 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-12 00:10:716 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-12 00:10:717 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-12 00:10:741 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (0de307203fafa2d420a3b4137182bffd)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-12 00:10:777 INFO  WaitHelper :141 - element is visible now
+2020-10-12 00:10:783 INFO  VerifyProductNameInAscendingOrder :32 - The tile of the page is: Home page
+2020-10-12 00:10:788 INFO  LoginPage :73 - user clicks on the account...
+2020-10-12 00:10:820 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-12 00:10:889 INFO  LoginPage :85 - user id entered..
+2020-10-12 00:10:992 INFO  LoginPage :91 - password entered..
+2020-10-12 00:10:77 INFO  LoginPage :97 - login button clicked..
+2020-10-12 00:10:756 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (0de307203fafa2d420a3b4137182bffd)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-12 00:10:789 INFO  WaitHelper :141 - element is visible now
+2020-10-12 00:10:861 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-10-12 00:10:901 INFO  ExtentListener :59 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Passed..
+2020-10-12 00:10:902 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-12 00:10:949 INFO  TestBase :93 - chrome browser closed..
+2020-10-12 00:10:662 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-15 12:10:168 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-15 12:10:108 INFO  TestBase :129 - Initialize Web driver: 1976602906
+2020-10-15 12:10:193 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-15 12:10:318 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-15 12:10:612 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-15 12:10:617 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-15 12:10:625 INFO  LoginTest :37 - The tile of the page is: Home page
+2020-10-15 12:10:634 INFO  ExtentListener :59 - testLoginToApplication Test Passed..
+2020-10-15 12:10:635 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-15 12:10:303 INFO  TestBase :93 - chrome browser closed..
+2020-10-15 12:10:228 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-15 12:10:241 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-15 12:10:844 INFO  TestBase :129 - Initialize Web driver: 2008547236
+2020-10-15 12:10:844 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-15 12:10:847 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-15 12:10:508 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-15 12:10:512 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-15 12:10:521 INFO  VerifyProductNameInAscendingOrder :33 - The tile of the page is: Home page
+2020-10-15 12:10:531 ERROR ExtentListener :40 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Failed..java.lang.NullPointerException
+2020-10-15 12:10:941 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-15 12:10:12 INFO  TestBase :93 - chrome browser closed..
+2020-10-15 12:10:257 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-15 13:10:65 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-15 13:10:595 INFO  TestBase :129 - Initialize Web driver: 1901238627
+2020-10-15 13:10:612 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-15 13:10:628 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-15 13:10:336 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-15 13:10:340 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-15 13:10:595 INFO  LoginTest :37 - The tile of the page is: Home page
+2020-10-15 13:10:600 INFO  LoginPage :73 - user clicks on the account...
+2020-10-15 13:10:640 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-15 13:10:539 INFO  LoginPage :85 - user id entered..
+2020-10-15 13:10:668 INFO  LoginPage :91 - password entered..
+2020-10-15 13:10:743 INFO  LoginPage :97 - login button clicked..
+2020-10-15 13:10:201 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (2ebb19349071153490e016ca460a27b4)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-15 13:10:395 INFO  WaitHelper :141 - element is visible now
+2020-10-15 13:10:397 INFO  ExtentListener :59 - testLoginToApplication Test Passed..
+2020-10-15 13:10:398 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-15 13:10:801 INFO  TestBase :93 - chrome browser closed..
+2020-10-15 13:10:626 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-15 13:10:627 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-15 13:10:309 INFO  TestBase :129 - Initialize Web driver: 583559449
+2020-10-15 13:10:310 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-15 13:10:312 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-15 13:10:32 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-15 13:10:33 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-15 13:10:60 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (e9cc2a7e0b40cf079a433a0fc619eac1)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-15 13:10:81 INFO  WaitHelper :141 - element is visible now
+2020-10-15 13:10:81 INFO  VerifyProductNameInAscendingOrder :31 - The tile of the page is: Home page
+2020-10-15 13:10:97 INFO  LoginPage :73 - user clicks on the account...
+2020-10-15 13:10:138 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-15 13:10:269 INFO  LoginPage :85 - user id entered..
+2020-10-15 13:10:363 INFO  LoginPage :91 - password entered..
+2020-10-15 13:10:439 INFO  LoginPage :97 - login button clicked..
+2020-10-15 13:10:198 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (e9cc2a7e0b40cf079a433a0fc619eac1)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-15 13:10:231 INFO  WaitHelper :141 - element is visible now
+2020-10-15 13:10:298 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-10-15 13:10:550 INFO  ExtentListener :59 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Passed..
+2020-10-15 13:10:551 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-15 13:10:615 INFO  TestBase :93 - chrome browser closed..
+2020-10-15 13:10:473 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-21 22:10:27 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-21 22:10:140 INFO  TestBase :129 - Initialize Web driver: 1963075870
+2020-10-21 22:10:141 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-21 22:10:165 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-21 22:10:734 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-21 22:10:739 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-21 22:10:790 INFO  LoginTest :37 - The tile of the page is: Home page
+2020-10-21 22:10:797 INFO  LoginPage :73 - user clicks on the account...
+2020-10-21 22:10:852 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-21 22:10:903 INFO  LoginPage :85 - user id entered..
+2020-10-21 22:10:60 INFO  LoginPage :91 - password entered..
+2020-10-21 22:10:141 INFO  LoginPage :97 - login button clicked..
+2020-10-21 22:10:849 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (fd4d7be6958b3482b0968b9fb5353f65)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-21 22:10:137 INFO  WaitHelper :141 - element is visible now
+2020-10-21 22:10:146 INFO  ExtentListener :59 - testLoginToApplication Test Passed..
+2020-10-21 22:10:147 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-21 22:10:321 INFO  TestBase :93 - chrome browser closed..
+2020-10-21 22:10:72 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-21 22:10:73 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-21 22:10:358 INFO  TestBase :129 - Initialize Web driver: 1220806149
+2020-10-21 22:10:359 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-21 22:10:363 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-21 22:10:903 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-21 22:10:903 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-21 22:10:933 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (d59e91d8de7218c1b9d9401cc4043746)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-21 22:10:963 INFO  WaitHelper :141 - element is visible now
+2020-10-21 22:10:969 INFO  VerifyProductNameInAscendingOrder :30 - The tile of the page is: Home page
+2020-10-21 22:10:974 INFO  LoginPage :73 - user clicks on the account...
+2020-10-21 22:10:01 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-21 22:10:118 INFO  LoginPage :85 - user id entered..
+2020-10-21 22:10:213 INFO  LoginPage :91 - password entered..
+2020-10-21 22:10:290 INFO  LoginPage :97 - login button clicked..
+2020-10-21 22:10:04 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (d59e91d8de7218c1b9d9401cc4043746)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-21 22:10:35 INFO  WaitHelper :141 - element is visible now
+2020-10-21 22:10:117 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-10-21 22:10:80 INFO  ExtentListener :59 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Passed..
+2020-10-21 22:10:81 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-21 22:10:139 INFO  TestBase :93 - chrome browser closed..
+2020-10-21 22:10:958 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-21 23:10:943 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-21 23:10:381 INFO  TestBase :129 - Initialize Web driver: 1901238627
+2020-10-21 23:10:382 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-21 23:10:389 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-21 23:10:903 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-21 23:10:909 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-21 23:10:956 INFO  LoginTest :37 - The tile of the page is: Home page
+2020-10-21 23:10:966 INFO  LoginPage :73 - user clicks on the account...
+2020-10-21 23:10:16 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-21 23:10:158 INFO  LoginPage :85 - user id entered..
+2020-10-21 23:10:286 INFO  LoginPage :91 - password entered..
+2020-10-21 23:10:372 INFO  LoginPage :97 - login button clicked..
+2020-10-21 23:10:89 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (7e0914fb625c1c4101abdf75c164038f)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-21 23:10:167 INFO  WaitHelper :141 - element is visible now
+2020-10-21 23:10:168 INFO  ExtentListener :59 - testLoginToApplication Test Passed..
+2020-10-21 23:10:169 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-21 23:10:549 INFO  TestBase :93 - chrome browser closed..
+2020-10-21 23:10:296 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-21 23:10:297 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-21 23:10:521 INFO  TestBase :129 - Initialize Web driver: 583559449
+2020-10-21 23:10:522 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-21 23:10:525 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-21 23:10:24 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-21 23:10:26 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-21 23:10:53 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (0a7323ed19dff69ef1f6461f91c4f37e)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-21 23:10:84 INFO  WaitHelper :141 - element is visible now
+2020-10-21 23:10:85 INFO  LoginPage :73 - user clicks on the account...
+2020-10-21 23:10:120 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-21 23:10:263 INFO  LoginPage :85 - user id entered..
+2020-10-21 23:10:366 INFO  LoginPage :91 - password entered..
+2020-10-21 23:10:448 INFO  LoginPage :97 - login button clicked..
+2020-10-21 23:10:97 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (0a7323ed19dff69ef1f6461f91c4f37e)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-21 23:10:131 INFO  WaitHelper :141 - element is visible now
+2020-10-21 23:10:137 INFO  VerifyProductNameInAscendingOrder :41 - The tile of the page is: My Account
+2020-10-21 23:10:166 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-10-21 23:10:67 INFO  WaitHelper :39 - Implicit Wait has been set to: 5
+2020-10-21 23:10:72 INFO  ExtentListener :59 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Passed..
+2020-10-21 23:10:74 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-21 23:10:128 INFO  TestBase :93 - chrome browser closed..
+2020-10-21 23:10:803 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-22 00:10:697 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-22 00:10:96 INFO  TestBase :129 - Initialize Web driver: 1901238627
+2020-10-22 00:10:97 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-22 00:10:105 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-22 00:10:531 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-22 00:10:535 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-22 00:10:568 INFO  LoginTest :37 - The tile of the page is: Home page
+2020-10-22 00:10:573 INFO  LoginPage :73 - user clicks on the account...
+2020-10-22 00:10:607 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-22 00:10:762 INFO  LoginPage :85 - user id entered..
+2020-10-22 00:10:865 INFO  LoginPage :91 - password entered..
+2020-10-22 00:10:948 INFO  LoginPage :97 - login button clicked..
+2020-10-22 00:10:658 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (a51904e9e5cc1ad2958c3943fe38eab1)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-22 00:10:733 INFO  WaitHelper :141 - element is visible now
+2020-10-22 00:10:734 INFO  ExtentListener :59 - testLoginToApplication Test Passed..
+2020-10-22 00:10:735 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-22 00:10:74 INFO  TestBase :93 - chrome browser closed..
+2020-10-22 00:10:848 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-22 00:10:849 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-22 00:10:204 INFO  TestBase :129 - Initialize Web driver: 583559449
+2020-10-22 00:10:204 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-22 00:10:208 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-22 00:10:716 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-22 00:10:717 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-22 00:10:747 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (78d3a2484cf2acab4e08556635166b17)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-22 00:10:779 INFO  WaitHelper :141 - element is visible now
+2020-10-22 00:10:781 INFO  LoginPage :73 - user clicks on the account...
+2020-10-22 00:10:811 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-22 00:10:503 INFO  LoginPage :85 - user id entered..
+2020-10-22 00:10:599 INFO  LoginPage :91 - password entered..
+2020-10-22 00:10:682 INFO  LoginPage :97 - login button clicked..
+2020-10-22 00:10:357 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (78d3a2484cf2acab4e08556635166b17)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-22 00:10:389 INFO  WaitHelper :141 - element is visible now
+2020-10-22 00:10:396 INFO  VerifyProductNameInAscendingOrder :43 - The tile of the page is: My Account
+2020-10-22 00:10:455 INFO  VerificationHelper :28 - element is displayed WELCOME, DERYL ADLER!
+2020-10-22 00:10:501 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-10-22 00:10:428 INFO  WaitHelper :39 - Implicit Wait has been set to: 5
+2020-10-22 00:10:431 INFO  ExtentListener :59 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Passed..
+2020-10-22 00:10:432 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-22 00:10:499 INFO  TestBase :93 - chrome browser closed..
+2020-10-22 00:10:218 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-22 00:10:601 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-22 00:10:994 INFO  TestBase :129 - Initialize Web driver: 1901238627
+2020-10-22 00:10:995 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-22 00:10:03 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-22 00:10:500 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-22 00:10:505 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-22 00:10:539 INFO  LoginTest :38 - The tile of the page is: Home page
+2020-10-22 00:10:642 INFO  VerificationHelper :28 - DEFAULT WELCOME MSG!
+2020-10-22 00:10:661 INFO  LoginPage :73 - user clicks on the account...
+2020-10-22 00:10:697 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-22 00:10:727 INFO  LoginPage :85 - user id entered..
+2020-10-22 00:10:834 INFO  LoginPage :91 - password entered..
+2020-10-22 00:10:921 INFO  LoginPage :97 - login button clicked..
+2020-10-22 00:10:613 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (8bcb1e8003d38a87a3ce1f2eedff6516)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-22 00:10:676 INFO  WaitHelper :141 - element is visible now
+2020-10-22 00:10:677 INFO  ExtentListener :59 - testLoginToApplication Test Passed..
+2020-10-22 00:10:679 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-22 00:10:31 INFO  TestBase :93 - chrome browser closed..
+2020-10-22 00:10:774 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-22 00:10:776 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-22 00:10:917 INFO  TestBase :129 - Initialize Web driver: 1843743552
+2020-10-22 00:10:918 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-22 00:10:922 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-22 00:10:333 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-22 00:10:334 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-22 00:10:362 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (9ce9cf8b7b496400f033f401f8f2c4aa)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-22 00:10:395 INFO  WaitHelper :141 - element is visible now
+2020-10-22 00:10:397 INFO  LoginPage :73 - user clicks on the account...
+2020-10-22 00:10:426 INFO  LoginPage :79 - user clicks on the Log In link...
+2020-10-22 00:10:512 INFO  LoginPage :85 - user id entered..
+2020-10-22 00:10:610 INFO  LoginPage :91 - password entered..
+2020-10-22 00:10:690 INFO  LoginPage :97 - login button clicked..
+2020-10-22 00:10:386 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (9ce9cf8b7b496400f033f401f8f2c4aa)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-22 00:10:418 INFO  WaitHelper :141 - element is visible now
+2020-10-22 00:10:425 INFO  VerifyProductNameInAscendingOrder :43 - The tile of the page is: My Account
+2020-10-22 00:10:482 INFO  VerificationHelper :28 - WELCOME, DERYL ADLER!
+2020-10-22 00:10:524 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-10-22 00:10:433 INFO  WaitHelper :39 - Implicit Wait has been set to: 5
+2020-10-22 00:10:436 INFO  ExtentListener :59 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Passed..
+2020-10-22 00:10:437 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-22 00:10:498 INFO  TestBase :93 - chrome browser closed..
+2020-10-22 00:10:192 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-22 00:10:348 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-22 00:10:721 INFO  TestBase :129 - Initialize Web driver: 1901238627
+2020-10-22 00:10:722 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-22 00:10:728 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-22 00:10:140 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-22 00:10:148 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-22 00:10:178 ERROR ExtentListener :40 - testLoginToApplication Test Failed..java.lang.NullPointerException
+2020-10-22 00:10:593 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-22 00:10:958 INFO  TestBase :93 - chrome browser closed..
+2020-10-22 00:10:671 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-22 00:10:672 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-22 00:10:962 INFO  TestBase :129 - Initialize Web driver: 421191743
+2020-10-22 00:10:963 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-22 00:10:966 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-22 00:10:514 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-22 00:10:514 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-22 00:10:537 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (6d30b5440f609e6305816427a6802c8a)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-22 00:10:603 INFO  WaitHelper :141 - element is visible now
+2020-10-22 00:10:604 INFO  LoginPage :62 - user clicks on the account...
+2020-10-22 00:10:633 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-10-22 00:10:852 INFO  LoginPage :74 - user id entered..
+2020-10-22 00:10:950 INFO  LoginPage :80 - password entered..
+2020-10-22 00:10:32 INFO  LoginPage :86 - login button clicked..
+2020-10-22 00:10:744 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (6d30b5440f609e6305816427a6802c8a)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-22 00:10:780 INFO  WaitHelper :141 - element is visible now
+2020-10-22 00:10:785 INFO  VerifyProductNameInAscendingOrder :44 - The tile of the page is: My Account
+2020-10-22 00:10:838 INFO  VerificationHelper :28 - WELCOME, DERYL ADLER!
+2020-10-22 00:10:879 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-10-22 00:10:787 INFO  WaitHelper :39 - Implicit Wait has been set to: 5
+2020-10-22 00:10:800 INFO  ExtentListener :59 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Passed..
+2020-10-22 00:10:800 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-22 00:10:866 INFO  TestBase :93 - chrome browser closed..
+2020-10-22 00:10:536 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-22 00:10:775 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-22 00:10:64 INFO  TestBase :129 - Initialize Web driver: 1901238627
+2020-10-22 00:10:65 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-22 00:10:72 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-22 00:10:952 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-22 00:10:956 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-22 00:10:01 ERROR ExtentListener :40 - testLoginToApplication Test Failed..java.lang.NullPointerException
+2020-10-22 00:10:309 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-22 00:10:669 INFO  TestBase :93 - chrome browser closed..
+2020-10-22 00:10:404 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-22 00:10:406 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-22 00:10:656 INFO  TestBase :129 - Initialize Web driver: 421191743
+2020-10-22 00:10:656 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-22 00:10:660 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-22 00:10:64 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-22 00:10:65 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-22 00:10:85 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (d57785fc5d2ef97dfba056d6fa8dd05a)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-22 00:10:154 INFO  WaitHelper :141 - element is visible now
+2020-10-22 00:10:156 INFO  LoginPage :62 - user clicks on the account...
+2020-10-22 00:10:188 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-10-22 00:10:248 INFO  LoginPage :74 - user id entered..
+2020-10-22 00:10:346 INFO  LoginPage :80 - password entered..
+2020-10-22 00:10:428 INFO  LoginPage :86 - login button clicked..
+2020-10-22 00:10:88 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (d57785fc5d2ef97dfba056d6fa8dd05a)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-22 00:10:120 INFO  WaitHelper :141 - element is visible now
+2020-10-22 00:10:127 INFO  VerifyProductNameInAscendingOrder :44 - The tile of the page is: My Account
+2020-10-22 00:10:188 INFO  VerificationHelper :28 - WELCOME, DERYL ADLER!
+2020-10-22 00:10:234 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-10-22 00:10:163 INFO  WaitHelper :39 - Implicit Wait has been set to: 5
+2020-10-22 00:10:168 INFO  ExtentListener :59 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Passed..
+2020-10-22 00:10:172 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-22 00:10:235 INFO  TestBase :93 - chrome browser closed..
+2020-10-22 00:10:911 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-22 00:10:482 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-22 00:10:822 INFO  TestBase :129 - Initialize Web driver: 1901238627
+2020-10-22 00:10:823 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-22 00:10:830 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-22 00:10:699 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-22 00:10:704 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-22 00:10:737 INFO  LoginTest :37 - The tile of the page is: Home page
+2020-10-22 00:10:831 INFO  VerificationHelper :28 - DEFAULT WELCOME MSG!
+2020-10-22 00:10:853 INFO  LoginPage :62 - user clicks on the account...
+2020-10-22 00:10:885 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-10-22 00:10:923 INFO  LoginPage :74 - user id entered..
+2020-10-22 00:10:19 INFO  LoginPage :80 - password entered..
+2020-10-22 00:10:97 INFO  LoginPage :86 - login button clicked..
+2020-10-22 00:10:812 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (934af844ace12c4ce29559d326cd335f)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-22 00:10:882 INFO  WaitHelper :141 - element is visible now
+2020-10-22 00:10:883 INFO  ExtentListener :59 - testLoginToApplication Test Passed..
+2020-10-22 00:10:889 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-22 00:10:285 INFO  TestBase :93 - chrome browser closed..
+2020-10-22 00:10:05 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-22 00:10:06 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-22 00:10:262 INFO  TestBase :129 - Initialize Web driver: 1843743552
+2020-10-22 00:10:263 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-22 00:10:266 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-22 00:10:856 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-22 00:10:857 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-22 00:10:889 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (0e18ebf71956dfaf3d14c89c374058c5)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-22 00:10:921 INFO  WaitHelper :141 - element is visible now
+2020-10-22 00:10:922 INFO  LoginPage :62 - user clicks on the account...
+2020-10-22 00:10:953 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-10-22 00:10:123 INFO  LoginPage :74 - user id entered..
+2020-10-22 00:10:233 INFO  LoginPage :80 - password entered..
+2020-10-22 00:10:308 INFO  LoginPage :86 - login button clicked..
+2020-10-22 00:10:995 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (0e18ebf71956dfaf3d14c89c374058c5)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-22 00:10:26 INFO  WaitHelper :141 - element is visible now
+2020-10-22 00:10:32 INFO  VerifyProductNameInAscendingOrder :44 - The tile of the page is: My Account
+2020-10-22 00:10:86 INFO  VerificationHelper :28 - WELCOME, DERYL ADLER!
+2020-10-22 00:10:127 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-10-22 00:10:65 INFO  WaitHelper :39 - Implicit Wait has been set to: 5
+2020-10-22 00:10:70 INFO  ExtentListener :59 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Passed..
+2020-10-22 00:10:70 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-22 00:10:126 INFO  TestBase :93 - chrome browser closed..
+2020-10-22 00:10:800 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-22 00:10:531 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-22 00:10:879 INFO  TestBase :129 - Initialize Web driver: 1901238627
+2020-10-22 00:10:880 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-22 00:10:888 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-22 00:10:356 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-22 00:10:359 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-22 00:10:394 INFO  VerificationHelper :99 - The tile of the page is: Home page
+2020-10-22 00:10:482 INFO  VerificationHelper :28 - DEFAULT WELCOME MSG!
+2020-10-22 00:10:501 INFO  LoginPage :62 - user clicks on the account...
+2020-10-22 00:10:529 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-10-22 00:10:556 INFO  LoginPage :74 - user id entered..
+2020-10-22 00:10:658 INFO  LoginPage :80 - password entered..
+2020-10-22 00:10:739 INFO  LoginPage :86 - login button clicked..
+2020-10-22 00:10:437 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (aff94d5952bcf9afa5b49274b05454c9)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-22 00:10:505 INFO  WaitHelper :141 - element is visible now
+2020-10-22 00:10:506 INFO  ExtentListener :59 - testLoginToApplication Test Passed..
+2020-10-22 00:10:508 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-22 00:10:870 INFO  TestBase :93 - chrome browser closed..
+2020-10-22 00:10:606 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-22 00:10:607 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-22 00:10:746 INFO  TestBase :129 - Initialize Web driver: 1843743552
+2020-10-22 00:10:746 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-22 00:10:750 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-22 00:10:146 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-22 00:10:149 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-22 00:10:175 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (ed4513a07ba74ed79a2997394f6e2ff6)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-22 00:10:207 INFO  WaitHelper :141 - element is visible now
+2020-10-22 00:10:208 INFO  LoginPage :62 - user clicks on the account...
+2020-10-22 00:10:238 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-10-22 00:10:333 INFO  LoginPage :74 - user id entered..
+2020-10-22 00:10:433 INFO  LoginPage :80 - password entered..
+2020-10-22 00:10:513 INFO  LoginPage :86 - login button clicked..
+2020-10-22 00:10:174 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (ed4513a07ba74ed79a2997394f6e2ff6)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-22 00:10:206 INFO  WaitHelper :141 - element is visible now
+2020-10-22 00:10:213 INFO  VerifyProductNameInAscendingOrder :44 - The tile of the page is: My Account
+2020-10-22 00:10:275 INFO  VerificationHelper :28 - WELCOME, DERYL ADLER!
+2020-10-22 00:10:317 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-10-22 00:10:237 INFO  WaitHelper :39 - Implicit Wait has been set to: 5
+2020-10-22 00:10:240 INFO  ExtentListener :59 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Passed..
+2020-10-22 00:10:241 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-22 00:10:299 INFO  TestBase :93 - chrome browser closed..
+2020-10-22 00:10:974 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-22 00:10:333 INFO  ExtentListener :29 - LoginTest Class Started..
+2020-10-22 00:10:764 INFO  TestBase :129 - Initialize Web driver: 1901238627
+2020-10-22 00:10:765 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-22 00:10:773 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-22 00:10:326 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-22 00:10:331 INFO  ExtentListener :53 - testLoginToApplication Test Started..
+2020-10-22 00:10:369 INFO  VerificationHelper :99 - The tile of the page is: Home page
+2020-10-22 00:10:472 INFO  VerificationHelper :28 - DEFAULT WELCOME MSG!
+2020-10-22 00:10:495 INFO  LoginPage :62 - user clicks on the account...
+2020-10-22 00:10:526 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-10-22 00:10:522 INFO  LoginPage :74 - user id entered..
+2020-10-22 00:10:648 INFO  LoginPage :80 - password entered..
+2020-10-22 00:10:736 INFO  LoginPage :86 - login button clicked..
+2020-10-22 00:10:427 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (fa9168cddffe032f650abb123c38252a)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-22 00:10:489 INFO  WaitHelper :141 - element is visible now
+2020-10-22 00:10:491 INFO  ExtentListener :59 - testLoginToApplication Test Passed..
+2020-10-22 00:10:493 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-22 00:10:842 INFO  TestBase :93 - chrome browser closed..
+2020-10-22 00:10:577 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-10-22 00:10:579 INFO  ExtentListener :29 - VerifyProductNameInAscendingOrder Class Started..
+2020-10-22 00:10:875 INFO  TestBase :129 - Initialize Web driver: 1843743552
+2020-10-22 00:10:875 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-22 00:10:879 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-22 00:10:248 INFO  TestBase :68 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageStarted***************
+2020-10-22 00:10:248 INFO  ExtentListener :53 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Started..
+2020-10-22 00:10:277 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (d0a1a0fdd8fa028d14c60d35b4935df8)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-22 00:10:314 INFO  WaitHelper :141 - element is visible now
+2020-10-22 00:10:315 INFO  LoginPage :62 - user clicks on the account...
+2020-10-22 00:10:348 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-10-22 00:10:423 INFO  LoginPage :74 - user id entered..
+2020-10-22 00:10:520 INFO  LoginPage :80 - password entered..
+2020-10-22 00:10:604 INFO  LoginPage :86 - login button clicked..
+2020-10-22 00:10:323 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (d0a1a0fdd8fa028d14c60d35b4935df8)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-22 00:10:354 INFO  WaitHelper :141 - element is visible now
+2020-10-22 00:10:361 INFO  VerificationHelper :99 - The tile of the page is: My Account
+2020-10-22 00:10:423 INFO  VerificationHelper :28 - WELCOME, DERYL ADLER!
+2020-10-22 00:10:466 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-10-22 00:10:453 INFO  WaitHelper :39 - Implicit Wait has been set to: 5
+2020-10-22 00:10:456 INFO  ExtentListener :59 - verifyProductNameInAscendingOrder_InProductDeatilsPage Test Passed..
+2020-10-22 00:10:457 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
+2020-10-22 00:10:513 INFO  TestBase :93 - chrome browser closed..
+2020-10-22 00:10:177 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
