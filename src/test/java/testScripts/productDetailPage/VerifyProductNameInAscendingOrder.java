@@ -19,8 +19,7 @@ import com.guru99demo.testBase.TestBase;
 public class VerifyProductNameInAscendingOrder extends TestBase {
 
 	private final Logger log = LoggerHelper.getLogger(VerifyProductNameInAscendingOrder.class);
-	//public String homepageText="";
-	VerificationHelper verificationhelper;
+	
 	@BeforeClass
 	public void beforeClass() {
 		getApplicationUrl(ObjectReader.reader.getUrl());
