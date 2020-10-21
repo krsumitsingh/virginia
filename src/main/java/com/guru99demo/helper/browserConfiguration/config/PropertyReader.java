@@ -47,7 +47,7 @@ public class PropertyReader implements ConfigReader {
 	}
 
 	public String getUserName() {
-		return OR.getProperty("userId");
+		return OR.getProperty("emailId");
 	}
 
 	public String getPassword() {
