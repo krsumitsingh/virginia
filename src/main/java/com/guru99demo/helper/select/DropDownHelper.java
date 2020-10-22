@@ -9,6 +9,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 
 import com.guru99demo.helper.logger.LoggerHelper;
+import com.guru99demo.testBase.TestBase;
 
 public class DropDownHelper {
 	
@@ -34,7 +35,8 @@ public class DropDownHelper {
 	
 	public void selectUsingVisibleText(WebElement element, String visibleText){
 		Select select = new Select(element);
-		log.info("selectUsingVisibleText and visibleText is: "+visibleText);
+		log.info("visibleTextSelected is: "+visibleText);
+		TestBase.logExtentReport("visibleTextSelected is: "+visibleText);
 		select.selectByVisibleText(visibleText);
 	}
 	

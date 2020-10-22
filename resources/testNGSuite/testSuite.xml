@@ -5,6 +5,7 @@
         <!-- <listener class-name="com.guru99demo.helper.listener.RetryListener"></listener> -->
         <listener class-name="com.guru99demo.helper.listener.ExtentListener"></listener>
     </listeners>
+    
   <test name="LoginTest">
     <classes>
       <class name="testScripts.loginPage.LoginTest"></class>

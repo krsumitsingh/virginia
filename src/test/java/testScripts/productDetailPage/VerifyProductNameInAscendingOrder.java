@@ -1,11 +1,11 @@
 package testScripts.productDetailPage;
 
+import java.util.List;
 import java.util.concurrent.TimeUnit;
-
 import org.apache.log4j.Logger;
+import org.openqa.selenium.WebElement;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-
 import com.guru99demo.helper.assertions.AssertionHelper;
 import com.guru99demo.helper.assertions.VerificationHelper;
 import com.guru99demo.helper.browserConfiguration.config.ObjectReader;
@@ -19,6 +19,7 @@ import com.guru99demo.testBase.TestBase;
 public class VerifyProductNameInAscendingOrder extends TestBase {
 
 	private final Logger log = LoggerHelper.getLogger(VerifyProductNameInAscendingOrder.class);
+	boolean status;
 	
 	@BeforeClass
 	public void beforeClass() {
@@ -33,7 +34,7 @@ public class VerifyProductNameInAscendingOrder extends TestBase {
 		WaitHelper waitHelper = new WaitHelper(driver);
 		ProductCategoryPage productCategoryPage = new ProductCategoryPage(driver);
 		VerificationHelper verificationhelper = new VerificationHelper(driver);
-		
+		waitHelper.setImplicitWait(ObjectReader.reader.getImpliciteWait(),TimeUnit.SECONDS);
 
 		try {
 			login.loginToApplication(ObjectReader.reader.getUserName(), ObjectReader.reader.getPassword());
@@ -43,11 +44,14 @@ public class VerifyProductNameInAscendingOrder extends TestBase {
 			e.printStackTrace();
 		}
 		verificationhelper.getTitle();
-		boolean status=productCategoryPage.verifySuccessLoginMsg();
+		status=productCategoryPage.verifySuccessLoginMsg();
 		AssertionHelper.updateTestStatus(status);
 		
 		productCategoryPage = navigationMenu.clickOnMenu(navigationMenu.mobileMenu);
-		waitHelper.setImplicitWait(5,TimeUnit.SECONDS);
+		
+		productCategoryPage.sortFilter("Name");
+		List<WebElement> totalProducts=productCategoryPage.getTotalProducts();
+		productCategoryPage.verifyProductSortedByName(totalProducts);
 		
 
 	}
