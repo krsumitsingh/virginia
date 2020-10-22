@@ -23,20 +23,20 @@
       <![CDATA[verifyProductNameInAscendingOrder_InProductDeatilsPage Test Passed..]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="28841" started-at="2020-10-21T19:12:04Z" finished-at="2020-10-21T19:12:33Z">
+  <suite name="Suite" duration-ms="29563" started-at="2020-10-22T19:05:32Z" finished-at="2020-10-22T19:06:01Z">
     <groups>
     </groups>
-    <test name="LoginTest" duration-ms="14234" started-at="2020-10-21T19:12:04Z" finished-at="2020-10-21T19:12:18Z">
+    <test name="LoginTest" duration-ms="13990" started-at="2020-10-22T19:05:32Z" finished-at="2020-10-22T19:05:46Z">
       <class name="testScripts.loginPage.LoginTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testScripts.loginPage.LoginTest@2669b199]" name="beforeTest" is-config="true" duration-ms="6461" started-at="2020-10-22T00:42:04Z" finished-at="2020-10-22T00:42:10Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testScripts.loginPage.LoginTest@2669b199]" name="beforeTest" is-config="true" duration-ms="6435" started-at="2020-10-23T00:35:32Z" finished-at="2020-10-23T00:35:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testScripts.loginPage.LoginTest@2669b199]" name="beforeClass" is-config="true" duration-ms="3525" started-at="2020-10-22T00:42:10Z" finished-at="2020-10-22T00:42:14Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testScripts.loginPage.LoginTest@2669b199]" name="beforeClass" is-config="true" duration-ms="3355" started-at="2020-10-23T00:35:38Z" finished-at="2020-10-23T00:35:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testScripts.loginPage.LoginTest@2669b199]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-10-22T00:42:14Z" finished-at="2020-10-22T00:42:14Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testScripts.loginPage.LoginTest@2669b199]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-10-23T00:35:41Z" finished-at="2020-10-23T00:35:41Z">
           <params>
             <param index="0">
               <value>
@@ -47,14 +47,14 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="testLoginToApplication()[pri:0, instance:testScripts.loginPage.LoginTest@2669b199]" name="testLoginToApplication" duration-ms="3164" started-at="2020-10-22T00:42:14Z" description="login test with valid credentials" finished-at="2020-10-22T00:42:17Z">
+        <test-method status="PASS" signature="testLoginToApplication()[pri:0, instance:testScripts.loginPage.LoginTest@2669b199]" name="testLoginToApplication" duration-ms="3118" started-at="2020-10-23T00:35:41Z" description="login test with valid credentials" finished-at="2020-10-23T00:35:45Z">
           <reporter-output>
             <line>
               <![CDATA[testLoginToApplication Test Passed..]]>
             </line>
           </reporter-output>
         </test-method> <!-- testLoginToApplication -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testScripts.loginPage.LoginTest@2669b199]" name="afterMethod" is-config="true" duration-ms="348" started-at="2020-10-22T00:42:17Z" finished-at="2020-10-22T00:42:17Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testScripts.loginPage.LoginTest@2669b199]" name="afterMethod" is-config="true" duration-ms="334" started-at="2020-10-23T00:35:45Z" finished-at="2020-10-23T00:35:45Z">
           <params>
             <param index="0">
               <value>
@@ -65,27 +65,27 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:testScripts.loginPage.LoginTest@2669b199]" name="afterTest" is-config="true" duration-ms="723" started-at="2020-10-22T00:42:17Z" finished-at="2020-10-22T00:42:18Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testScripts.loginPage.LoginTest@2669b199]" name="afterTest" is-config="true" duration-ms="732" started-at="2020-10-23T00:35:45Z" finished-at="2020-10-23T00:35:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- testScripts.loginPage.LoginTest -->
     </test> <!-- LoginTest -->
-    <test name="VerifyProductNameInAscendingOrder" duration-ms="14594" started-at="2020-10-21T19:12:18Z" finished-at="2020-10-21T19:12:33Z">
+    <test name="VerifyProductNameInAscendingOrder" duration-ms="15559" started-at="2020-10-22T19:05:46Z" finished-at="2020-10-22T19:06:01Z">
       <class name="testScripts.productDetailPage.VerifyProductNameInAscendingOrder">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testScripts.productDetailPage.VerifyProductNameInAscendingOrder@5dfcfece]" name="beforeSuite" is-config="true" duration-ms="223" started-at="2020-10-22T00:42:04Z" finished-at="2020-10-22T00:42:04Z">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testScripts.productDetailPage.VerifyProductNameInAscendingOrder@5dfcfece]" name="beforeSuite" is-config="true" duration-ms="194" started-at="2020-10-23T00:35:31Z" finished-at="2020-10-23T00:35:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testScripts.productDetailPage.VerifyProductNameInAscendingOrder@5dfcfece]" name="beforeTest" is-config="true" duration-ms="5315" started-at="2020-10-22T00:42:18Z" finished-at="2020-10-22T00:42:23Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testScripts.productDetailPage.VerifyProductNameInAscendingOrder@5dfcfece]" name="beforeTest" is-config="true" duration-ms="5286" started-at="2020-10-23T00:35:46Z" finished-at="2020-10-23T00:35:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testScripts.productDetailPage.VerifyProductNameInAscendingOrder@5dfcfece]" name="beforeClass" is-config="true" duration-ms="3352" started-at="2020-10-22T00:42:23Z" finished-at="2020-10-22T00:42:27Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testScripts.productDetailPage.VerifyProductNameInAscendingOrder@5dfcfece]" name="beforeClass" is-config="true" duration-ms="3372" started-at="2020-10-23T00:35:51Z" finished-at="2020-10-23T00:35:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testScripts.productDetailPage.VerifyProductNameInAscendingOrder@5dfcfece]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-10-22T00:42:27Z" finished-at="2020-10-22T00:42:27Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testScripts.productDetailPage.VerifyProductNameInAscendingOrder@5dfcfece]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-10-23T00:35:54Z" finished-at="2020-10-23T00:35:54Z">
           <params>
             <param index="0">
               <value>
@@ -96,14 +96,14 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="verifyProductNameInAscendingOrder_InProductDeatilsPage()[pri:0, instance:testScripts.productDetailPage.VerifyProductNameInAscendingOrder@5dfcfece]" name="verifyProductNameInAscendingOrder_InProductDeatilsPage" duration-ms="5208" started-at="2020-10-22T00:42:27Z" finished-at="2020-10-22T00:42:32Z">
+        <test-method status="PASS" signature="verifyProductNameInAscendingOrder_InProductDeatilsPage()[pri:0, instance:testScripts.productDetailPage.VerifyProductNameInAscendingOrder@5dfcfece]" name="verifyProductNameInAscendingOrder_InProductDeatilsPage" duration-ms="6167" started-at="2020-10-23T00:35:54Z" finished-at="2020-10-23T00:36:00Z">
           <reporter-output>
             <line>
               <![CDATA[verifyProductNameInAscendingOrder_InProductDeatilsPage Test Passed..]]>
             </line>
           </reporter-output>
         </test-method> <!-- verifyProductNameInAscendingOrder_InProductDeatilsPage -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testScripts.productDetailPage.VerifyProductNameInAscendingOrder@5dfcfece]" name="afterMethod" is-config="true" duration-ms="56" started-at="2020-10-22T00:42:32Z" finished-at="2020-10-22T00:42:32Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testScripts.productDetailPage.VerifyProductNameInAscendingOrder@5dfcfece]" name="afterMethod" is-config="true" duration-ms="55" started-at="2020-10-23T00:36:00Z" finished-at="2020-10-23T00:36:01Z">
           <params>
             <param index="0">
               <value>
@@ -114,7 +114,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:testScripts.productDetailPage.VerifyProductNameInAscendingOrder@5dfcfece]" name="afterTest" is-config="true" duration-ms="659" started-at="2020-10-22T00:42:32Z" finished-at="2020-10-22T00:42:33Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testScripts.productDetailPage.VerifyProductNameInAscendingOrder@5dfcfece]" name="afterTest" is-config="true" duration-ms="676" started-at="2020-10-23T00:36:01Z" finished-at="2020-10-23T00:36:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
