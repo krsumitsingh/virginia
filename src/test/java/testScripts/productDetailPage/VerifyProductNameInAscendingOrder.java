@@ -20,7 +20,7 @@ public class VerifyProductNameInAscendingOrder extends TestBase {
 
 	private final Logger log = LoggerHelper.getLogger(VerifyProductNameInAscendingOrder.class);
 	boolean status;
-	
+
 	@BeforeClass
 	public void beforeClass() {
 		getApplicationUrl(ObjectReader.reader.getUrl());
@@ -34,25 +34,20 @@ public class VerifyProductNameInAscendingOrder extends TestBase {
 		WaitHelper waitHelper = new WaitHelper(driver);
 		ProductCategoryPage productCategoryPage = new ProductCategoryPage(driver);
 		VerificationHelper verificationhelper = new VerificationHelper(driver);
-		waitHelper.setImplicitWait(ObjectReader.reader.getImpliciteWait(),TimeUnit.SECONDS);
-
+		waitHelper.setImplicitWait(ObjectReader.reader.getImpliciteWait(), TimeUnit.SECONDS);
 		try {
 			login.loginToApplication(ObjectReader.reader.getUserName(), ObjectReader.reader.getPassword());
-
+			verificationhelper.getTitle();
+			status = productCategoryPage.verifySuccessLoginMsg();
+			AssertionHelper.updateTestStatus(status);
+			productCategoryPage = navigationMenu.clickOnMenu(navigationMenu.mobileMenu);
+			productCategoryPage.sortFilter("Name");
+			List<WebElement> totalProducts = productCategoryPage.getTotalProducts();
+			productCategoryPage.verifyProductSortedByName(totalProducts);			
 		} catch (Exception e) {
 			TestBase.logExtentReport("login page not visible...");
 			e.printStackTrace();
 		}
-		verificationhelper.getTitle();
-		status=productCategoryPage.verifySuccessLoginMsg();
-		AssertionHelper.updateTestStatus(status);
-		
-		productCategoryPage = navigationMenu.clickOnMenu(navigationMenu.mobileMenu);
-		
-		productCategoryPage.sortFilter("Name");
-		List<WebElement> totalProducts=productCategoryPage.getTotalProducts();
-		productCategoryPage.verifyProductSortedByName(totalProducts);
-		
 
 	}
 
