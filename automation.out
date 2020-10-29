@@ -4759,3 +4759,18 @@ Session ID: 334e10bd0b337314a7608d2ae8672a12
 2020-10-23 00:10:988 INFO  TestBase :86 - **************verifyProductNameInAscendingOrder_InProductDeatilsPageFinished***************
 2020-10-23 00:10:42 INFO  TestBase :93 - chrome browser closed..
 2020-10-23 00:10:723 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-10-29 22:10:599 INFO  TestBase :130 - Initialize Web driver: 1174248013
+2020-10-29 22:10:610 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-10-29 22:10:678 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-10-29 22:10:18 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-10-29 22:10:59 INFO  VerificationHelper :99 - The tile of the page is: Home page
+2020-10-29 22:10:207 INFO  VerificationHelper :28 - DEFAULT WELCOME MSG!
+2020-10-29 22:10:250 INFO  LoginPage :62 - user clicks on the account...
+2020-10-29 22:10:668 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-10-29 22:10:235 INFO  LoginPage :74 - user id entered..
+2020-10-29 22:10:926 INFO  LoginPage :80 - password entered..
+2020-10-29 22:10:08 INFO  LoginPage :86 - login button clicked..
+2020-10-29 22:10:478 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (c76a1a5bc1efd3ba20227a9e71c7271b)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-10-29 22:10:834 INFO  WaitHelper :141 - element is visible now
+2020-10-29 22:10:835 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-10-29 22:10:516 INFO  TestBase :93 - chrome browser closed..
