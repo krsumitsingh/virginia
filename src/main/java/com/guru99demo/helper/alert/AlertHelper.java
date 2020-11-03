@@ -2,7 +2,6 @@ package com.guru99demo.helper.alert;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.Alert;
-import org.openqa.selenium.By;
 import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -51,7 +50,6 @@ public class AlertHelper {
 	 */
 	public String getAlertText() {
 		String text = getAlert().getText();
-		// return getAlert().getText();
 		log.info("alert text is: " + text);
 		return text;
 	}
@@ -108,7 +106,7 @@ public class AlertHelper {
 		}
 	}
 
-	public void CloseAlertIfPresent(WebElement element1,WebElement element2){
+	public void closeAlertIfPresent(WebElement element1,WebElement element2){
 		if(element1.isDisplayed()){
 			log.info("Transparent inner alert present...");
 			element2.click();

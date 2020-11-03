@@ -11,7 +11,12 @@
   </test> <!-- LoginTest -->
   <test name="VerifyProductNameInAscendingOrder">
     <classes>
-      <class name="testScripts.productDetailPage.VerifyProductNameInAscendingOrder"/>
+      <class name="testScripts.productDetailPage.VerifyProductNameInSortedOrder"/>
     </classes>
   </test> <!-- VerifyProductNameInAscendingOrder -->
+  <test name="VerifyProductPriceInAscendingOrder">
+    <classes>
+      <class name="testScripts.productDetailPage.VerifyProductPriceInSortedOrder"/>
+    </classes>
+  </test> <!-- VerifyProductPriceInAscendingOrder -->
 </suite> <!-- Failed suite [Suite] -->

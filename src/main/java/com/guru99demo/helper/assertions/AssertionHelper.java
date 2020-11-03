@@ -7,6 +7,10 @@ import com.guru99demo.helper.logger.LoggerHelper;
 
 public class AssertionHelper {
 	
+	private AssertionHelper(){
+		
+	}
+	
 	private static Logger log = LoggerHelper.getLogger(AssertionHelper.class);
 
 	public static void verifyText(String s1, String s2){

@@ -38,7 +38,7 @@ public class LoginTest extends TestBase {
 			login.loginToApplication(ObjectReader.reader.getUserName(), ObjectReader.reader.getPassword());
 
 		} catch (Exception e) {
-			TestBase.logExtentReport("login page not visible...");
+			TestBase.logExtentReport("login page not visible...");	
 			e.printStackTrace();
 		}
 	}

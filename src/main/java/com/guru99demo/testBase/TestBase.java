@@ -92,7 +92,6 @@ public class TestBase {
 		if(driver!=null){
 			log.info("chrome browser closed..");
 			test.log(Status.INFO, "chrome browser closed..");
-			
 			driver.quit();
 		}
 	}

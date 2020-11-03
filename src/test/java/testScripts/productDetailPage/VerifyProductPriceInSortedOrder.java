@@ -3,7 +3,6 @@ package testScripts.productDetailPage;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 import org.apache.log4j.Logger;
-import org.openqa.selenium.WebElement;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import com.guru99demo.helper.assertions.AssertionHelper;
@@ -16,9 +15,9 @@ import com.guru99demo.pageObject.NavigationMenu;
 import com.guru99demo.pageObject.ProductCategoryPage;
 import com.guru99demo.testBase.TestBase;
 
-public class VerifyProductNameInAscendingOrder extends TestBase {
+public class VerifyProductPriceInSortedOrder extends TestBase {
 
-	private final Logger log = LoggerHelper.getLogger(VerifyProductNameInAscendingOrder.class);
+	private final Logger log = LoggerHelper.getLogger(VerifyProductPriceInSortedOrder.class);
 	boolean status;
 
 	@BeforeClass
@@ -27,7 +26,7 @@ public class VerifyProductNameInAscendingOrder extends TestBase {
 	}
 
 	@Test
-	public void verifyProductNameInAscendingOrder_InProductDeatilsPage() throws InterruptedException {
+	public void verifyProductPriceSortingInProductDeatilsPage()  {
 
 		LoginPage login = new LoginPage(driver);
 		NavigationMenu navigationMenu = new NavigationMenu(driver);
@@ -41,9 +40,11 @@ public class VerifyProductNameInAscendingOrder extends TestBase {
 			status = productCategoryPage.verifySuccessLoginMsg();
 			AssertionHelper.updateTestStatus(status);
 			productCategoryPage = navigationMenu.clickOnMenu(navigationMenu.mobileMenu);
-			productCategoryPage.sortFilter("Name");
-			List<WebElement> totalProducts = productCategoryPage.getTotalProducts();
-			productCategoryPage.verifyProductSortedByName(totalProducts);			
+			productCategoryPage.sortFilter("Price");
+			//List<WebElement> totalProducts = productCategoryPage.getTotalProducts();
+			List<Double>pricedata=productCategoryPage.getPriceData(productCategoryPage.productPrice);
+			status = productCategoryPage.verifyProductSortedByPrice(pricedata);
+			AssertionHelper.updateTestStatus(status);
 		} catch (Exception e) {
 			TestBase.logExtentReport("login page not visible...");
 			e.printStackTrace();

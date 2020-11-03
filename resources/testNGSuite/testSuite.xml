@@ -14,7 +14,13 @@
   
   <test name="VerifyProductNameInAscendingOrder">
     <classes>
-      <class name="testScripts.productDetailPage.VerifyProductNameInAscendingOrder"></class>
+      <class name="testScripts.productDetailPage.VerifyProductNameInSortedOrder"></class>
+    </classes>
+  </test> 
+  
+  <test name="VerifyProductPriceInAscendingOrder">
+    <classes>
+      <class name="testScripts.productDetailPage.VerifyProductPriceInSortedOrder"></class>
     </classes>
   </test> 
   
