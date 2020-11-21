@@ -6213,3 +6213,1268 @@ Session ID: 334e10bd0b337314a7608d2ae8672a12
 2020-11-03 01:11:886 INFO  TestBase :86 - **************verifyProductPriceSortingInProductDeatilsPageFinished***************
 2020-11-03 01:11:966 INFO  TestBase :93 - chrome browser closed..
 2020-11-03 01:11:820 INFO  ExtentListener :21 - VerifyProductPriceInAscendingOrder Test Finished..
+2020-11-03 22:11:594 INFO  ExtentListener :28 - LoginTest Class Started..
+2020-11-03 22:11:847 INFO  TestBase :129 - Initialize Web driver: 1753150176
+2020-11-03 22:11:849 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-03 22:11:931 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-03 22:11:606 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-11-03 22:11:607 INFO  ExtentListener :51 - testLoginToApplication Test Started..
+2020-11-03 22:11:647 INFO  VerificationHelper :99 - The tile of the page is: Home page
+2020-11-03 22:11:799 INFO  VerificationHelper :28 - DEFAULT WELCOME MSG!
+2020-11-03 22:11:822 INFO  LoginPage :62 - user clicks on the account...
+2020-11-03 22:11:860 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-03 22:11:516 INFO  LoginPage :74 - user id entered..
+2020-11-03 22:11:664 INFO  LoginPage :80 - password entered..
+2020-11-03 22:11:742 INFO  LoginPage :86 - login button clicked..
+2020-11-03 22:11:885 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (c7f33f9c192667f65f3a53735c096962)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-03 22:11:186 INFO  WaitHelper :141 - element is visible now
+2020-11-03 22:11:187 INFO  ExtentListener :57 - testLoginToApplication Test Passed..
+2020-11-03 22:11:189 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-11-03 22:11:402 INFO  TestBase :93 - chrome browser closed..
+2020-11-03 22:11:395 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-11-03 22:11:396 INFO  ExtentListener :28 - VerifyProductNameInAscendingOrder Class Started..
+2020-11-03 22:11:143 INFO  TestBase :129 - Initialize Web driver: 1374982240
+2020-11-03 22:11:144 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-03 22:11:147 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-03 22:11:778 INFO  TestBase :68 - **************verifyProductNameInSortedOrderInProductDeatilsPageStarted***************
+2020-11-03 22:11:779 INFO  ExtentListener :51 - verifyProductNameInSortedOrderInProductDeatilsPage Test Started..
+2020-11-03 22:11:805 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (06dc11ff21dd3b24864a118055fa59cf)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-03 22:11:838 INFO  WaitHelper :141 - element is visible now
+2020-11-03 22:11:845 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-03 22:11:857 INFO  LoginPage :62 - user clicks on the account...
+2020-11-03 22:11:892 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-03 22:11:403 INFO  LoginPage :74 - user id entered..
+2020-11-03 22:11:496 INFO  LoginPage :80 - password entered..
+2020-11-03 22:11:593 INFO  LoginPage :86 - login button clicked..
+2020-11-03 22:11:60 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (06dc11ff21dd3b24864a118055fa59cf)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-03 22:11:93 INFO  WaitHelper :141 - element is visible now
+2020-11-03 22:11:99 INFO  VerificationHelper :99 - The tile of the page is: My Account
+2020-11-03 22:11:194 INFO  VerificationHelper :28 - WELCOME, DERYL ADLER!
+2020-11-03 22:11:248 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-03 22:11:996 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-03 22:11:41 INFO  DropDownHelper :38 - visibleTextSelected is: Name
+2020-11-03 22:11:21 INFO  ProductCategoryPage :86 - products sorted on the basis of name..[IPhone, Samsung Galaxy, Sony Xperia]
+2020-11-03 22:11:21 INFO  ProductCategoryPage :69 - products sorted..
+2020-11-03 22:11:22 INFO  ExtentListener :57 - verifyProductNameInSortedOrderInProductDeatilsPage Test Passed..
+2020-11-03 22:11:22 INFO  TestBase :86 - **************verifyProductNameInSortedOrderInProductDeatilsPageFinished***************
+2020-11-03 22:11:93 INFO  TestBase :93 - chrome browser closed..
+2020-11-03 22:11:823 INFO  ExtentListener :21 - VerifyProductNameInAscendingOrder Test Finished..
+2020-11-03 22:11:823 INFO  ExtentListener :28 - VerifyProductPriceInAscendingOrder Class Started..
+2020-11-03 22:11:73 INFO  TestBase :129 - Initialize Web driver: 2041996211
+2020-11-03 22:11:73 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-03 22:11:77 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-03 22:11:560 INFO  TestBase :68 - **************verifyProductPriceSortingInProductDeatilsPageStarted***************
+2020-11-03 22:11:561 INFO  ExtentListener :51 - verifyProductPriceSortingInProductDeatilsPage Test Started..
+2020-11-03 22:11:577 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (26b97e9c8b5826584cd72cd8129f8e7e)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-03 22:11:613 INFO  WaitHelper :141 - element is visible now
+2020-11-03 22:11:614 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-03 22:11:618 INFO  LoginPage :62 - user clicks on the account...
+2020-11-03 22:11:646 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-03 22:11:138 INFO  LoginPage :74 - user id entered..
+2020-11-03 22:11:227 INFO  LoginPage :80 - password entered..
+2020-11-03 22:11:332 INFO  LoginPage :86 - login button clicked..
+2020-11-03 22:11:470 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (26b97e9c8b5826584cd72cd8129f8e7e)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-03 22:11:502 INFO  WaitHelper :141 - element is visible now
+2020-11-03 22:11:509 INFO  VerificationHelper :99 - The tile of the page is: My Account
+2020-11-03 22:11:596 INFO  VerificationHelper :28 - WELCOME, DERYL ADLER!
+2020-11-03 22:11:656 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-03 22:11:90 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-03 22:11:514 INFO  DropDownHelper :38 - visibleTextSelected is: Price
+2020-11-03 22:11:143 INFO  ProductCategoryPage :116 - products sorted on the basis of price..[100.0, 130.0, 500.0]
+2020-11-03 22:11:144 INFO  ProductCategoryPage :116 - products sorted on the basis of price..[100.0, 130.0, 500.0]
+2020-11-03 22:11:144 INFO  ExtentListener :57 - verifyProductPriceSortingInProductDeatilsPage Test Passed..
+2020-11-03 22:11:145 INFO  TestBase :86 - **************verifyProductPriceSortingInProductDeatilsPageFinished***************
+2020-11-03 22:11:207 INFO  TestBase :93 - chrome browser closed..
+2020-11-03 22:11:27 INFO  ExtentListener :21 - VerifyProductPriceInAscendingOrder Test Finished..
+2020-11-04 01:11:338 INFO  ExtentListener :28 - LoginTest Class Started..
+2020-11-04 01:11:885 INFO  TestBase :129 - Initialize Web driver: 148635643
+2020-11-04 01:11:886 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:893 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-04 01:11:307 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-11-04 01:11:312 INFO  ExtentListener :51 - testLoginToApplication Test Started..
+2020-11-04 01:11:351 INFO  VerificationHelper :99 - The tile of the page is: Home page
+2020-11-04 01:11:453 INFO  VerificationHelper :28 - DEFAULT WELCOME MSG!
+2020-11-04 01:11:475 INFO  LoginPage :62 - user clicks on the account...
+2020-11-04 01:11:516 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-04 01:11:767 INFO  LoginPage :74 - user id entered..
+2020-11-04 01:11:936 INFO  LoginPage :80 - password entered..
+2020-11-04 01:11:30 INFO  LoginPage :86 - login button clicked..
+2020-11-04 01:11:36 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (d9d0c7f4e523165b60ecc0651d3e43c5)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:120 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:122 INFO  ExtentListener :57 - testLoginToApplication Test Passed..
+2020-11-04 01:11:124 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-11-04 01:11:649 INFO  TestBase :93 - chrome browser closed..
+2020-11-04 01:11:536 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-11-04 01:11:538 INFO  ExtentListener :28 - verifyProductNameInSortedOrderInProductCategoryPage Class Started..
+2020-11-04 01:11:988 INFO  TestBase :129 - Initialize Web driver: 167013780
+2020-11-04 01:11:989 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:992 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-04 01:11:803 INFO  TestBase :68 - **************verifyProductNameInSortedOrderInProductCategoryPageStarted***************
+2020-11-04 01:11:804 INFO  ExtentListener :51 - verifyProductNameInSortedOrderInProductCategoryPage Test Started..
+2020-11-04 01:11:836 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (01bc23053c2a0c1115880b53ed01fe39)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:875 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:882 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:886 INFO  LoginPage :62 - user clicks on the account...
+2020-11-04 01:11:915 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-04 01:11:539 INFO  LoginPage :74 - user id entered..
+2020-11-04 01:11:671 INFO  LoginPage :80 - password entered..
+2020-11-04 01:11:753 INFO  LoginPage :86 - login button clicked..
+2020-11-04 01:11:869 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (01bc23053c2a0c1115880b53ed01fe39)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:935 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:962 INFO  VerificationHelper :99 - The tile of the page is: My Account
+2020-11-04 01:11:38 INFO  VerificationHelper :28 - WELCOME, DERYL ADLER!
+2020-11-04 01:11:90 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-04 01:11:988 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-04 01:11:46 INFO  DropDownHelper :38 - visibleTextSelected is: Name
+2020-11-04 01:11:905 INFO  ProductCategoryPage :87 - name sorting filter not working..
+2020-11-04 01:11:906 INFO  ExtentListener :57 - verifyProductNameInSortedOrderInProductCategoryPage Test Passed..
+2020-11-04 01:11:907 INFO  TestBase :86 - **************verifyProductNameInSortedOrderInProductCategoryPageFinished***************
+2020-11-04 01:11:981 INFO  TestBase :93 - chrome browser closed..
+2020-11-04 01:11:553 INFO  ExtentListener :21 - verifyProductNameInSortedOrderInProductCategoryPage Test Finished..
+2020-11-04 01:11:554 INFO  ExtentListener :28 - verifyProductPriceSortingInProductCategoryPage Class Started..
+2020-11-04 01:11:896 INFO  TestBase :129 - Initialize Web driver: 1677984391
+2020-11-04 01:11:896 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:899 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-04 01:11:668 INFO  TestBase :68 - **************verifyProductPriceSortingInProductCategoryPageStarted***************
+2020-11-04 01:11:669 INFO  ExtentListener :51 - verifyProductPriceSortingInProductCategoryPage Test Started..
+2020-11-04 01:11:695 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (b72f8f741073c086cf95e52bce39f21b)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:735 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:736 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:740 INFO  LoginPage :62 - user clicks on the account...
+2020-11-04 01:11:775 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-04 01:11:566 INFO  LoginPage :74 - user id entered..
+2020-11-04 01:11:675 INFO  LoginPage :80 - password entered..
+2020-11-04 01:11:751 INFO  LoginPage :86 - login button clicked..
+2020-11-04 01:11:796 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (b72f8f741073c086cf95e52bce39f21b)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:858 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:863 INFO  VerificationHelper :99 - The tile of the page is: My Account
+2020-11-04 01:11:939 INFO  VerificationHelper :28 - WELCOME, DERYL ADLER!
+2020-11-04 01:11:978 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-04 01:11:405 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-04 01:11:26 INFO  DropDownHelper :38 - visibleTextSelected is: Price
+2020-11-04 01:11:664 INFO  ExtentListener :57 - verifyProductPriceSortingInProductCategoryPage Test Passed..
+2020-11-04 01:11:665 INFO  TestBase :86 - **************verifyProductPriceSortingInProductCategoryPageFinished***************
+2020-11-04 01:11:756 INFO  TestBase :93 - chrome browser closed..
+2020-11-04 01:11:967 INFO  ExtentListener :21 - verifyProductPriceSortingInProductCategoryPage Test Finished..
+2020-11-04 01:11:968 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-04 01:11:209 INFO  TestBase :129 - Initialize Web driver: 369351727
+2020-11-04 01:11:209 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:212 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-04 01:11:866 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-04 01:11:867 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-04 01:11:890 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (f204c502f6e3378e5df6d2c4b4663951)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:929 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:960 INFO  WaitHelper :138 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Sony Xperia']' for :200 seconds
+2020-11-04 01:11:295 INFO  ExtentListener :28 - LoginTest Class Started..
+2020-11-04 01:11:865 INFO  TestBase :129 - Initialize Web driver: 148635643
+2020-11-04 01:11:866 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:876 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-04 01:11:761 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-11-04 01:11:768 INFO  ExtentListener :51 - testLoginToApplication Test Started..
+2020-11-04 01:11:14 INFO  VerificationHelper :99 - The tile of the page is: Home page
+2020-11-04 01:11:409 INFO  VerificationHelper :28 - DEFAULT WELCOME MSG!
+2020-11-04 01:11:428 INFO  LoginPage :62 - user clicks on the account...
+2020-11-04 01:11:454 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-04 01:11:24 INFO  LoginPage :74 - user id entered..
+2020-11-04 01:11:174 INFO  LoginPage :80 - password entered..
+2020-11-04 01:11:264 INFO  LoginPage :86 - login button clicked..
+2020-11-04 01:11:452 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (228634f76f4b4f091c04b6312f2bcb8d)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:549 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:551 INFO  ExtentListener :57 - testLoginToApplication Test Passed..
+2020-11-04 01:11:553 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-11-04 01:11:992 INFO  TestBase :93 - chrome browser closed..
+2020-11-04 01:11:175 ERROR ExtentListener :38 - verifyProductDeatilsPage Test Failed..org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=86.0.4240.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SUMIT', ip: '192.168.1.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\SUMITK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64696}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f204c502f6e3378e5df6d2c4b4663951
+*** Element info: {Using=xpath, value=//span[text()='Sony Xperia']}
+2020-11-04 01:11:206 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-04 01:11:942 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-11-04 01:11:944 INFO  ExtentListener :28 - verifyProductNameInSortedOrderInProductCategoryPage Class Started..
+2020-11-04 01:11:346 INFO  TestBase :129 - Initialize Web driver: 167013780
+2020-11-04 01:11:346 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:350 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-04 01:11:499 INFO  ExtentListener :51 - verifyProductNameInSortedOrderInProductCategoryPage Test Started..
+2020-11-04 01:11:500 WARN  ExtentListener :45 - verifyProductNameInSortedOrderInProductCategoryPage Test Skipped..null
+2020-11-04 01:11:519 INFO  ExtentListener :21 - verifyProductNameInSortedOrderInProductCategoryPage Test Finished..
+2020-11-04 01:11:523 INFO  ExtentListener :28 - verifyProductPriceSortingInProductCategoryPage Class Started..
+2020-11-04 01:11:920 INFO  TestBase :129 - Initialize Web driver: 248487859
+2020-11-04 01:11:920 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:924 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-04 01:11:912 INFO  TestBase :68 - **************verifyProductPriceSortingInProductCategoryPageStarted***************
+2020-11-04 01:11:913 INFO  ExtentListener :51 - verifyProductPriceSortingInProductCategoryPage Test Started..
+2020-11-04 01:11:165 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (7ace992db24cd18353339667f7151e0f)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:586 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:593 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:598 INFO  LoginPage :62 - user clicks on the account...
+2020-11-04 01:11:640 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-04 01:11:311 INFO  LoginPage :74 - user id entered..
+2020-11-04 01:11:449 INFO  LoginPage :80 - password entered..
+2020-11-04 01:11:545 INFO  LoginPage :86 - login button clicked..
+2020-11-04 01:11:600 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (7ace992db24cd18353339667f7151e0f)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:668 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:675 INFO  VerificationHelper :99 - The tile of the page is: My Account
+2020-11-04 01:11:781 INFO  VerificationHelper :28 - WELCOME, DERYL ADLER!
+2020-11-04 01:11:830 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-04 01:11:441 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-04 01:11:507 INFO  DropDownHelper :38 - visibleTextSelected is: Price
+2020-11-04 01:11:688 INFO  ProductCategoryPage :131 - products sorted on the basis of price..[100.0, 130.0, 500.0]
+2020-11-04 01:11:688 INFO  ProductCategoryPage :131 - products sorted on the basis of price..[100.0, 130.0, 500.0]
+2020-11-04 01:11:689 INFO  ExtentListener :57 - verifyProductPriceSortingInProductCategoryPage Test Passed..
+2020-11-04 01:11:689 INFO  TestBase :86 - **************verifyProductPriceSortingInProductCategoryPageFinished***************
+2020-11-04 01:11:746 INFO  TestBase :93 - chrome browser closed..
+2020-11-04 01:11:425 INFO  ExtentListener :21 - verifyProductPriceSortingInProductCategoryPage Test Finished..
+2020-11-04 01:11:426 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-04 01:11:883 INFO  TestBase :129 - Initialize Web driver: 56510351
+2020-11-04 01:11:883 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:886 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-04 01:11:443 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-04 01:11:444 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-04 01:11:475 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (68c0dd7844093a733d406dd5fa5515ee)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:505 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:167 INFO  WaitHelper :138 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Sony Xperia']' for :200 seconds
+2020-11-04 01:11:15 INFO  ExtentListener :28 - LoginTest Class Started..
+2020-11-04 01:11:401 INFO  TestBase :129 - Initialize Web driver: 148635643
+2020-11-04 01:11:402 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:410 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-04 01:11:967 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-11-04 01:11:975 INFO  ExtentListener :51 - testLoginToApplication Test Started..
+2020-11-04 01:11:15 INFO  VerificationHelper :99 - The tile of the page is: Home page
+2020-11-04 01:11:164 INFO  VerificationHelper :28 - DEFAULT WELCOME MSG!
+2020-11-04 01:11:309 INFO  LoginPage :62 - user clicks on the account...
+2020-11-04 01:11:852 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-04 01:11:684 INFO  LoginPage :74 - user id entered..
+2020-11-04 01:11:913 INFO  LoginPage :80 - password entered..
+2020-11-04 01:11:255 INFO  LoginPage :86 - login button clicked..
+2020-11-04 01:11:421 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (908d61ece69383e2b383663f2bc5157c)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:528 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:530 INFO  ExtentListener :57 - testLoginToApplication Test Passed..
+2020-11-04 01:11:533 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-11-04 01:11:150 INFO  TestBase :93 - chrome browser closed..
+2020-11-04 01:11:995 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-11-04 01:11:01 INFO  ExtentListener :28 - verifyProductNameInSortedOrderInProductCategoryPage Class Started..
+2020-11-04 01:11:713 INFO  TestBase :129 - Initialize Web driver: 167013780
+2020-11-04 01:11:714 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:724 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-04 01:11:862 INFO  TestBase :68 - **************verifyProductNameInSortedOrderInProductCategoryPageStarted***************
+2020-11-04 01:11:863 INFO  ExtentListener :51 - verifyProductNameInSortedOrderInProductCategoryPage Test Started..
+2020-11-04 01:11:264 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (4f12bc5953b8e8d562d9c1a36d96e9a3)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:307 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:317 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:332 INFO  LoginPage :62 - user clicks on the account...
+2020-11-04 01:11:384 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-04 01:11:969 INFO  LoginPage :74 - user id entered..
+2020-11-04 01:11:491 INFO  LoginPage :80 - password entered..
+2020-11-04 01:11:582 INFO  LoginPage :86 - login button clicked..
+2020-11-04 01:11:708 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (4f12bc5953b8e8d562d9c1a36d96e9a3)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:762 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:769 INFO  VerificationHelper :99 - The tile of the page is: My Account
+2020-11-04 01:11:859 INFO  VerificationHelper :28 - WELCOME, DERYL ADLER!
+2020-11-04 01:11:906 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-04 01:11:864 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-04 01:11:910 INFO  DropDownHelper :38 - visibleTextSelected is: Name
+2020-11-04 01:11:609 INFO  ProductCategoryPage :101 - products sorted on the basis of name..[IPhone, Samsung Galaxy, Sony Xperia]
+2020-11-04 01:11:610 INFO  ProductCategoryPage :84 - products sorted..
+2020-11-04 01:11:611 INFO  ExtentListener :57 - verifyProductNameInSortedOrderInProductCategoryPage Test Passed..
+2020-11-04 01:11:612 INFO  TestBase :86 - **************verifyProductNameInSortedOrderInProductCategoryPageFinished***************
+2020-11-04 01:11:671 INFO  TestBase :93 - chrome browser closed..
+2020-11-04 01:11:432 INFO  ExtentListener :21 - verifyProductNameInSortedOrderInProductCategoryPage Test Finished..
+2020-11-04 01:11:435 INFO  ExtentListener :28 - verifyProductPriceSortingInProductCategoryPage Class Started..
+2020-11-04 01:11:34 INFO  TestBase :129 - Initialize Web driver: 1677984391
+2020-11-04 01:11:35 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:41 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-04 01:11:502 INFO  TestBase :68 - **************verifyProductPriceSortingInProductCategoryPageStarted***************
+2020-11-04 01:11:503 INFO  ExtentListener :51 - verifyProductPriceSortingInProductCategoryPage Test Started..
+2020-11-04 01:11:525 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (fbe7209c34c7cf4dd6a1c448ec51f197)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:563 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:564 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:567 INFO  LoginPage :62 - user clicks on the account...
+2020-11-04 01:11:603 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-04 01:11:298 INFO  LoginPage :74 - user id entered..
+2020-11-04 01:11:428 INFO  LoginPage :80 - password entered..
+2020-11-04 01:11:526 INFO  LoginPage :86 - login button clicked..
+2020-11-04 01:11:593 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (fbe7209c34c7cf4dd6a1c448ec51f197)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:624 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:629 INFO  VerificationHelper :99 - The tile of the page is: My Account
+2020-11-04 01:11:705 INFO  VerificationHelper :28 - WELCOME, DERYL ADLER!
+2020-11-04 01:11:743 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-04 01:11:269 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-04 01:11:607 INFO  DropDownHelper :38 - visibleTextSelected is: Price
+2020-11-04 01:11:757 INFO  ProductCategoryPage :131 - products sorted on the basis of price..[100.0, 130.0, 500.0]
+2020-11-04 01:11:759 INFO  ProductCategoryPage :131 - products sorted on the basis of price..[100.0, 130.0, 500.0]
+2020-11-04 01:11:760 INFO  ExtentListener :57 - verifyProductPriceSortingInProductCategoryPage Test Passed..
+2020-11-04 01:11:761 INFO  TestBase :86 - **************verifyProductPriceSortingInProductCategoryPageFinished***************
+2020-11-04 01:11:838 INFO  TestBase :93 - chrome browser closed..
+2020-11-04 01:11:625 INFO  ExtentListener :21 - verifyProductPriceSortingInProductCategoryPage Test Finished..
+2020-11-04 01:11:627 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-04 01:11:219 INFO  TestBase :129 - Initialize Web driver: 1386020581
+2020-11-04 01:11:221 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:227 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-04 01:11:66 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-04 01:11:68 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-04 01:11:83 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (b9953069f578035e40a22089075db9a1)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:112 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:218 INFO  WaitHelper :138 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Sony Xperia']' for :200 seconds
+2020-11-04 01:11:822 ERROR ExtentListener :38 - verifyProductDeatilsPage Test Failed..org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Sony Xperia']' (tried for 200 second(s) with 500 milliseconds interval)
+2020-11-04 01:11:738 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-11-04 01:11:787 INFO  TestBase :93 - chrome browser closed..
+2020-11-04 01:11:685 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-04 01:11:811 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-04 01:11:627 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-04 01:11:629 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:641 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-04 01:11:305 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-04 01:11:318 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-04 01:11:371 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (ebdb73837fca9a5316895f1e14934532)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:434 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:441 INFO  LoginPage :62 - user clicks on the account...
+2020-11-04 01:11:474 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-04 01:11:141 INFO  LoginPage :74 - user id entered..
+2020-11-04 01:11:296 INFO  LoginPage :80 - password entered..
+2020-11-04 01:11:372 INFO  LoginPage :86 - login button clicked..
+2020-11-04 01:11:418 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (ebdb73837fca9a5316895f1e14934532)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:565 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:575 INFO  VerificationHelper :99 - The tile of the page is: My Account
+2020-11-04 01:11:670 INFO  VerificationHelper :28 - WELCOME, DERYL ADLER!
+2020-11-04 01:11:742 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-04 01:11:649 INFO  VerificationHelper :28 - $100.00
+2020-11-04 01:11:722 INFO  VerifyProductDetailPage :46 - expected price--->$100.00
+2020-11-04 01:11:792 INFO  VerificationHelper :28 - $100.00
+2020-11-04 01:11:850 INFO  ProductCategoryPage :153 - clickin on : 
+2020-11-04 01:11:872 INFO  VerificationHelper :99 - The tile of the page is: Mobile
+2020-11-04 01:11:882 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-11-04 01:11:883 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-11-04 01:11:527 INFO  TestBase :93 - chrome browser closed..
+2020-11-04 01:11:321 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-04 01:11:574 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-04 01:11:247 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-04 01:11:248 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:255 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-04 01:11:350 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-04 01:11:357 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-04 01:11:221 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (5557c00fe558013798b4afb500f573bf)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:351 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:360 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:367 INFO  LoginPage :62 - user clicks on the account...
+2020-11-04 01:11:436 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-04 01:11:181 INFO  LoginPage :74 - user id entered..
+2020-11-04 01:11:428 INFO  LoginPage :80 - password entered..
+2020-11-04 01:11:518 INFO  LoginPage :86 - login button clicked..
+2020-11-04 01:11:583 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (5557c00fe558013798b4afb500f573bf)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:643 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:650 INFO  VerificationHelper :99 - The tile of the page is: My Account
+2020-11-04 01:11:714 INFO  VerificationHelper :28 - WELCOME, DERYL ADLER!
+2020-11-04 01:11:760 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-04 01:11:473 INFO  VerificationHelper :28 - $100.00
+2020-11-04 01:11:511 INFO  VerifyProductDetailPage :50 - expected price--->$100.00
+2020-11-04 01:11:559 INFO  VerificationHelper :28 - $100.00
+2020-11-04 01:11:599 INFO  ProductCategoryPage :153 - clickin on : 
+2020-11-04 01:11:649 INFO  VerificationHelper :99 - The tile of the page is: Mobile
+2020-11-04 01:11:662 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-11-04 01:11:669 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-11-04 01:11:88 INFO  TestBase :93 - chrome browser closed..
+2020-11-04 01:11:914 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-04 01:11:559 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-04 01:11:247 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-04 01:11:249 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:261 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-04 01:11:342 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-04 01:11:347 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-04 01:11:497 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (61d2316d1e9850927e7e767f0a03133d)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:366 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:375 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:384 INFO  LoginPage :62 - user clicks on the account...
+2020-11-04 01:11:467 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-04 01:11:37 INFO  LoginPage :74 - user id entered..
+2020-11-04 01:11:227 INFO  LoginPage :80 - password entered..
+2020-11-04 01:11:390 INFO  LoginPage :86 - login button clicked..
+2020-11-04 01:11:667 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (61d2316d1e9850927e7e767f0a03133d)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:728 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:733 INFO  VerificationHelper :99 - The tile of the page is: My Account
+2020-11-04 01:11:816 INFO  VerificationHelper :28 - WELCOME, DERYL ADLER!
+2020-11-04 01:11:859 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-04 01:11:375 INFO  VerificationHelper :28 - $100.00
+2020-11-04 01:11:424 INFO  VerifyProductDetailPage :50 - expected price--->$100.00
+2020-11-04 01:11:470 INFO  VerificationHelper :99 - The tile of the page is: Mobile
+2020-11-04 01:11:498 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-11-04 01:11:500 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-11-04 01:11:07 INFO  TestBase :93 - chrome browser closed..
+2020-11-04 01:11:836 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-04 01:11:363 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-04 01:11:282 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-04 01:11:284 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:296 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-04 01:11:713 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-04 01:11:718 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-04 01:11:794 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (8c74a82869dd81d169fed970b3a30def)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:307 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:320 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:328 INFO  LoginPage :62 - user clicks on the account...
+2020-11-04 01:11:364 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-04 01:11:874 INFO  LoginPage :74 - user id entered..
+2020-11-04 01:11:206 INFO  LoginPage :80 - password entered..
+2020-11-04 01:11:299 INFO  LoginPage :86 - login button clicked..
+2020-11-04 01:11:344 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (8c74a82869dd81d169fed970b3a30def)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:415 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:425 INFO  VerificationHelper :99 - The tile of the page is: My Account
+2020-11-04 01:11:518 INFO  VerificationHelper :28 - WELCOME, DERYL ADLER!
+2020-11-04 01:11:574 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-04 01:11:663 INFO  VerificationHelper :28 - $100.00
+2020-11-04 01:11:699 INFO  VerifyProductDetailPage :50 - expected price--->$100.00
+2020-11-04 01:11:783 INFO  VerificationHelper :99 - The tile of the page is: Mobile
+2020-11-04 01:11:812 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-11-04 01:11:815 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-11-04 01:11:270 INFO  TestBase :93 - chrome browser closed..
+2020-11-04 01:11:108 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-04 01:11:916 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-04 01:11:796 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-04 01:11:797 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:803 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-04 01:11:298 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-04 01:11:307 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-04 01:11:379 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (b9205bcee0b713878829ffc0fee99d2a)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:893 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:902 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-04 01:11:912 INFO  LoginPage :62 - user clicks on the account...
+2020-11-04 01:11:969 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-04 01:11:807 INFO  LoginPage :74 - user id entered..
+2020-11-04 01:11:967 INFO  LoginPage :80 - password entered..
+2020-11-04 01:11:81 INFO  LoginPage :86 - login button clicked..
+2020-11-04 01:11:253 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (b9205bcee0b713878829ffc0fee99d2a)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-04 01:11:350 INFO  WaitHelper :141 - element is visible now
+2020-11-04 01:11:357 INFO  VerificationHelper :99 - The tile of the page is: My Account
+2020-11-04 01:11:443 INFO  VerificationHelper :28 - WELCOME, DERYL ADLER!
+2020-11-04 01:11:491 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-04 01:11:567 INFO  VerificationHelper :28 - $100.00
+2020-11-04 01:11:625 INFO  VerifyProductDetailPage :50 - expected price--->$100.00
+2020-11-04 01:11:724 INFO  VerificationHelper :28 - 
+2020-11-04 01:11:789 INFO  ProductCategoryPage :153 - clickin on : Xperia
+2020-11-04 01:11:06 INFO  VerificationHelper :99 - The tile of the page is: Sony Xperia - Mobile
+2020-11-04 01:11:25 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-11-04 01:11:30 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-11-04 01:11:473 INFO  TestBase :93 - chrome browser closed..
+2020-11-04 01:11:257 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-05 22:11:315 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-05 22:11:799 INFO  TestBase :129 - Initialize Web driver: 1789110533
+2020-11-05 22:11:801 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 22:11:816 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-05 22:11:328 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-05 22:11:333 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-05 22:11:387 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (0b7819099204badbf9af072a771f5e5c)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 22:11:460 INFO  WaitHelper :141 - element is visible now
+2020-11-05 22:11:469 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 22:11:474 INFO  LoginPage :62 - user clicks on the account...
+2020-11-05 22:11:504 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-05 22:11:207 INFO  LoginPage :74 - user id entered..
+2020-11-05 22:11:360 INFO  LoginPage :80 - password entered..
+2020-11-05 22:11:440 INFO  LoginPage :86 - login button clicked..
+2020-11-05 22:11:456 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (0b7819099204badbf9af072a771f5e5c)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 22:11:502 INFO  WaitHelper :141 - element is visible now
+2020-11-05 22:11:527 INFO  VerificationHelper :99 - The tile of the page is: My Account
+2020-11-05 22:11:585 INFO  VerificationHelper :28 - WELCOME, DERYL ADLER!
+2020-11-05 22:11:641 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-05 22:11:817 INFO  VerificationHelper :28 - $100.00
+2020-11-05 22:11:863 INFO  VerifyProductDetailPage :50 - expected price--->$100.00
+2020-11-05 22:11:61 INFO  VerificationHelper :28 - 
+2020-11-05 22:11:104 INFO  ProductCategoryPage :153 - clickin on : Xperia
+2020-11-05 22:11:140 INFO  VerificationHelper :99 - The tile of the page is: Sony Xperia - Mobile
+2020-11-05 22:11:151 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-11-05 22:11:152 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-11-05 22:11:567 INFO  TestBase :93 - chrome browser closed..
+2020-11-05 22:11:382 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-05 22:11:294 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-05 22:11:652 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-05 22:11:654 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 22:11:661 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-05 22:11:127 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-05 22:11:131 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-05 22:11:180 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (124e098ae71e5b1cfd244c0797c711ac)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 22:11:247 INFO  WaitHelper :141 - element is visible now
+2020-11-05 22:11:252 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 22:11:257 INFO  LoginPage :62 - user clicks on the account...
+2020-11-05 22:11:284 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-05 22:11:825 INFO  LoginPage :74 - user id entered..
+2020-11-05 22:11:958 INFO  LoginPage :80 - password entered..
+2020-11-05 22:11:32 INFO  LoginPage :86 - login button clicked..
+2020-11-05 22:11:71 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (124e098ae71e5b1cfd244c0797c711ac)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 22:11:122 INFO  WaitHelper :141 - element is visible now
+2020-11-05 22:11:130 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-05 22:11:227 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-05 22:11:397 INFO  VerificationHelper :68 - $100.00
+2020-11-05 22:11:448 INFO  VerifyProductDetailPage :50 - expected price--->$100.00
+2020-11-05 22:11:641 INFO  ProductCategoryPage :153 - clickin on : Xperia
+2020-11-05 22:11:678 INFO  VerificationHelper :101 - The tile of the page is: Sony Xperia - Mobile
+2020-11-05 22:11:689 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-11-05 22:11:690 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-11-05 22:11:45 INFO  TestBase :93 - chrome browser closed..
+2020-11-05 22:11:867 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-05 23:11:316 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-05 23:11:600 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-05 23:11:601 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:609 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-05 23:11:43 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-05 23:11:49 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-05 23:11:112 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (7c7ca870596f4d17009469d9ef544158)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:197 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:206 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:212 INFO  LoginPage :62 - user clicks on the account...
+2020-11-05 23:11:244 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-05 23:11:931 INFO  LoginPage :74 - user id entered..
+2020-11-05 23:11:93 INFO  LoginPage :80 - password entered..
+2020-11-05 23:11:190 INFO  LoginPage :86 - login button clicked..
+2020-11-05 23:11:554 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (7c7ca870596f4d17009469d9ef544158)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:618 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:637 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-05 23:11:725 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-05 23:11:676 INFO  VerificationHelper :68 - $100.00
+2020-11-05 23:11:792 INFO  ProductCategoryPage :150 - clickin on : Xperia
+2020-11-05 23:11:248 INFO  VerificationHelper :101 - The tile of the page is: Sony Xperia - Mobile
+2020-11-05 23:11:312 INFO  VerificationHelper :68 - $100.00
+2020-11-05 23:11:350 INFO  VerifyProductDetailPage :52 - AP IS..$100.00
+2020-11-05 23:11:351 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-11-05 23:11:353 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-11-05 23:11:716 INFO  TestBase :93 - chrome browser closed..
+2020-11-05 23:11:498 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-05 23:11:340 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-05 23:11:72 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-05 23:11:73 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:85 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-05 23:11:831 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-05 23:11:838 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-05 23:11:907 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (81365d96c9432f1304e45d0d9a9a0ade)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:980 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:988 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:993 INFO  LoginPage :62 - user clicks on the account...
+2020-11-05 23:11:26 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-05 23:11:742 INFO  LoginPage :74 - user id entered..
+2020-11-05 23:11:901 INFO  LoginPage :80 - password entered..
+2020-11-05 23:11:650 INFO  LoginPage :86 - login button clicked..
+2020-11-05 23:11:914 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (81365d96c9432f1304e45d0d9a9a0ade)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:955 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:967 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-05 23:11:209 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-05 23:11:103 INFO  VerificationHelper :68 - $100.00
+2020-11-05 23:11:226 INFO  ProductCategoryPage :150 - clickin on : Xperia
+2020-11-05 23:11:669 INFO  VerificationHelper :101 - The tile of the page is: Sony Xperia - Mobile
+2020-11-05 23:11:734 INFO  VerificationHelper :68 - $100.00
+2020-11-05 23:11:775 INFO  AssertionHelper :23 - verify text with $100.00 and $100.00
+2020-11-05 23:11:777 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-11-05 23:11:778 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-11-05 23:11:156 INFO  TestBase :93 - chrome browser closed..
+2020-11-05 23:11:927 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-05 23:11:865 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-05 23:11:486 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-05 23:11:487 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:495 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-05 23:11:958 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-05 23:11:965 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-05 23:11:16 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (06afc1093fb888b9743f64a821bd0a8d)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:98 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:108 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:114 INFO  LoginPage :62 - user clicks on the account...
+2020-11-05 23:11:145 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-05 23:11:719 INFO  LoginPage :74 - user id entered..
+2020-11-05 23:11:822 INFO  LoginPage :80 - password entered..
+2020-11-05 23:11:930 INFO  LoginPage :86 - login button clicked..
+2020-11-05 23:11:15 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (06afc1093fb888b9743f64a821bd0a8d)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:115 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:123 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-05 23:11:199 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-05 23:11:181 INFO  VerificationHelper :68 - $100.00
+2020-11-05 23:11:374 INFO  ProductCategoryPage :150 - clickin on : Xperia
+2020-11-05 23:11:408 INFO  VerificationHelper :101 - The tile of the page is: Sony Xperia - Mobile
+2020-11-05 23:11:474 INFO  VerificationHelper :68 - $100.00
+2020-11-05 23:11:510 INFO  AssertionHelper :23 - verify text with $100.00 and $100.00
+2020-11-05 23:11:511 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-11-05 23:11:513 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-11-05 23:11:968 INFO  TestBase :93 - chrome browser closed..
+2020-11-05 23:11:20 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-05 23:11:567 INFO  ExtentListener :28 - LoginTest Class Started..
+2020-11-05 23:11:54 INFO  TestBase :129 - Initialize Web driver: 148635643
+2020-11-05 23:11:56 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:65 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-05 23:11:536 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-11-05 23:11:542 INFO  ExtentListener :51 - testLoginToApplication Test Started..
+2020-11-05 23:11:595 INFO  VerificationHelper :101 - The tile of the page is: Home page
+2020-11-05 23:11:681 INFO  LoginPage :62 - user clicks on the account...
+2020-11-05 23:11:714 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-05 23:11:225 INFO  LoginPage :74 - user id entered..
+2020-11-05 23:11:338 INFO  LoginPage :80 - password entered..
+2020-11-05 23:11:445 INFO  LoginPage :86 - login button clicked..
+2020-11-05 23:11:461 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (4d83bb8d596c51c77188f1f038d85315)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:586 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:588 INFO  ExtentListener :57 - testLoginToApplication Test Passed..
+2020-11-05 23:11:589 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-11-05 23:11:75 INFO  TestBase :93 - chrome browser closed..
+2020-11-05 23:11:829 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-11-05 23:11:831 INFO  ExtentListener :28 - verifyProductNameInSortedOrderInProductCategoryPage Class Started..
+2020-11-05 23:11:410 INFO  TestBase :129 - Initialize Web driver: 932885627
+2020-11-05 23:11:411 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:415 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-05 23:11:819 INFO  TestBase :68 - **************verifyProductNameInSortedOrderInProductCategoryPageStarted***************
+2020-11-05 23:11:820 INFO  ExtentListener :51 - verifyProductNameInSortedOrderInProductCategoryPage Test Started..
+2020-11-05 23:11:855 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (a64982f3cf3edf8ddc8cd6a19f358dd7)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:892 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:899 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:904 INFO  LoginPage :62 - user clicks on the account...
+2020-11-05 23:11:936 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-05 23:11:576 INFO  LoginPage :74 - user id entered..
+2020-11-05 23:11:676 INFO  LoginPage :80 - password entered..
+2020-11-05 23:11:784 INFO  LoginPage :86 - login button clicked..
+2020-11-05 23:11:789 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (a64982f3cf3edf8ddc8cd6a19f358dd7)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:875 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:882 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-05 23:11:958 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-05 23:11:386 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-05 23:11:709 INFO  DropDownHelper :38 - visibleTextSelected is: Name
+2020-11-05 23:11:727 INFO  ProductCategoryPage :101 - products sorted on the basis of name..[IPhone, Samsung Galaxy, Sony Xperia]
+2020-11-05 23:11:728 INFO  ProductCategoryPage :84 - products sorted..
+2020-11-05 23:11:730 INFO  ExtentListener :57 - verifyProductNameInSortedOrderInProductCategoryPage Test Passed..
+2020-11-05 23:11:730 INFO  TestBase :86 - **************verifyProductNameInSortedOrderInProductCategoryPageFinished***************
+2020-11-05 23:11:805 INFO  TestBase :93 - chrome browser closed..
+2020-11-05 23:11:587 INFO  ExtentListener :21 - verifyProductNameInSortedOrderInProductCategoryPage Test Finished..
+2020-11-05 23:11:588 INFO  ExtentListener :28 - verifyProductPriceSortingInProductCategoryPage Class Started..
+2020-11-05 23:11:995 INFO  TestBase :129 - Initialize Web driver: 961983234
+2020-11-05 23:11:995 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:00 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-05 23:11:373 INFO  TestBase :68 - **************verifyProductPriceSortingInProductCategoryPageStarted***************
+2020-11-05 23:11:374 INFO  ExtentListener :51 - verifyProductPriceSortingInProductCategoryPage Test Started..
+2020-11-05 23:11:403 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (42647e4ba10f9241fd8e27e16329928a)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:434 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:435 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:438 INFO  LoginPage :62 - user clicks on the account...
+2020-11-05 23:11:471 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-05 23:11:145 INFO  LoginPage :74 - user id entered..
+2020-11-05 23:11:304 INFO  LoginPage :80 - password entered..
+2020-11-05 23:11:399 INFO  LoginPage :86 - login button clicked..
+2020-11-05 23:11:491 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (42647e4ba10f9241fd8e27e16329928a)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:533 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:539 INFO  VerificationHelper :101 - The tile of the page is: Customer Login
+2020-11-05 23:11:560 INFO  ExtentListener :57 - verifyProductPriceSortingInProductCategoryPage Test Passed..
+2020-11-05 23:11:561 INFO  TestBase :86 - **************verifyProductPriceSortingInProductCategoryPageFinished***************
+2020-11-05 23:11:619 INFO  TestBase :93 - chrome browser closed..
+2020-11-05 23:11:528 INFO  ExtentListener :21 - verifyProductPriceSortingInProductCategoryPage Test Finished..
+2020-11-05 23:11:528 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-05 23:11:850 INFO  TestBase :129 - Initialize Web driver: 1989219205
+2020-11-05 23:11:850 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:853 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-05 23:11:411 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-05 23:11:417 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-05 23:11:440 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (a53dca0f11009e588ba0a7c8869b0a40)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:470 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:472 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:474 INFO  LoginPage :62 - user clicks on the account...
+2020-11-05 23:11:507 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-05 23:11:141 INFO  LoginPage :74 - user id entered..
+2020-11-05 23:11:249 INFO  LoginPage :80 - password entered..
+2020-11-05 23:11:334 INFO  LoginPage :86 - login button clicked..
+2020-11-05 23:11:530 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (a53dca0f11009e588ba0a7c8869b0a40)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:570 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:607 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-05 23:11:681 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-05 23:11:556 INFO  VerificationHelper :68 - $100.00
+2020-11-05 23:11:660 INFO  ProductCategoryPage :150 - clickin on : Xperia
+2020-11-05 23:11:137 INFO  VerificationHelper :101 - The tile of the page is: Sony Xperia - Mobile
+2020-11-05 23:11:227 INFO  VerificationHelper :68 - $100.00
+2020-11-05 23:11:289 INFO  AssertionHelper :23 - verify text with $100.00 and $100.00
+2020-11-05 23:11:290 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-11-05 23:11:291 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-11-05 23:11:337 INFO  TestBase :93 - chrome browser closed..
+2020-11-05 23:11:67 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-05 23:11:992 INFO  ExtentListener :28 - LoginTest Class Started..
+2020-11-05 23:11:261 INFO  TestBase :129 - Initialize Web driver: 148635643
+2020-11-05 23:11:263 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:269 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-05 23:11:654 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-11-05 23:11:658 INFO  ExtentListener :51 - testLoginToApplication Test Started..
+2020-11-05 23:11:711 INFO  VerificationHelper :101 - The tile of the page is: Home page
+2020-11-05 23:11:795 INFO  LoginPage :62 - user clicks on the account...
+2020-11-05 23:11:829 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-05 23:11:481 INFO  LoginPage :74 - user id entered..
+2020-11-05 23:11:610 INFO  LoginPage :80 - password entered..
+2020-11-05 23:11:703 INFO  LoginPage :86 - login button clicked..
+2020-11-05 23:11:818 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (38b494d6352ee3f5ac2a46b8388e67ab)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:915 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:916 INFO  ExtentListener :57 - testLoginToApplication Test Passed..
+2020-11-05 23:11:917 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-11-05 23:11:471 INFO  TestBase :93 - chrome browser closed..
+2020-11-05 23:11:288 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-11-05 23:11:290 INFO  ExtentListener :28 - verifyProductNameInSortedOrderInProductCategoryPage Class Started..
+2020-11-05 23:11:947 INFO  TestBase :129 - Initialize Web driver: 932885627
+2020-11-05 23:11:947 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:952 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-05 23:11:366 INFO  TestBase :68 - **************verifyProductNameInSortedOrderInProductCategoryPageStarted***************
+2020-11-05 23:11:367 INFO  ExtentListener :51 - verifyProductNameInSortedOrderInProductCategoryPage Test Started..
+2020-11-05 23:11:404 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (a3bb6b19187ae89116fb63c9de9bf0cd)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:445 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:452 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:457 INFO  LoginPage :62 - user clicks on the account...
+2020-11-05 23:11:488 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-05 23:11:95 INFO  LoginPage :74 - user id entered..
+2020-11-05 23:11:219 INFO  LoginPage :80 - password entered..
+2020-11-05 23:11:309 INFO  LoginPage :86 - login button clicked..
+2020-11-05 23:11:321 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (a3bb6b19187ae89116fb63c9de9bf0cd)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:360 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:393 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-05 23:11:456 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-05 23:11:922 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-05 23:11:300 INFO  DropDownHelper :38 - visibleTextSelected is: Name
+2020-11-05 23:11:47 INFO  ProductCategoryPage :101 - products sorted on the basis of name..[IPhone, Samsung Galaxy, Sony Xperia]
+2020-11-05 23:11:47 INFO  ProductCategoryPage :84 - products sorted..
+2020-11-05 23:11:48 INFO  ExtentListener :57 - verifyProductNameInSortedOrderInProductCategoryPage Test Passed..
+2020-11-05 23:11:49 INFO  TestBase :86 - **************verifyProductNameInSortedOrderInProductCategoryPageFinished***************
+2020-11-05 23:11:112 INFO  TestBase :93 - chrome browser closed..
+2020-11-05 23:11:814 INFO  ExtentListener :21 - verifyProductNameInSortedOrderInProductCategoryPage Test Finished..
+2020-11-05 23:11:816 INFO  ExtentListener :28 - verifyProductPriceSortingInProductCategoryPage Class Started..
+2020-11-05 23:11:146 INFO  TestBase :129 - Initialize Web driver: 961983234
+2020-11-05 23:11:146 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:149 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-05 23:11:675 INFO  TestBase :68 - **************verifyProductPriceSortingInProductCategoryPageStarted***************
+2020-11-05 23:11:676 INFO  ExtentListener :51 - verifyProductPriceSortingInProductCategoryPage Test Started..
+2020-11-05 23:11:697 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (b23916788f531c196d9c29e08e839a7a)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:748 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:749 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:755 INFO  LoginPage :62 - user clicks on the account...
+2020-11-05 23:11:794 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-05 23:11:552 INFO  LoginPage :74 - user id entered..
+2020-11-05 23:11:694 INFO  LoginPage :80 - password entered..
+2020-11-05 23:11:799 INFO  LoginPage :86 - login button clicked..
+2020-11-05 23:11:794 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (b23916788f531c196d9c29e08e839a7a)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:832 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:839 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-05 23:11:922 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-05 23:11:985 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-05 23:11:42 INFO  DropDownHelper :38 - visibleTextSelected is: Price
+2020-11-05 23:11:222 INFO  ProductCategoryPage :131 - products sorted on the basis of price..[100.0, 130.0, 500.0]
+2020-11-05 23:11:223 INFO  ProductCategoryPage :131 - products sorted on the basis of price..[100.0, 130.0, 500.0]
+2020-11-05 23:11:224 INFO  ExtentListener :57 - verifyProductPriceSortingInProductCategoryPage Test Passed..
+2020-11-05 23:11:225 INFO  TestBase :86 - **************verifyProductPriceSortingInProductCategoryPageFinished***************
+2020-11-05 23:11:266 INFO  TestBase :93 - chrome browser closed..
+2020-11-05 23:11:978 INFO  ExtentListener :21 - verifyProductPriceSortingInProductCategoryPage Test Finished..
+2020-11-05 23:11:979 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-05 23:11:276 INFO  TestBase :129 - Initialize Web driver: 1871580398
+2020-11-05 23:11:276 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:279 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-05 23:11:713 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-05 23:11:715 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-05 23:11:734 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (92f5b6e8b0d00933f421e87f71f12198)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:768 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:770 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-05 23:11:773 INFO  LoginPage :62 - user clicks on the account...
+2020-11-05 23:11:804 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-05 23:11:354 INFO  LoginPage :74 - user id entered..
+2020-11-05 23:11:470 INFO  LoginPage :80 - password entered..
+2020-11-05 23:11:543 INFO  LoginPage :86 - login button clicked..
+2020-11-05 23:11:688 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (92f5b6e8b0d00933f421e87f71f12198)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-05 23:11:719 INFO  WaitHelper :141 - element is visible now
+2020-11-05 23:11:724 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-05 23:11:798 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-05 23:11:601 INFO  VerificationHelper :68 - $100.00
+2020-11-05 23:11:722 INFO  ProductCategoryPage :150 - clickin on : Xperia
+2020-11-05 23:11:760 INFO  VerificationHelper :101 - The tile of the page is: Sony Xperia - Mobile
+2020-11-05 23:11:844 INFO  VerificationHelper :68 - $100.00
+2020-11-05 23:11:882 INFO  AssertionHelper :23 - verify text with $100.00 and $100.00
+2020-11-05 23:11:885 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-11-05 23:11:887 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-11-05 23:11:939 INFO  TestBase :93 - chrome browser closed..
+2020-11-05 23:11:716 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-20 13:11:221 INFO  ExtentListener :28 - LoginTest Class Started..
+2020-11-20 13:11:282 INFO  TestBase :129 - Initialize Web driver: 997695567
+2020-11-20 13:11:283 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-20 13:11:291 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-20 13:11:202 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-11-20 13:11:248 INFO  ExtentListener :51 - testLoginToApplication Test Started..
+2020-11-20 13:11:542 INFO  VerificationHelper :101 - The tile of the page is: Home page
+2020-11-20 13:11:633 INFO  LoginPage :62 - user clicks on the account...
+2020-11-20 13:11:659 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-20 13:11:296 INFO  LoginPage :74 - user id entered..
+2020-11-20 13:11:441 INFO  LoginPage :80 - password entered..
+2020-11-20 13:11:525 INFO  LoginPage :86 - login button clicked..
+2020-11-20 13:11:882 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (78543da5d7ed43ae4f92495f04c66fbf)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-20 13:11:937 INFO  WaitHelper :141 - element is visible now
+2020-11-20 13:11:941 INFO  ExtentListener :57 - testLoginToApplication Test Passed..
+2020-11-20 13:11:943 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-11-20 13:11:226 INFO  TestBase :93 - chrome browser closed..
+2020-11-20 13:11:105 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-11-20 13:11:107 INFO  ExtentListener :28 - verifyProductNameInSortedOrderInProductCategoryPage Class Started..
+2020-11-20 13:11:428 INFO  TestBase :129 - Initialize Web driver: 409565350
+2020-11-20 13:11:428 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-20 13:11:433 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-20 13:11:447 INFO  TestBase :68 - **************verifyProductNameInSortedOrderInProductCategoryPageStarted***************
+2020-11-20 13:11:448 INFO  ExtentListener :51 - verifyProductNameInSortedOrderInProductCategoryPage Test Started..
+2020-11-20 13:11:469 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (f9fb64e89ab2f175413212d139325288)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-20 13:11:504 INFO  WaitHelper :141 - element is visible now
+2020-11-20 13:11:512 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-20 13:11:516 INFO  LoginPage :62 - user clicks on the account...
+2020-11-20 13:11:552 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-20 13:11:220 INFO  LoginPage :74 - user id entered..
+2020-11-20 13:11:350 INFO  LoginPage :80 - password entered..
+2020-11-20 13:11:443 INFO  LoginPage :86 - login button clicked..
+2020-11-20 13:11:828 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (f9fb64e89ab2f175413212d139325288)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-20 13:11:859 INFO  WaitHelper :141 - element is visible now
+2020-11-20 13:11:864 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-20 13:11:948 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-20 13:11:46 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-20 13:11:99 INFO  DropDownHelper :38 - visibleTextSelected is: Name
+2020-11-20 13:11:967 INFO  ProductCategoryPage :101 - products sorted on the basis of name..[IPhone, Samsung Galaxy, Sony Xperia]
+2020-11-20 13:11:967 INFO  ProductCategoryPage :84 - products sorted..
+2020-11-20 13:11:968 INFO  ExtentListener :57 - verifyProductNameInSortedOrderInProductCategoryPage Test Passed..
+2020-11-20 13:11:968 INFO  TestBase :86 - **************verifyProductNameInSortedOrderInProductCategoryPageFinished***************
+2020-11-20 13:11:44 INFO  TestBase :93 - chrome browser closed..
+2020-11-20 13:11:879 INFO  ExtentListener :21 - verifyProductNameInSortedOrderInProductCategoryPage Test Finished..
+2020-11-20 13:11:880 INFO  ExtentListener :28 - verifyProductPriceSortingInProductCategoryPage Class Started..
+2020-11-20 13:11:295 INFO  TestBase :129 - Initialize Web driver: 207988207
+2020-11-20 13:11:295 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-20 13:11:298 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-20 13:11:722 INFO  TestBase :68 - **************verifyProductPriceSortingInProductCategoryPageStarted***************
+2020-11-20 13:11:723 INFO  ExtentListener :51 - verifyProductPriceSortingInProductCategoryPage Test Started..
+2020-11-20 13:11:949 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (01254cab2837a04b36558dd658f93e32)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-20 13:11:164 INFO  WaitHelper :141 - element is visible now
+2020-11-20 13:11:166 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-20 13:11:171 INFO  LoginPage :62 - user clicks on the account...
+2020-11-20 13:11:228 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-20 13:11:948 INFO  LoginPage :74 - user id entered..
+2020-11-20 13:11:187 INFO  LoginPage :80 - password entered..
+2020-11-20 13:11:323 INFO  LoginPage :86 - login button clicked..
+2020-11-20 13:11:556 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (01254cab2837a04b36558dd658f93e32)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-20 13:11:598 INFO  WaitHelper :141 - element is visible now
+2020-11-20 13:11:603 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-20 13:11:803 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-20 13:11:729 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-20 13:11:777 INFO  DropDownHelper :38 - visibleTextSelected is: Price
+2020-11-20 13:11:435 INFO  ProductCategoryPage :131 - products sorted on the basis of price..[100.0, 130.0, 500.0]
+2020-11-20 13:11:436 INFO  ProductCategoryPage :131 - products sorted on the basis of price..[100.0, 130.0, 500.0]
+2020-11-20 13:11:437 INFO  ExtentListener :57 - verifyProductPriceSortingInProductCategoryPage Test Passed..
+2020-11-20 13:11:438 INFO  TestBase :86 - **************verifyProductPriceSortingInProductCategoryPageFinished***************
+2020-11-20 13:11:483 INFO  TestBase :93 - chrome browser closed..
+2020-11-20 13:11:189 INFO  ExtentListener :21 - verifyProductPriceSortingInProductCategoryPage Test Finished..
+2020-11-20 13:11:190 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-20 13:11:544 INFO  TestBase :129 - Initialize Web driver: 458998685
+2020-11-20 13:11:544 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-20 13:11:547 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-20 13:11:203 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-20 13:11:205 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-20 13:11:229 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (09cb632978e3f74a3310ab2d3f41ce3a)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-20 13:11:262 INFO  WaitHelper :141 - element is visible now
+2020-11-20 13:11:269 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-20 13:11:272 INFO  LoginPage :62 - user clicks on the account...
+2020-11-20 13:11:298 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-20 13:11:64 INFO  LoginPage :74 - user id entered..
+2020-11-20 13:11:176 INFO  LoginPage :80 - password entered..
+2020-11-20 13:11:378 INFO  LoginPage :86 - login button clicked..
+2020-11-20 13:11:537 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (09cb632978e3f74a3310ab2d3f41ce3a)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-20 13:11:574 INFO  WaitHelper :141 - element is visible now
+2020-11-20 13:11:580 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-20 13:11:744 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-20 13:11:766 INFO  VerificationHelper :68 - $100.00
+2020-11-20 13:11:857 INFO  ProductCategoryPage :150 - clickin on : Xperia
+2020-11-20 13:11:813 INFO  VerificationHelper :101 - The tile of the page is: Sony Xperia - Mobile
+2020-11-20 13:11:878 INFO  VerificationHelper :68 - $100.00
+2020-11-20 13:11:916 INFO  AssertionHelper :23 - verify text with $100.00 and $100.00
+2020-11-20 13:11:917 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-11-20 13:11:917 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-11-20 13:11:973 INFO  TestBase :93 - chrome browser closed..
+2020-11-20 13:11:708 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-20 14:11:227 INFO  ExtentListener :28 - LoginTest Class Started..
+2020-11-20 14:11:227 INFO  ExtentListener :28 - verifyProductNameInSortedOrderInProductCategoryPage Class Started..
+2020-11-20 14:11:248 INFO  ExtentListener :51 - testLoginToApplication Test Started..
+2020-11-20 14:11:249 INFO  ExtentListener :51 - verifyProductNameInSortedOrderInProductCategoryPage Test Started..
+2020-11-20 14:11:250 WARN  ExtentListener :45 - testLoginToApplication Test Skipped..null
+2020-11-20 14:11:251 WARN  ExtentListener :45 - verifyProductNameInSortedOrderInProductCategoryPage Test Skipped..null
+2020-11-20 14:11:301 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-11-20 14:11:303 INFO  ExtentListener :28 - verifyProductPriceSortingInProductCategoryPage Class Started..
+2020-11-20 14:11:310 INFO  ExtentListener :21 - verifyProductNameInSortedOrderInProductCategoryPage Test Finished..
+2020-11-20 14:11:311 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-20 14:11:191 INFO  TestBase :129 - Initialize Web driver: 1646942321
+2020-11-20 14:11:191 INFO  TestBase :129 - Initialize Web driver: 523024086
+2020-11-20 14:11:193 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-20 14:11:193 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-20 14:11:203 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-20 14:11:203 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-20 14:11:793 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-20 14:11:794 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-20 14:11:505 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (3f2d18afeca79d3ee685b3b66606b35d)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-20 14:11:679 INFO  WaitHelper :141 - element is visible now
+2020-11-20 14:11:690 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-20 14:11:711 INFO  LoginPage :62 - user clicks on the account...
+2020-11-20 14:11:781 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-20 14:11:813 INFO  LoginPage :74 - user id entered..
+2020-11-20 14:11:214 INFO  LoginPage :80 - password entered..
+2020-11-20 14:11:414 INFO  LoginPage :86 - login button clicked..
+2020-11-20 14:11:647 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (3f2d18afeca79d3ee685b3b66606b35d)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-20 14:11:703 INFO  WaitHelper :141 - element is visible now
+2020-11-20 14:11:708 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-20 14:11:945 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-20 14:11:378 INFO  TestBase :68 - **************verifyProductPriceSortingInProductCategoryPageStarted***************
+2020-11-20 14:11:379 INFO  ExtentListener :51 - verifyProductPriceSortingInProductCategoryPage Test Started..
+2020-11-20 14:11:402 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (3f3fa19f424d74c2d214c8214a3626c0)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-20 14:11:437 INFO  WaitHelper :141 - element is visible now
+2020-11-20 14:11:439 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-20 14:11:444 INFO  LoginPage :62 - user clicks on the account...
+2020-11-20 14:11:470 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-20 14:11:763 INFO  VerificationHelper :68 - $100.00
+2020-11-20 14:11:853 INFO  ProductCategoryPage :150 - clickin on : Xperia
+2020-11-20 14:11:711 INFO  LoginPage :74 - user id entered..
+2020-11-20 14:11:827 INFO  LoginPage :80 - password entered..
+2020-11-20 14:11:928 INFO  LoginPage :86 - login button clicked..
+2020-11-20 14:11:985 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (3f3fa19f424d74c2d214c8214a3626c0)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-20 14:11:19 INFO  WaitHelper :141 - element is visible now
+2020-11-20 14:11:24 INFO  VerificationHelper :101 - The tile of the page is: Customer Login
+2020-11-20 14:11:97 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-20 14:11:172 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-20 14:11:835 INFO  VerificationHelper :101 - The tile of the page is: Sony Xperia - Mobile
+2020-11-20 14:11:905 INFO  VerificationHelper :68 - $100.00
+2020-11-20 14:11:949 INFO  AssertionHelper :23 - verify text with $100.00 and $100.00
+2020-11-20 14:11:950 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-11-20 14:11:951 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-11-20 14:11:274 INFO  TestBase :93 - chrome browser closed..
+2020-11-20 14:11:336 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-20 14:11:288 INFO  ExtentListener :57 - verifyProductPriceSortingInProductCategoryPage Test Passed..
+2020-11-20 14:11:289 INFO  TestBase :86 - **************verifyProductPriceSortingInProductCategoryPageFinished***************
+2020-11-20 14:11:348 INFO  TestBase :93 - chrome browser closed..
+2020-11-20 14:11:61 INFO  ExtentListener :21 - verifyProductPriceSortingInProductCategoryPage Test Finished..
+2020-11-20 14:11:641 INFO  ExtentListener :28 - LoginTest Class Started..
+2020-11-20 14:11:10 INFO  TestBase :129 - Initialize Web driver: 148635643
+2020-11-20 14:11:12 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-20 14:11:19 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-20 14:11:975 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-11-20 14:11:981 INFO  ExtentListener :51 - testLoginToApplication Test Started..
+2020-11-20 14:11:15 INFO  VerificationHelper :101 - The tile of the page is: Home page
+2020-11-20 14:11:96 INFO  LoginPage :62 - user clicks on the account...
+2020-11-20 14:11:123 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-20 14:11:137 INFO  LoginPage :74 - user id entered..
+2020-11-20 14:11:260 INFO  LoginPage :80 - password entered..
+2020-11-20 14:11:354 INFO  LoginPage :86 - login button clicked..
+2020-11-20 14:11:42 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (d10cc450aa8eb0583c70ccbab234f478)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-20 14:11:120 INFO  WaitHelper :141 - element is visible now
+2020-11-20 14:11:122 INFO  ExtentListener :57 - testLoginToApplication Test Passed..
+2020-11-20 14:11:124 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-11-20 14:11:556 INFO  TestBase :93 - chrome browser closed..
+2020-11-20 14:11:403 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-11-20 14:11:405 INFO  ExtentListener :28 - verifyProductNameInSortedOrderInProductCategoryPage Class Started..
+2020-11-20 14:11:948 INFO  TestBase :129 - Initialize Web driver: 932885627
+2020-11-20 14:11:948 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-20 14:11:956 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-20 14:11:921 INFO  TestBase :68 - **************verifyProductNameInSortedOrderInProductCategoryPageStarted***************
+2020-11-20 14:11:922 INFO  ExtentListener :51 - verifyProductNameInSortedOrderInProductCategoryPage Test Started..
+2020-11-20 14:11:953 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (872a26c5b952d7eb5240cc4d00d45f6a)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-20 14:11:984 INFO  WaitHelper :141 - element is visible now
+2020-11-20 14:11:991 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-20 14:11:995 INFO  LoginPage :62 - user clicks on the account...
+2020-11-20 14:11:26 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-20 14:11:787 INFO  LoginPage :74 - user id entered..
+2020-11-20 14:11:36 INFO  LoginPage :80 - password entered..
+2020-11-20 14:11:162 INFO  LoginPage :86 - login button clicked..
+2020-11-20 14:11:337 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (872a26c5b952d7eb5240cc4d00d45f6a)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-20 14:11:376 INFO  WaitHelper :141 - element is visible now
+2020-11-20 14:11:380 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-20 14:11:577 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-20 14:11:539 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-20 14:11:605 INFO  DropDownHelper :38 - visibleTextSelected is: Name
+2020-11-20 14:11:470 INFO  ProductCategoryPage :101 - products sorted on the basis of name..[IPhone, Samsung Galaxy, Sony Xperia]
+2020-11-20 14:11:471 INFO  ProductCategoryPage :84 - products sorted..
+2020-11-20 14:11:472 INFO  ExtentListener :57 - verifyProductNameInSortedOrderInProductCategoryPage Test Passed..
+2020-11-20 14:11:472 INFO  TestBase :86 - **************verifyProductNameInSortedOrderInProductCategoryPageFinished***************
+2020-11-20 14:11:540 INFO  TestBase :93 - chrome browser closed..
+2020-11-20 14:11:275 INFO  ExtentListener :21 - verifyProductNameInSortedOrderInProductCategoryPage Test Finished..
+2020-11-20 14:11:276 INFO  ExtentListener :28 - verifyProductPriceSortingInProductCategoryPage Class Started..
+2020-11-20 14:11:882 INFO  TestBase :129 - Initialize Web driver: 961983234
+2020-11-20 14:11:882 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-20 14:11:885 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-20 14:11:199 INFO  TestBase :68 - **************verifyProductPriceSortingInProductCategoryPageStarted***************
+2020-11-20 14:11:200 INFO  ExtentListener :51 - verifyProductPriceSortingInProductCategoryPage Test Started..
+2020-11-20 14:11:224 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (bba6af6fcda4b11b9a3f3940044396be)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-20 14:11:258 INFO  WaitHelper :141 - element is visible now
+2020-11-20 14:11:259 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-20 14:11:261 INFO  LoginPage :62 - user clicks on the account...
+2020-11-20 14:11:291 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-20 14:11:81 INFO  LoginPage :74 - user id entered..
+2020-11-20 14:11:317 INFO  LoginPage :80 - password entered..
+2020-11-20 14:11:447 INFO  LoginPage :86 - login button clicked..
+2020-11-20 14:11:625 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (bba6af6fcda4b11b9a3f3940044396be)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-20 14:11:685 INFO  WaitHelper :141 - element is visible now
+2020-11-20 14:11:718 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-20 14:11:934 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-20 14:11:881 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-20 14:11:928 INFO  DropDownHelper :38 - visibleTextSelected is: Price
+2020-11-20 14:11:595 INFO  ProductCategoryPage :131 - products sorted on the basis of price..[100.0, 130.0, 500.0]
+2020-11-20 14:11:596 INFO  ProductCategoryPage :131 - products sorted on the basis of price..[100.0, 130.0, 500.0]
+2020-11-20 14:11:597 INFO  ExtentListener :57 - verifyProductPriceSortingInProductCategoryPage Test Passed..
+2020-11-20 14:11:597 INFO  TestBase :86 - **************verifyProductPriceSortingInProductCategoryPageFinished***************
+2020-11-20 14:11:644 INFO  TestBase :93 - chrome browser closed..
+2020-11-20 14:11:407 INFO  ExtentListener :21 - verifyProductPriceSortingInProductCategoryPage Test Finished..
+2020-11-20 14:11:407 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-20 14:11:615 INFO  TestBase :129 - Initialize Web driver: 1871580398
+2020-11-20 14:11:615 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-20 14:11:619 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-20 14:11:660 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-20 14:11:660 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-20 14:11:682 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (441b2044238ce03455d0e7dab6e809d4)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-20 14:11:714 INFO  WaitHelper :141 - element is visible now
+2020-11-20 14:11:717 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-20 14:11:721 INFO  LoginPage :62 - user clicks on the account...
+2020-11-20 14:11:749 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-20 14:11:511 INFO  LoginPage :74 - user id entered..
+2020-11-20 14:11:740 INFO  LoginPage :80 - password entered..
+2020-11-20 14:11:865 INFO  LoginPage :86 - login button clicked..
+2020-11-20 14:11:125 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (441b2044238ce03455d0e7dab6e809d4)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-20 14:11:171 INFO  WaitHelper :141 - element is visible now
+2020-11-20 14:11:176 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-20 14:11:367 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-20 14:11:377 INFO  VerificationHelper :68 - $100.00
+2020-11-20 14:11:462 INFO  ProductCategoryPage :150 - clickin on : Xperia
+2020-11-20 14:11:480 INFO  VerificationHelper :101 - The tile of the page is: Sony Xperia - Mobile
+2020-11-20 14:11:549 INFO  VerificationHelper :68 - $100.00
+2020-11-20 14:11:590 INFO  AssertionHelper :23 - verify text with $100.00 and $100.00
+2020-11-20 14:11:590 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-11-20 14:11:591 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-11-20 14:11:638 INFO  TestBase :93 - chrome browser closed..
+2020-11-20 14:11:358 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-21 22:11:379 INFO  ExtentListener :28 - LoginTest Class Started..
+2020-11-21 22:11:732 INFO  TestBase :129 - Initialize Web driver: 792782299
+2020-11-21 22:11:733 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-21 22:11:740 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-21 22:11:222 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-11-21 22:11:249 INFO  ExtentListener :51 - testLoginToApplication Test Started..
+2020-11-21 22:11:330 INFO  VerificationHelper :101 - The tile of the page is: Home page
+2020-11-21 22:11:431 INFO  LoginPage :62 - user clicks on the account...
+2020-11-21 22:11:460 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-21 22:11:427 INFO  LoginPage :74 - user id entered..
+2020-11-21 22:11:569 INFO  LoginPage :80 - password entered..
+2020-11-21 22:11:674 INFO  LoginPage :86 - login button clicked..
+2020-11-21 22:11:251 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (d5cdacd65f826397410dad0bb8a412a6)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-21 22:11:314 INFO  WaitHelper :141 - element is visible now
+2020-11-21 22:11:316 INFO  ExtentListener :57 - testLoginToApplication Test Passed..
+2020-11-21 22:11:317 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-11-21 22:11:996 INFO  TestBase :93 - chrome browser closed..
+2020-11-21 22:11:853 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-11-21 22:11:854 INFO  ExtentListener :28 - verifyProductNameInSortedOrderInProductCategoryPage Class Started..
+2020-11-21 22:11:195 INFO  TestBase :129 - Initialize Web driver: 1401295795
+2020-11-21 22:11:196 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-21 22:11:199 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-21 22:11:730 INFO  TestBase :68 - **************verifyProductNameInSortedOrderInProductCategoryPageStarted***************
+2020-11-21 22:11:731 INFO  ExtentListener :51 - verifyProductNameInSortedOrderInProductCategoryPage Test Started..
+2020-11-21 22:11:772 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (50adffc35b5bc7f595573c40ca86089f)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-21 22:11:820 INFO  WaitHelper :141 - element is visible now
+2020-11-21 22:11:830 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-21 22:11:836 INFO  LoginPage :62 - user clicks on the account...
+2020-11-21 22:11:871 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-21 22:11:650 INFO  LoginPage :74 - user id entered..
+2020-11-21 22:11:919 INFO  LoginPage :80 - password entered..
+2020-11-21 22:11:29 INFO  LoginPage :86 - login button clicked..
+2020-11-21 22:11:225 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (50adffc35b5bc7f595573c40ca86089f)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-21 22:11:278 INFO  WaitHelper :141 - element is visible now
+2020-11-21 22:11:285 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-21 22:11:375 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-21 22:11:486 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-21 22:11:533 INFO  DropDownHelper :38 - visibleTextSelected is: Name
+2020-11-21 22:11:830 INFO  ProductCategoryPage :101 - products sorted on the basis of name..[IPhone, Samsung Galaxy, Sony Xperia]
+2020-11-21 22:11:830 INFO  ProductCategoryPage :84 - products sorted..
+2020-11-21 22:11:831 INFO  ExtentListener :57 - verifyProductNameInSortedOrderInProductCategoryPage Test Passed..
+2020-11-21 22:11:832 INFO  TestBase :86 - **************verifyProductNameInSortedOrderInProductCategoryPageFinished***************
+2020-11-21 22:11:910 INFO  TestBase :93 - chrome browser closed..
+2020-11-21 22:11:213 INFO  ExtentListener :21 - verifyProductNameInSortedOrderInProductCategoryPage Test Finished..
+2020-11-21 22:11:214 INFO  ExtentListener :28 - verifyProductPriceSortingInProductCategoryPage Class Started..
+2020-11-21 22:11:759 INFO  TestBase :129 - Initialize Web driver: 485047320
+2020-11-21 22:11:760 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-21 22:11:763 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-21 22:11:498 INFO  TestBase :68 - **************verifyProductPriceSortingInProductCategoryPageStarted***************
+2020-11-21 22:11:498 INFO  ExtentListener :51 - verifyProductPriceSortingInProductCategoryPage Test Started..
+2020-11-21 22:11:516 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (5138dc7d8da0aca7818fd5daeb6614d9)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-21 22:11:548 INFO  WaitHelper :141 - element is visible now
+2020-11-21 22:11:549 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-21 22:11:553 INFO  LoginPage :62 - user clicks on the account...
+2020-11-21 22:11:578 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-21 22:11:385 INFO  LoginPage :74 - user id entered..
+2020-11-21 22:11:643 INFO  LoginPage :80 - password entered..
+2020-11-21 22:11:752 INFO  LoginPage :86 - login button clicked..
+2020-11-21 22:11:932 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (5138dc7d8da0aca7818fd5daeb6614d9)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-21 22:11:971 INFO  WaitHelper :141 - element is visible now
+2020-11-21 22:11:976 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-21 22:11:166 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-21 22:11:398 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-21 22:11:444 INFO  DropDownHelper :38 - visibleTextSelected is: Price
+2020-11-21 22:11:132 INFO  ProductCategoryPage :131 - products sorted on the basis of price..[100.0, 130.0, 500.0]
+2020-11-21 22:11:133 INFO  ProductCategoryPage :131 - products sorted on the basis of price..[100.0, 130.0, 500.0]
+2020-11-21 22:11:134 INFO  ExtentListener :57 - verifyProductPriceSortingInProductCategoryPage Test Passed..
+2020-11-21 22:11:135 INFO  TestBase :86 - **************verifyProductPriceSortingInProductCategoryPageFinished***************
+2020-11-21 22:11:178 INFO  TestBase :93 - chrome browser closed..
+2020-11-21 22:11:908 INFO  ExtentListener :21 - verifyProductPriceSortingInProductCategoryPage Test Finished..
+2020-11-21 22:11:909 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-21 22:11:331 INFO  TestBase :129 - Initialize Web driver: 1399398408
+2020-11-21 22:11:332 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-21 22:11:336 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-21 22:11:558 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-21 22:11:559 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-21 22:11:577 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (d137043974b0aea2cb30aac5533a2f80)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-21 22:11:609 INFO  WaitHelper :141 - element is visible now
+2020-11-21 22:11:611 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-21 22:11:615 INFO  LoginPage :62 - user clicks on the account...
+2020-11-21 22:11:644 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-21 22:11:425 INFO  LoginPage :74 - user id entered..
+2020-11-21 22:11:716 INFO  LoginPage :80 - password entered..
+2020-11-21 22:11:812 INFO  LoginPage :86 - login button clicked..
+2020-11-21 22:11:06 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (d137043974b0aea2cb30aac5533a2f80)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-21 22:11:41 INFO  WaitHelper :141 - element is visible now
+2020-11-21 22:11:46 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-21 22:11:210 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-21 22:11:559 INFO  VerificationHelper :68 - $100.00
+2020-11-21 22:11:652 INFO  ProductCategoryPage :150 - clickin on : Xperia
+2020-11-21 22:11:774 INFO  VerificationHelper :101 - The tile of the page is: Sony Xperia - Mobile
+2020-11-21 22:11:842 INFO  VerificationHelper :68 - $100.00
+2020-11-21 22:11:879 INFO  AssertionHelper :23 - verify text with $100.00 and $100.00
+2020-11-21 22:11:882 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-11-21 22:11:883 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-11-21 22:11:932 INFO  TestBase :93 - chrome browser closed..
+2020-11-21 22:11:683 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-21 23:11:120 INFO  ExtentListener :28 - LoginTest Class Started..
+2020-11-21 23:11:603 INFO  TestBase :129 - Initialize Web driver: 1636291061
+2020-11-21 23:11:604 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-21 23:11:611 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-21 23:11:275 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-11-21 23:11:282 INFO  ExtentListener :51 - testLoginToApplication Test Started..
+2020-11-21 23:11:324 INFO  VerificationHelper :101 - The tile of the page is: Home page
+2020-11-21 23:11:415 INFO  LoginPage :62 - user clicks on the account...
+2020-11-21 23:11:448 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-21 23:11:128 INFO  LoginPage :74 - user id entered..
+2020-11-21 23:11:405 INFO  LoginPage :80 - password entered..
+2020-11-21 23:11:556 INFO  LoginPage :86 - login button clicked..
+2020-11-21 23:11:91 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (26053f0cd4d377017cbf3d4fe3116ab6)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-21 23:11:203 INFO  WaitHelper :141 - element is visible now
+2020-11-21 23:11:204 INFO  ExtentListener :57 - testLoginToApplication Test Passed..
+2020-11-21 23:11:205 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-11-21 23:11:623 INFO  TestBase :93 - chrome browser closed..
+2020-11-21 23:11:397 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-11-21 23:11:398 INFO  ExtentListener :28 - verifyProductNameInSortedOrderInProductCategoryPage Class Started..
+2020-11-21 23:11:820 INFO  TestBase :129 - Initialize Web driver: 1151512955
+2020-11-21 23:11:821 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-21 23:11:825 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-21 23:11:235 INFO  TestBase :68 - **************verifyProductNameInSortedOrderInProductCategoryPageStarted***************
+2020-11-21 23:11:236 INFO  ExtentListener :51 - verifyProductNameInSortedOrderInProductCategoryPage Test Started..
+2020-11-21 23:11:263 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (5e7bd8ea0856613f304efe64939398e4)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-21 23:11:300 INFO  WaitHelper :141 - element is visible now
+2020-11-21 23:11:307 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-21 23:11:311 INFO  LoginPage :62 - user clicks on the account...
+2020-11-21 23:11:347 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-21 23:11:119 INFO  LoginPage :74 - user id entered..
+2020-11-21 23:11:347 INFO  LoginPage :80 - password entered..
+2020-11-21 23:11:462 INFO  LoginPage :86 - login button clicked..
+2020-11-21 23:11:603 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (5e7bd8ea0856613f304efe64939398e4)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-21 23:11:647 INFO  WaitHelper :141 - element is visible now
+2020-11-21 23:11:654 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-21 23:11:835 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-21 23:11:81 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-21 23:11:128 INFO  DropDownHelper :38 - visibleTextSelected is: Name
+2020-11-21 23:11:944 INFO  ProductCategoryPage :104 - products sorted on the basis of name..[IPhone, Samsung Galaxy, Sony Xperia]
+2020-11-21 23:11:945 INFO  ProductCategoryPage :87 - products sorted..
+2020-11-21 23:11:946 INFO  ExtentListener :57 - verifyProductNameInSortedOrderInProductCategoryPage Test Passed..
+2020-11-21 23:11:947 INFO  TestBase :86 - **************verifyProductNameInSortedOrderInProductCategoryPageFinished***************
+2020-11-21 23:11:44 INFO  TestBase :93 - chrome browser closed..
+2020-11-21 23:11:801 INFO  ExtentListener :21 - verifyProductNameInSortedOrderInProductCategoryPage Test Finished..
+2020-11-21 23:11:802 INFO  ExtentListener :28 - verifyProductPriceSortingInProductCategoryPage Class Started..
+2020-11-21 23:11:357 INFO  TestBase :129 - Initialize Web driver: 215478702
+2020-11-21 23:11:357 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-21 23:11:361 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-21 23:11:664 INFO  TestBase :68 - **************verifyProductPriceSortingInProductCategoryPageStarted***************
+2020-11-21 23:11:665 INFO  ExtentListener :51 - verifyProductPriceSortingInProductCategoryPage Test Started..
+2020-11-21 23:11:878 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (ff53488247fba88d824af068560c7f28)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-21 23:11:69 INFO  WaitHelper :141 - element is visible now
+2020-11-21 23:11:70 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-21 23:11:75 INFO  LoginPage :62 - user clicks on the account...
+2020-11-21 23:11:235 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-21 23:11:878 INFO  LoginPage :74 - user id entered..
+2020-11-21 23:11:243 INFO  LoginPage :80 - password entered..
+2020-11-21 23:11:329 INFO  LoginPage :86 - login button clicked..
+2020-11-21 23:11:523 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (ff53488247fba88d824af068560c7f28)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-21 23:11:566 INFO  WaitHelper :141 - element is visible now
+2020-11-21 23:11:572 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-21 23:11:761 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-21 23:11:999 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-21 23:11:47 INFO  DropDownHelper :38 - visibleTextSelected is: Price
+2020-11-21 23:11:724 INFO  ProductCategoryPage :134 - products sorted on the basis of price..[100.0, 130.0, 500.0]
+2020-11-21 23:11:725 INFO  ProductCategoryPage :134 - products sorted on the basis of price..[100.0, 130.0, 500.0]
+2020-11-21 23:11:726 INFO  ExtentListener :57 - verifyProductPriceSortingInProductCategoryPage Test Passed..
+2020-11-21 23:11:726 INFO  TestBase :86 - **************verifyProductPriceSortingInProductCategoryPageFinished***************
+2020-11-21 23:11:770 INFO  TestBase :93 - chrome browser closed..
+2020-11-21 23:11:480 INFO  ExtentListener :21 - verifyProductPriceSortingInProductCategoryPage Test Finished..
+2020-11-21 23:11:481 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-21 23:11:958 INFO  TestBase :129 - Initialize Web driver: 2110785285
+2020-11-21 23:11:959 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-21 23:11:963 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-21 23:11:60 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-21 23:11:61 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-21 23:11:80 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (f7a96a91da1b5051189f7384a2554002)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-21 23:11:114 INFO  WaitHelper :141 - element is visible now
+2020-11-21 23:11:116 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-21 23:11:119 INFO  LoginPage :62 - user clicks on the account...
+2020-11-21 23:11:148 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-21 23:11:922 INFO  LoginPage :74 - user id entered..
+2020-11-21 23:11:45 INFO  LoginPage :80 - password entered..
+2020-11-21 23:11:242 INFO  LoginPage :86 - login button clicked..
+2020-11-21 23:11:381 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (f7a96a91da1b5051189f7384a2554002)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-21 23:11:421 INFO  WaitHelper :141 - element is visible now
+2020-11-21 23:11:428 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-21 23:11:596 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-21 23:11:893 INFO  VerificationHelper :68 - $100.00
+2020-11-21 23:11:983 INFO  ProductCategoryPage :153 - clickin on : Xperia
+2020-11-21 23:11:570 INFO  VerificationHelper :101 - The tile of the page is: Sony Xperia - Mobile
+2020-11-21 23:11:631 INFO  VerificationHelper :68 - $100.00
+2020-11-21 23:11:672 INFO  AssertionHelper :23 - verify text with $100.00 and $100.00
+2020-11-21 23:11:672 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-11-21 23:11:673 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-11-21 23:11:729 INFO  TestBase :93 - chrome browser closed..
+2020-11-21 23:11:428 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-21 23:11:429 INFO  ExtentListener :28 - Add To Cart Class Started..
+2020-11-21 23:11:628 INFO  TestBase :129 - Initialize Web driver: 790538253
+2020-11-21 23:11:629 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-21 23:11:633 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-21 23:11:695 INFO  TestBase :68 - **************verifyUpdateAddItemCartStarted***************
+2020-11-21 23:11:696 INFO  ExtentListener :51 - verifyUpdateAddItemCart Test Started..
+2020-11-21 23:11:722 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (5f33024995eb4ba7cf079e29afc5c0e7)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-21 23:11:758 INFO  WaitHelper :141 - element is visible now
+2020-11-21 23:11:759 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-21 23:11:763 INFO  LoginPage :62 - user clicks on the account...
+2020-11-21 23:11:791 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-21 23:11:561 INFO  LoginPage :74 - user id entered..
+2020-11-21 23:11:858 INFO  LoginPage :80 - password entered..
+2020-11-21 23:11:947 INFO  LoginPage :86 - login button clicked..
+2020-11-21 23:11:108 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (5f33024995eb4ba7cf079e29afc5c0e7)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-21 23:11:144 INFO  WaitHelper :141 - element is visible now
+2020-11-21 23:11:149 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-21 23:11:341 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-21 23:11:667 INFO  VerificationHelper :68 - ADD TO CART
+2020-11-21 23:11:707 INFO  ProductCategoryPage :167 - clickin on : ADD TO CART
+2020-11-21 23:11:13 INFO  VerificationHelper :101 - The tile of the page is: Shopping Cart
+2020-11-21 23:11:24 INFO  ExtentListener :57 - verifyUpdateAddItemCart Test Passed..
+2020-11-21 23:11:25 INFO  TestBase :86 - **************verifyUpdateAddItemCartFinished***************
+2020-11-21 23:11:88 INFO  TestBase :93 - chrome browser closed..
+2020-11-21 23:11:780 INFO  ExtentListener :21 - Add To Cart Test Finished..
+2020-11-21 23:11:196 INFO  ExtentListener :28 - Add To Cart Class Started..
+2020-11-21 23:11:697 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-21 23:11:698 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-21 23:11:707 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-21 23:11:750 INFO  TestBase :68 - **************verifyUpdateAddItemCartStarted***************
+2020-11-21 23:11:757 INFO  ExtentListener :51 - verifyUpdateAddItemCart Test Started..
+2020-11-21 23:11:816 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (2ed9b5a9a48c053e3901fde8738210f0)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-21 23:11:903 INFO  WaitHelper :141 - element is visible now
+2020-11-21 23:11:912 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-21 23:11:918 INFO  LoginPage :62 - user clicks on the account...
+2020-11-21 23:11:945 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-21 23:11:611 INFO  LoginPage :74 - user id entered..
+2020-11-21 23:11:887 INFO  LoginPage :80 - password entered..
+2020-11-21 23:11:07 INFO  LoginPage :86 - login button clicked..
+2020-11-21 23:11:194 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (2ed9b5a9a48c053e3901fde8738210f0)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-21 23:11:246 INFO  WaitHelper :141 - element is visible now
+2020-11-21 23:11:252 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-21 23:11:422 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-21 23:11:761 INFO  VerificationHelper :68 - ADD TO CART
+2020-11-21 23:11:801 INFO  ProductCategoryPage :167 - clickin on : ADD TO CART
+2020-11-21 23:11:999 INFO  VerificationHelper :101 - The tile of the page is: Shopping Cart
+2020-11-21 23:11:09 INFO  ExtentListener :57 - verifyUpdateAddItemCart Test Passed..
+2020-11-21 23:11:10 INFO  TestBase :86 - **************verifyUpdateAddItemCartFinished***************
+2020-11-21 23:11:361 INFO  TestBase :93 - chrome browser closed..
+2020-11-21 23:11:114 INFO  ExtentListener :21 - Add To Cart Test Finished..

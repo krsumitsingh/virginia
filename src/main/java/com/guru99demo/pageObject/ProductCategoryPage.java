@@ -9,13 +9,16 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import com.guru99demo.helper.assertions.VerificationHelper;
+import com.guru99demo.helper.javaScript.JavaScriptHelper;
 import com.guru99demo.helper.logger.LoggerHelper;
 import com.guru99demo.helper.select.DropDownHelper;
 import com.guru99demo.testBase.TestBase;
 
 public class ProductCategoryPage {
+
 	private WebDriver driver;
 	private Logger log = LoggerHelper.getLogger(ProductCategoryPage.class);
+	JavaScriptHelper javascripthelper;
 
 	@FindBy(css = "p.welcome-msg")
 	WebElement homePageMessage;
@@ -29,14 +32,29 @@ public class ProductCategoryPage {
 	@FindBy(xpath = "//span[contains(@id,'product-price')]")
 	public List<WebElement> productPrice;
 
+	@FindBy(xpath = "//span[@id='product-price-1']/span")
+	public WebElement singleProductPrice;
+
+	@FindBy(xpath = "//img[@alt='Xperia']")
+	public WebElement productItem;
+	
+	@FindBy(xpath="//span[text()='Add to Cart']")
+	public WebElement addToCartBtn;
+
 	public ProductCategoryPage(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
+		javascripthelper = new JavaScriptHelper(driver);
 
 	}
 
 	public boolean verifySuccessLoginMsg() {
 		return new VerificationHelper(driver).elementIsDisplayed(homePageMessage);
+	}
+
+	public String verifySingleProductPrice() {
+		return new VerificationHelper(driver).getTextFromElement(singleProductPrice);
+		
 	}
 
 	public void sortFilter(String dataToSelect) {
@@ -98,7 +116,7 @@ public class ProductCategoryPage {
 				String actualPrice = p.substring(1);
 				// log.info(actualPrice);
 				double newActualPrice = Double.parseDouble(actualPrice);
-				//int finalPrice = (int)(newActualPrice);
+				// int finalPrice = (int)(newActualPrice);
 				priceofProducts.add(newActualPrice);
 			}
 		}
@@ -121,9 +139,38 @@ public class ProductCategoryPage {
 				return false;
 			}
 		}
-
 		return true;
-
 	}
+
+	/**
+	 * this method will click on Product detail section in the product detail page
+	 * 
+	 * @param element
+	 * @return
+	 */
+	public ProductDetailPage clickProductItem(WebElement element) {
+		String text=new VerificationHelper(driver).getAttributeFromElement(element, "alt");
+		log.info("clickin on : " + text);
+		TestBase.logExtentReport("clickin on : " + text);
+		javascripthelper.clickElement(element);
+		return new ProductDetailPage(driver);
+	}
+	
+	/**
+	 * this method will click on Add to cart in the product detail page and 
+	 * return add to card object
+	 * @param element
+	 * @return
+	 */
+	public AddToCart clickAddToCart(WebElement element) {
+		String text=new VerificationHelper(driver).getTextFromElement(element);
+		log.info("clickin on : " + text);
+		TestBase.logExtentReport("clickin on : " + text);
+		javascripthelper.clickElement(element);
+		return new AddToCart(driver);
+	}
+	
+	
+	
 
 }

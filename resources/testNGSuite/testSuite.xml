@@ -1,27 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Suite">
+<suite name="Suite" parallel= "false" thread-count="2">
 	<listeners>
         <!-- <listener class-name="com.guru99demo.helper.listener.RetryListener"></listener> -->
         <listener class-name="com.guru99demo.helper.listener.ExtentListener"></listener>
     </listeners>
     
-  <test name="LoginTest">
+  <!-- <test name="LoginTest">
     <classes>
       <class name="testScripts.loginPage.LoginTest"></class>
     </classes>
   </test> 
   
-  <test name="VerifyProductNameInAscendingOrder">
+  <test name="verifyProductNameInSortedOrderInProductCategoryPage">
     <classes>
-      <class name="testScripts.productDetailPage.VerifyProductNameInSortedOrder"></class>
+      <class name="testScripts.productCategoryPage.VerifyProductNameInSortedOrder"></class>
     </classes>
   </test> 
   
-  <test name="VerifyProductPriceInAscendingOrder">
+  <test name="verifyProductPriceSortingInProductCategoryPage">
     <classes>
-      <class name="testScripts.productDetailPage.VerifyProductPriceInSortedOrder"></class>
+      <class name="testScripts.productCategoryPage.VerifyProductPriceInSortedOrder"></class>
     </classes>
   </test> 
+  
+  <test name="verifyProductDeatilsPage">
+    <classes>
+      <class name="testScripts.productDetailPage.VerifyProductDetailPage"></class>
+    </classes>
+  </test>  -->
+  
+  <test name="Add To Cart">
+    <classes>
+      <class name="testScripts.addToCart.VerifyAddToCartPage"></class>
+    </classes>
+  </test> 
+  
+  
   
 </suite>

@@ -4,6 +4,7 @@ import org.apache.log4j.Logger;
 import org.testng.Assert;
 
 import com.guru99demo.helper.logger.LoggerHelper;
+import com.guru99demo.testBase.TestBase;
 
 public class AssertionHelper {
 	
@@ -12,9 +13,15 @@ public class AssertionHelper {
 	}
 	
 	private static Logger log = LoggerHelper.getLogger(AssertionHelper.class);
+	
+	 public static AssertionHelper getInstance() {
+		 AssertionHelper assertionHelper = new AssertionHelper();
+	      return assertionHelper;
+	   }
 
 	public static void verifyText(String s1, String s2){
 		log.info("verify text with "+s1+" and "+s2);
+		TestBase.logExtentReport("verify expected with actual "+s1+" and "+s2);
 		Assert.assertEquals(s1, s2);		
 	}
 	

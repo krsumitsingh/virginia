@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <listeners>
     <listener class-name="com.guru99demo.helper.listener.ExtentListener"/>
   </listeners>
-  <test name="LoginTest">
+  <test name="Add To Cart">
     <classes>
-      <class name="testScripts.loginPage.LoginTest"/>
+      <class name="testScripts.addToCart.VerifyAddToCartPage"/>
     </classes>
-  </test> <!-- LoginTest -->
-  <test name="VerifyProductNameInAscendingOrder">
-    <classes>
-      <class name="testScripts.productDetailPage.VerifyProductNameInSortedOrder"/>
-    </classes>
-  </test> <!-- VerifyProductNameInAscendingOrder -->
-  <test name="VerifyProductPriceInAscendingOrder">
-    <classes>
-      <class name="testScripts.productDetailPage.VerifyProductPriceInSortedOrder"/>
-    </classes>
-  </test> <!-- VerifyProductPriceInAscendingOrder -->
+  </test> <!-- Add To Cart -->
 </suite> <!-- Failed suite [Suite] -->

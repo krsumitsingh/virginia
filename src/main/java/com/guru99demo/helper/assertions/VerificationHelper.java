@@ -25,8 +25,8 @@ public class VerificationHelper {
 	public boolean elementIsDisplayed(WebElement element) {
 		try {
 			element.isDisplayed();
-			log.info(element.getText());
-			TestBase.logExtentReport(element.getText());
+			//log.info(element.getText());
+			//TestBase.logExtentReport(element.getText());
 			return true;
 		} catch (Exception e) {
 			log.error("element not  displayed", e.getCause());
@@ -65,6 +65,8 @@ public class VerificationHelper {
 		}
 		status = elementIsDisplayed(element);
 		if (status) {
+			log.info(element.getText());
+			TestBase.logExtentReport(element.getText());
 			return element.getText();
 		} else {
 			return null;
