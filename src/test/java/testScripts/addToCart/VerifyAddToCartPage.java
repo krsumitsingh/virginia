@@ -21,17 +21,21 @@ import com.guru99demo.testBase.TestBase;
 import testScripts.productDetailPage.VerifyProductDetailPage;
 
 public class VerifyAddToCartPage extends TestBase {
-	
-	private final Logger log = LoggerHelper.getLogger(VerifyProductDetailPage.class);
-	boolean status;
 
+	private final Logger log = LoggerHelper.getLogger(VerifyAddToCartPage.class);
+	boolean status;
+	
+	String actualErrorMsg = "* The maximum quantity allowed for purchase is 500.";
+	String actualEmptyCartMsg="SHOPPING CART IS EMPTY";
+	
 	@BeforeClass
 	public void beforeClass() {
 		getApplicationUrl(ObjectReader.reader.getUrl());
 	}
-	
-	@Test
-	public void verifyUpdateAddItemCart(){
+
+	@SuppressWarnings("static-access")
+	@Test(priority = 1)
+	public void verifyUpdateAddItemCart() {
 		LoginPage login = new LoginPage(driver);
 		NavigationMenu navigationMenu = new NavigationMenu(driver);
 		ProductCategoryPage productCategoryPage = new ProductCategoryPage(driver);
@@ -47,27 +51,28 @@ public class VerifyAddToCartPage extends TestBase {
 			status = productCategoryPage.verifySuccessLoginMsg();
 			Obj.updateTestStatus(status);
 			productCategoryPage = navigationMenu.clickOnMenu(navigationMenu.mobileMenu);
-			//String expectedPrice = productCategoryPage.verifySingleProductPrice();
 			addToCart = productCategoryPage.clickAddToCart(productCategoryPage.addToCartBtn);
-			Thread.sleep(2000);
 			verificationhelper.getTitle();
-			//String actualPrice = productDetailPage.actualPriceofProduct();
-			//log.info("AP IS.."+actualPrice);
-			Thread.sleep(2000);
-			//Obj.verifyText(expectedPrice, actualPrice);
+			addToCart.editShoppingCartQty(addToCart.addToCartQty, ObjectReader.reader.getQty());
+			addToCart.updateShoppingCartQty(addToCart.updateShoppingCart);
+			String expectedErrorMsg = addToCart.errorMessage(addToCart.expectedErrorMessage);
+			Obj.verifyText(expectedErrorMsg, actualErrorMsg);
+
 		} catch (Exception e) {
 			TestBase.logExtentReport("login page not visible...");
 			e.printStackTrace();
 		}
 
-		
-		
-		
-		
-		
-		
-		
 	}
-	
+
+	@Test(priority = 2)
+	public void verifyEmptyCart() {
+		AddToCart addToCart = new AddToCart(driver);
+		AssertionHelper Obj = AssertionHelper.getInstance();
+		addToCart.emptyShoppingCart(addToCart.emptyCart);
+		String expectedEmptyCartErrorMsg = addToCart.errorMessage(addToCart.emptyCartErrorMsg);
+		Obj.verifyText(expectedEmptyCartErrorMsg, actualEmptyCartMsg);
+
+	}
 
 }

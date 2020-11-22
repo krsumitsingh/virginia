@@ -11,6 +11,7 @@ public interface ConfigReader {
 	public String getUrl();
 	public String getUserName();
 	public String getPassword();
+	public String getQty();
 	
 	
 }

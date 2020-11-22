@@ -6,31 +6,31 @@
         <listener class-name="com.guru99demo.helper.listener.ExtentListener"></listener>
     </listeners>
     
-  <!-- <test name="LoginTest">
+  <test name="LoginTest">
     <classes>
       <class name="testScripts.loginPage.LoginTest"></class>
     </classes>
   </test> 
   
-  <test name="verifyProductNameInSortedOrderInProductCategoryPage">
+  <test name="ProductNameInSortedOrderInProductCategoryPage">
     <classes>
       <class name="testScripts.productCategoryPage.VerifyProductNameInSortedOrder"></class>
     </classes>
   </test> 
   
-  <test name="verifyProductPriceSortingInProductCategoryPage">
+  <test name="ProductPriceSortingInProductCategoryPage">
     <classes>
       <class name="testScripts.productCategoryPage.VerifyProductPriceInSortedOrder"></class>
     </classes>
   </test> 
   
-  <test name="verifyProductDeatilsPage">
+  <test name="ProductDeatilsPage">
     <classes>
       <class name="testScripts.productDetailPage.VerifyProductDetailPage"></class>
     </classes>
-  </test>  -->
+  </test> 
   
-  <test name="Add To Cart">
+  <test name="AddToCart">
     <classes>
       <class name="testScripts.addToCart.VerifyAddToCartPage"></class>
     </classes>

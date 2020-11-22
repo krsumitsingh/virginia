@@ -54,7 +54,9 @@ public class PropertyReader implements ConfigReader {
 		return OR.getProperty("password");
 	}
 	
-	
+	public String getQty(){
+		return OR.getProperty("qty");
+	}
 	
 
 }

@@ -7478,3 +7478,528 @@ Session ID: f204c502f6e3378e5df6d2c4b4663951
 2020-11-21 23:11:10 INFO  TestBase :86 - **************verifyUpdateAddItemCartFinished***************
 2020-11-21 23:11:361 INFO  TestBase :93 - chrome browser closed..
 2020-11-21 23:11:114 INFO  ExtentListener :21 - Add To Cart Test Finished..
+2020-11-22 22:11:91 INFO  ExtentListener :28 - Add To Cart Class Started..
+2020-11-22 22:11:183 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-22 22:11:185 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-22 22:11:247 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-22 22:11:244 INFO  TestBase :68 - **************verifyUpdateAddItemCartStarted***************
+2020-11-22 22:11:266 INFO  ExtentListener :51 - verifyUpdateAddItemCart Test Started..
+2020-11-22 22:11:357 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (690bdd8ff86568e07f8c80d1278a2b00)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-22 22:11:443 INFO  WaitHelper :141 - element is visible now
+2020-11-22 22:11:451 INFO  WaitHelper :39 - Implicit Wait has been set to: 120
+2020-11-22 22:11:456 INFO  LoginPage :62 - user clicks on the account...
+2020-11-22 22:11:484 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-22 22:11:447 INFO  LoginPage :74 - user id entered..
+2020-11-22 22:11:549 INFO  LoginPage :80 - password entered..
+2020-11-22 22:11:650 INFO  LoginPage :86 - login button clicked..
+2020-11-22 22:11:199 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (690bdd8ff86568e07f8c80d1278a2b00)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-22 22:11:244 INFO  WaitHelper :141 - element is visible now
+2020-11-22 22:11:251 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-22 22:11:319 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-22 22:11:484 INFO  VerificationHelper :68 - ADD TO CART
+2020-11-22 22:11:526 INFO  ProductCategoryPage :167 - clickin on : ADD TO CART
+2020-11-22 22:11:716 INFO  VerificationHelper :101 - The tile of the page is: Shopping Cart
+2020-11-22 22:11:728 INFO  ExtentListener :57 - verifyUpdateAddItemCart Test Passed..
+2020-11-22 22:11:729 INFO  TestBase :86 - **************verifyUpdateAddItemCartFinished***************
+2020-11-22 22:11:496 INFO  TestBase :93 - chrome browser closed..
+2020-11-22 22:11:301 INFO  ExtentListener :21 - Add To Cart Test Finished..
+2020-11-22 22:11:472 INFO  ExtentListener :28 - Add To Cart Class Started..
+2020-11-22 22:11:434 INFO  TestBase :129 - Initialize Web driver: 1789110533
+2020-11-22 22:11:435 INFO  WaitHelper :39 - Implicit Wait has been set to: 15
+2020-11-22 22:11:443 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-22 22:11:515 INFO  TestBase :68 - **************verifyUpdateAddItemCartStarted***************
+2020-11-22 22:11:519 INFO  ExtentListener :51 - verifyUpdateAddItemCart Test Started..
+2020-11-22 22:11:586 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (06cc04fc68b450af5480c476b4fd310f)] -> xpath: //a[text()='Mobile']] for :20 seconds
+2020-11-22 22:11:282 INFO  WaitHelper :141 - element is visible now
+2020-11-22 22:11:293 INFO  WaitHelper :39 - Implicit Wait has been set to: 15
+2020-11-22 22:11:299 INFO  LoginPage :62 - user clicks on the account...
+2020-11-22 22:11:490 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-22 22:11:533 INFO  LoginPage :74 - user id entered..
+2020-11-22 22:11:662 INFO  LoginPage :80 - password entered..
+2020-11-22 22:11:740 INFO  LoginPage :86 - login button clicked..
+2020-11-22 22:11:310 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (06cc04fc68b450af5480c476b4fd310f)] -> xpath: //a[text()='Mobile']] for :20 seconds
+2020-11-22 22:11:358 INFO  WaitHelper :141 - element is visible now
+2020-11-22 22:11:383 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-22 22:11:454 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-22 22:11:547 INFO  VerificationHelper :68 - ADD TO CART
+2020-11-22 22:11:584 INFO  ProductCategoryPage :167 - clickin on : ADD TO CART
+2020-11-22 22:11:04 INFO  VerificationHelper :101 - The tile of the page is: Shopping Cart
+2020-11-22 22:11:372 INFO  ExtentListener :57 - verifyUpdateAddItemCart Test Passed..
+2020-11-22 22:11:373 INFO  TestBase :86 - **************verifyUpdateAddItemCartFinished***************
+2020-11-22 22:11:816 INFO  TestBase :93 - chrome browser closed..
+2020-11-22 22:11:603 INFO  ExtentListener :21 - Add To Cart Test Finished..
+2020-11-22 23:11:755 INFO  ExtentListener :28 - Add To Cart Class Started..
+2020-11-22 23:11:220 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-22 23:11:221 INFO  WaitHelper :39 - Implicit Wait has been set to: 15
+2020-11-22 23:11:228 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-22 23:11:110 INFO  TestBase :68 - **************verifyUpdateAddItemCartStarted***************
+2020-11-22 23:11:116 INFO  ExtentListener :51 - verifyUpdateAddItemCart Test Started..
+2020-11-22 23:11:349 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (1a18995bbdba8f562306a852809d654b)] -> xpath: //a[text()='Mobile']] for :20 seconds
+2020-11-22 23:11:449 INFO  WaitHelper :141 - element is visible now
+2020-11-22 23:11:460 INFO  WaitHelper :39 - Implicit Wait has been set to: 15
+2020-11-22 23:11:465 INFO  LoginPage :62 - user clicks on the account...
+2020-11-22 23:11:502 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-22 23:11:199 INFO  LoginPage :74 - user id entered..
+2020-11-22 23:11:371 INFO  LoginPage :80 - password entered..
+2020-11-22 23:11:488 INFO  LoginPage :86 - login button clicked..
+2020-11-22 23:11:182 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (1a18995bbdba8f562306a852809d654b)] -> xpath: //a[text()='Mobile']] for :20 seconds
+2020-11-22 23:11:227 INFO  WaitHelper :141 - element is visible now
+2020-11-22 23:11:235 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-22 23:11:317 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-22 23:11:165 INFO  VerificationHelper :68 - ADD TO CART
+2020-11-22 23:11:202 INFO  ProductCategoryPage :167 - clickin on : ADD TO CART
+2020-11-22 23:11:383 INFO  VerificationHelper :101 - The tile of the page is: Shopping Cart
+2020-11-22 23:11:483 INFO  AddToCart :36 - update the qty : 1000
+2020-11-22 23:11:663 INFO  ExtentListener :57 - verifyUpdateAddItemCart Test Passed..
+2020-11-22 23:11:664 INFO  TestBase :86 - **************verifyUpdateAddItemCartFinished***************
+2020-11-22 23:11:127 INFO  TestBase :93 - chrome browser closed..
+2020-11-22 23:11:901 INFO  ExtentListener :21 - Add To Cart Test Finished..
+2020-11-22 23:11:905 INFO  ExtentListener :28 - Add To Cart Class Started..
+2020-11-22 23:11:414 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-22 23:11:415 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-22 23:11:422 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-22 23:11:521 INFO  TestBase :68 - **************verifyUpdateAddItemCartStarted***************
+2020-11-22 23:11:526 INFO  ExtentListener :51 - verifyUpdateAddItemCart Test Started..
+2020-11-22 23:11:652 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (ac465e579e5c199414ee99f75176ec49)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-22 23:11:269 INFO  WaitHelper :141 - element is visible now
+2020-11-22 23:11:281 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-22 23:11:286 INFO  LoginPage :62 - user clicks on the account...
+2020-11-22 23:11:375 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-22 23:11:975 INFO  LoginPage :74 - user id entered..
+2020-11-22 23:11:151 INFO  LoginPage :80 - password entered..
+2020-11-22 23:11:275 INFO  LoginPage :86 - login button clicked..
+2020-11-22 23:11:965 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (ac465e579e5c199414ee99f75176ec49)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-22 23:11:13 INFO  WaitHelper :141 - element is visible now
+2020-11-22 23:11:20 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-22 23:11:94 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-22 23:11:145 INFO  VerificationHelper :68 - ADD TO CART
+2020-11-22 23:11:184 INFO  ProductCategoryPage :167 - clickin on : ADD TO CART
+2020-11-22 23:11:555 INFO  VerificationHelper :101 - The tile of the page is: Shopping Cart
+2020-11-22 23:11:654 INFO  AddToCart :40 - update the qty to : 1000
+2020-11-22 23:11:835 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (ac465e579e5c199414ee99f75176ec49)] -> xpath: //span[text()='Update']] for :200 seconds
+2020-11-22 23:11:872 INFO  WaitHelper :141 - element is visible now
+2020-11-22 23:11:931 INFO  VerificationHelper :68 - UPDATE
+2020-11-22 23:11:970 INFO  AddToCart :48 - clickin on : UPDATE
+2020-11-22 23:11:948 INFO  ExtentListener :57 - verifyUpdateAddItemCart Test Passed..
+2020-11-22 23:11:949 INFO  TestBase :86 - **************verifyUpdateAddItemCartFinished***************
+2020-11-22 23:11:371 INFO  TestBase :93 - chrome browser closed..
+2020-11-22 23:11:142 INFO  ExtentListener :21 - Add To Cart Test Finished..
+2020-11-23 00:11:543 INFO  ExtentListener :28 - Add To Cart Class Started..
+2020-11-23 00:11:39 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-23 00:11:40 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:47 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-23 00:11:33 INFO  TestBase :68 - **************verifyUpdateAddItemCartStarted***************
+2020-11-23 00:11:37 INFO  ExtentListener :51 - verifyUpdateAddItemCart Test Started..
+2020-11-23 00:11:85 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (7a651d20aef63ba87892bfab244782c4)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:154 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:166 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:170 INFO  LoginPage :62 - user clicks on the account...
+2020-11-23 00:11:199 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-23 00:11:881 INFO  LoginPage :74 - user id entered..
+2020-11-23 00:11:996 INFO  LoginPage :80 - password entered..
+2020-11-23 00:11:76 INFO  LoginPage :86 - login button clicked..
+2020-11-23 00:11:329 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (7a651d20aef63ba87892bfab244782c4)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:373 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:397 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-23 00:11:465 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-23 00:11:511 INFO  VerificationHelper :68 - ADD TO CART
+2020-11-23 00:11:550 INFO  ProductCategoryPage :167 - clickin on : ADD TO CART
+2020-11-23 00:11:75 INFO  VerificationHelper :101 - The tile of the page is: Sony Xperia - Mobile
+2020-11-23 00:11:167 INFO  AddToCart :43 - update the qty to : 1000
+2020-11-23 00:11:486 INFO  WaitHelper :138 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Update']' for :200 seconds
+2020-11-23 00:11:178 INFO  ExtentListener :28 - Add To Cart Class Started..
+2020-11-23 00:11:666 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-23 00:11:667 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:676 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-23 00:11:574 INFO  TestBase :68 - **************verifyUpdateAddItemCartStarted***************
+2020-11-23 00:11:579 INFO  ExtentListener :51 - verifyUpdateAddItemCart Test Started..
+2020-11-23 00:11:632 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (c8345113d4ab4855f231eccb1ef3ef48)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:709 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:719 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:723 INFO  LoginPage :62 - user clicks on the account...
+2020-11-23 00:11:752 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-23 00:11:453 INFO  LoginPage :74 - user id entered..
+2020-11-23 00:11:554 INFO  LoginPage :80 - password entered..
+2020-11-23 00:11:646 INFO  LoginPage :86 - login button clicked..
+2020-11-23 00:11:800 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (c8345113d4ab4855f231eccb1ef3ef48)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:844 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:851 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-23 00:11:931 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-23 00:11:962 INFO  VerificationHelper :68 - ADD TO CART
+2020-11-23 00:11:04 INFO  ProductCategoryPage :167 - clickin on : ADD TO CART
+2020-11-23 00:11:287 INFO  VerificationHelper :101 - The tile of the page is: Shopping Cart
+2020-11-23 00:11:418 INFO  AddToCart :43 - update the qty to : 1000
+2020-11-23 00:11:488 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (c8345113d4ab4855f231eccb1ef3ef48)] -> xpath: //span[text()='Update']] for :200 seconds
+2020-11-23 00:11:534 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:607 INFO  VerificationHelper :68 - UPDATE
+2020-11-23 00:11:815 INFO  AddToCart :51 - clickin on : UPDATE
+2020-11-23 00:11:128 INFO  VerificationHelper :68 - * The maximum quantity allowed for purchase is 500.
+2020-11-23 00:11:187 INFO  AssertionHelper :23 - verify text with * The maximum quantity allowed for purchase is 500. and * The maximum quantity allowed for purchase is 500.
+2020-11-23 00:11:188 INFO  ExtentListener :57 - verifyUpdateAddItemCart Test Passed..
+2020-11-23 00:11:189 INFO  TestBase :86 - **************verifyUpdateAddItemCartFinished***************
+2020-11-23 00:11:735 INFO  TestBase :93 - chrome browser closed..
+2020-11-23 00:11:493 INFO  ExtentListener :21 - Add To Cart Test Finished..
+2020-11-23 00:11:965 INFO  ExtentListener :28 - Add To Cart Class Started..
+2020-11-23 00:11:356 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-23 00:11:357 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:364 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-23 00:11:568 INFO  TestBase :68 - **************verifyUpdateAddItemCartStarted***************
+2020-11-23 00:11:573 INFO  ExtentListener :51 - verifyUpdateAddItemCart Test Started..
+2020-11-23 00:11:225 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (92d757f5cf17c75b1679cfd9f7e088b1)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:331 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:342 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:347 INFO  LoginPage :62 - user clicks on the account...
+2020-11-23 00:11:392 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-23 00:11:32 INFO  LoginPage :74 - user id entered..
+2020-11-23 00:11:210 INFO  LoginPage :80 - password entered..
+2020-11-23 00:11:331 INFO  LoginPage :86 - login button clicked..
+2020-11-23 00:11:603 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (92d757f5cf17c75b1679cfd9f7e088b1)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:648 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:656 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-23 00:11:737 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-23 00:11:764 INFO  VerificationHelper :68 - ADD TO CART
+2020-11-23 00:11:805 INFO  ProductCategoryPage :167 - clickin on : ADD TO CART
+2020-11-23 00:11:957 INFO  VerificationHelper :101 - The tile of the page is: Shopping Cart
+2020-11-23 00:11:71 INFO  AddToCart :51 - update the qty to : 1000
+2020-11-23 00:11:266 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (92d757f5cf17c75b1679cfd9f7e088b1)] -> xpath: //span[text()='Update']] for :200 seconds
+2020-11-23 00:11:303 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:361 INFO  VerificationHelper :68 - UPDATE
+2020-11-23 00:11:401 INFO  AddToCart :59 - clickin on : UPDATE
+2020-11-23 00:11:430 INFO  VerificationHelper :68 - * The maximum quantity allowed for purchase is 500.
+2020-11-23 00:11:474 INFO  AssertionHelper :23 - verify text with * The maximum quantity allowed for purchase is 500. and * The maximum quantity allowed for purchase is 500.
+2020-11-23 00:11:476 INFO  ExtentListener :57 - verifyUpdateAddItemCart Test Passed..
+2020-11-23 00:11:477 INFO  TestBase :86 - **************verifyUpdateAddItemCartFinished***************
+2020-11-23 00:11:945 INFO  TestBase :68 - **************verifyEmptyCartStarted***************
+2020-11-23 00:11:946 INFO  ExtentListener :51 - verifyEmptyCart Test Started..
+2020-11-23 00:11:948 INFO  ExtentListener :57 - verifyEmptyCart Test Passed..
+2020-11-23 00:11:948 INFO  TestBase :86 - **************verifyEmptyCartFinished***************
+2020-11-23 00:11:30 INFO  TestBase :93 - chrome browser closed..
+2020-11-23 00:11:878 INFO  ExtentListener :21 - Add To Cart Test Finished..
+2020-11-23 00:11:61 INFO  ExtentListener :28 - Add To Cart Class Started..
+2020-11-23 00:11:506 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-23 00:11:507 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:514 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-23 00:11:567 INFO  TestBase :68 - **************verifyUpdateAddItemCartStarted***************
+2020-11-23 00:11:571 INFO  ExtentListener :51 - verifyUpdateAddItemCart Test Started..
+2020-11-23 00:11:651 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (bb337a4e07f29197ecef10c46f349f5b)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:443 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:455 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:460 INFO  LoginPage :62 - user clicks on the account...
+2020-11-23 00:11:496 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-23 00:11:94 INFO  LoginPage :74 - user id entered..
+2020-11-23 00:11:271 INFO  LoginPage :80 - password entered..
+2020-11-23 00:11:377 INFO  LoginPage :86 - login button clicked..
+2020-11-23 00:11:615 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (bb337a4e07f29197ecef10c46f349f5b)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:651 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:660 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-23 00:11:769 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-23 00:11:938 INFO  VerificationHelper :68 - ADD TO CART
+2020-11-23 00:11:980 INFO  ProductCategoryPage :167 - clickin on : ADD TO CART
+2020-11-23 00:11:468 INFO  VerificationHelper :101 - The tile of the page is: Sony Xperia - Mobile
+2020-11-23 00:11:555 INFO  AddToCart :51 - update the qty to : 1000
+2020-11-23 00:11:245 INFO  WaitHelper :138 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Update']' for :200 seconds
+2020-11-23 00:11:495 INFO  ExtentListener :28 - Add To Cart Class Started..
+2020-11-23 00:11:939 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-23 00:11:940 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:947 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-23 00:11:207 INFO  TestBase :68 - **************verifyUpdateAddItemCartStarted***************
+2020-11-23 00:11:211 INFO  ExtentListener :51 - verifyUpdateAddItemCart Test Started..
+2020-11-23 00:11:263 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (a7edf34241cf44e116849d9bfd89f75e)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:396 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:407 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:410 INFO  LoginPage :62 - user clicks on the account...
+2020-11-23 00:11:607 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-23 00:11:406 INFO  LoginPage :74 - user id entered..
+2020-11-23 00:11:532 INFO  LoginPage :80 - password entered..
+2020-11-23 00:11:620 INFO  LoginPage :86 - login button clicked..
+2020-11-23 00:11:862 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (a7edf34241cf44e116849d9bfd89f75e)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:906 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:931 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-23 00:11:00 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-23 00:11:180 INFO  VerificationHelper :68 - ADD TO CART
+2020-11-23 00:11:218 INFO  ProductCategoryPage :167 - clickin on : ADD TO CART
+2020-11-23 00:11:759 INFO  VerificationHelper :101 - The tile of the page is: Shopping Cart
+2020-11-23 00:11:870 INFO  AddToCart :51 - update the qty to : 1000
+2020-11-23 00:11:79 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (a7edf34241cf44e116849d9bfd89f75e)] -> xpath: //span[text()='Update']] for :200 seconds
+2020-11-23 00:11:118 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:183 INFO  VerificationHelper :68 - UPDATE
+2020-11-23 00:11:220 INFO  AddToCart :59 - clickin on : UPDATE
+2020-11-23 00:11:260 INFO  VerificationHelper :68 - * The maximum quantity allowed for purchase is 500.
+2020-11-23 00:11:307 INFO  AssertionHelper :23 - verify text with * The maximum quantity allowed for purchase is 500. and * The maximum quantity allowed for purchase is 500.
+2020-11-23 00:11:309 INFO  ExtentListener :57 - verifyUpdateAddItemCart Test Passed..
+2020-11-23 00:11:309 INFO  TestBase :86 - **************verifyUpdateAddItemCartFinished***************
+2020-11-23 00:11:772 INFO  TestBase :68 - **************verifyEmptyCartStarted***************
+2020-11-23 00:11:773 INFO  ExtentListener :51 - verifyEmptyCart Test Started..
+2020-11-23 00:11:799 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (a7edf34241cf44e116849d9bfd89f75e)] -> xpath: //span[text()='Empty Cart']] for :200 seconds
+2020-11-23 00:11:847 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:899 INFO  VerificationHelper :68 - EMPTY CART
+2020-11-23 00:11:934 INFO  AddToCart :72 - clickin on : EMPTY CART
+2020-11-23 00:11:833 INFO  ExtentListener :57 - verifyEmptyCart Test Passed..
+2020-11-23 00:11:834 INFO  TestBase :86 - **************verifyEmptyCartFinished***************
+2020-11-23 00:11:890 INFO  TestBase :93 - chrome browser closed..
+2020-11-23 00:11:650 INFO  ExtentListener :21 - Add To Cart Test Finished..
+2020-11-23 00:11:703 INFO  ExtentListener :28 - Add To Cart Class Started..
+2020-11-23 00:11:70 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-23 00:11:71 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:78 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-23 00:11:46 INFO  TestBase :68 - **************verifyUpdateAddItemCartStarted***************
+2020-11-23 00:11:51 INFO  ExtentListener :51 - verifyUpdateAddItemCart Test Started..
+2020-11-23 00:11:106 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (1ae2fc0e5f8adece48a85fff21c65a30)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:197 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:207 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:211 INFO  LoginPage :62 - user clicks on the account...
+2020-11-23 00:11:244 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-23 00:11:892 INFO  LoginPage :74 - user id entered..
+2020-11-23 00:11:83 INFO  LoginPage :80 - password entered..
+2020-11-23 00:11:185 INFO  LoginPage :86 - login button clicked..
+2020-11-23 00:11:571 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (1ae2fc0e5f8adece48a85fff21c65a30)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:623 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:650 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-23 00:11:724 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-23 00:11:713 INFO  VerificationHelper :68 - ADD TO CART
+2020-11-23 00:11:753 INFO  ProductCategoryPage :167 - clickin on : ADD TO CART
+2020-11-23 00:11:905 INFO  VerificationHelper :101 - The tile of the page is: Shopping Cart
+2020-11-23 00:11:03 INFO  AddToCart :51 - update the qty to : 1000
+2020-11-23 00:11:69 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (1ae2fc0e5f8adece48a85fff21c65a30)] -> xpath: //span[text()='Update']] for :200 seconds
+2020-11-23 00:11:211 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:282 INFO  VerificationHelper :68 - UPDATE
+2020-11-23 00:11:338 INFO  AddToCart :59 - clickin on : UPDATE
+2020-11-23 00:11:375 INFO  VerificationHelper :68 - * The maximum quantity allowed for purchase is 500.
+2020-11-23 00:11:427 INFO  AssertionHelper :23 - verify text with * The maximum quantity allowed for purchase is 500. and * The maximum quantity allowed for purchase is 500.
+2020-11-23 00:11:429 INFO  ExtentListener :57 - verifyUpdateAddItemCart Test Passed..
+2020-11-23 00:11:429 INFO  TestBase :86 - **************verifyUpdateAddItemCartFinished***************
+2020-11-23 00:11:863 INFO  TestBase :68 - **************verifyEmptyCartStarted***************
+2020-11-23 00:11:864 INFO  ExtentListener :51 - verifyEmptyCart Test Started..
+2020-11-23 00:11:948 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (1ae2fc0e5f8adece48a85fff21c65a30)] -> xpath: //span[text()='Empty Cart']] for :200 seconds
+2020-11-23 00:11:984 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:31 INFO  VerificationHelper :68 - EMPTY CART
+2020-11-23 00:11:62 INFO  AddToCart :72 - clickin on : EMPTY CART
+2020-11-23 00:11:24 INFO  VerificationHelper :68 - SHOPPING CART IS EMPTY
+2020-11-23 00:11:73 INFO  AssertionHelper :23 - verify text with SHOPPING CART IS EMPTY and * The maximum quantity allowed for purchase is 500.
+2020-11-23 00:11:76 ERROR ExtentListener :38 - verifyEmptyCart Test Failed..java.lang.AssertionError: expected [* The maximum quantity allowed for purchase is 500.] but found [SHOPPING CART IS EMPTY]
+2020-11-23 00:11:378 INFO  TestBase :86 - **************verifyEmptyCartFinished***************
+2020-11-23 00:11:442 INFO  TestBase :93 - chrome browser closed..
+2020-11-23 00:11:212 INFO  ExtentListener :21 - Add To Cart Test Finished..
+2020-11-23 00:11:646 INFO  ExtentListener :28 - Add To Cart Class Started..
+2020-11-23 00:11:107 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-23 00:11:108 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:114 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-23 00:11:385 INFO  TestBase :68 - **************verifyUpdateAddItemCartStarted***************
+2020-11-23 00:11:391 INFO  ExtentListener :51 - verifyUpdateAddItemCart Test Started..
+2020-11-23 00:11:690 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (c85da4f7328a3c28521de12ce0552ac7)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:402 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:413 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:418 INFO  LoginPage :62 - user clicks on the account...
+2020-11-23 00:11:458 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-23 00:11:133 INFO  LoginPage :74 - user id entered..
+2020-11-23 00:11:301 INFO  LoginPage :80 - password entered..
+2020-11-23 00:11:422 INFO  LoginPage :86 - login button clicked..
+2020-11-23 00:11:607 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (c85da4f7328a3c28521de12ce0552ac7)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:675 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:683 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-23 00:11:753 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-23 00:11:780 INFO  VerificationHelper :68 - ADD TO CART
+2020-11-23 00:11:817 INFO  ProductCategoryPage :167 - clickin on : ADD TO CART
+2020-11-23 00:11:967 INFO  VerificationHelper :101 - The tile of the page is: Shopping Cart
+2020-11-23 00:11:178 INFO  AddToCart :51 - update the qty to : 1000
+2020-11-23 00:11:259 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (c85da4f7328a3c28521de12ce0552ac7)] -> xpath: //span[text()='Update']] for :200 seconds
+2020-11-23 00:11:297 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:352 INFO  VerificationHelper :68 - UPDATE
+2020-11-23 00:11:396 INFO  AddToCart :59 - clickin on : UPDATE
+2020-11-23 00:11:786 INFO  VerificationHelper :68 - * The maximum quantity allowed for purchase is 500.
+2020-11-23 00:11:835 INFO  AssertionHelper :23 - verify text with * The maximum quantity allowed for purchase is 500. and * The maximum quantity allowed for purchase is 500.
+2020-11-23 00:11:836 INFO  ExtentListener :57 - verifyUpdateAddItemCart Test Passed..
+2020-11-23 00:11:838 INFO  TestBase :86 - **************verifyUpdateAddItemCartFinished***************
+2020-11-23 00:11:307 INFO  TestBase :68 - **************verifyEmptyCartStarted***************
+2020-11-23 00:11:311 INFO  ExtentListener :51 - verifyEmptyCart Test Started..
+2020-11-23 00:11:331 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (c85da4f7328a3c28521de12ce0552ac7)] -> xpath: //span[text()='Empty Cart']] for :200 seconds
+2020-11-23 00:11:359 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:414 INFO  VerificationHelper :68 - EMPTY CART
+2020-11-23 00:11:455 INFO  AddToCart :72 - clickin on : EMPTY CART
+2020-11-23 00:11:406 INFO  VerificationHelper :68 - SHOPPING CART IS EMPTY
+2020-11-23 00:11:445 INFO  AssertionHelper :23 - verify text with SHOPPING CART IS EMPTY and * The maximum quantity allowed for purchase is 500.
+2020-11-23 00:11:448 ERROR ExtentListener :38 - verifyEmptyCart Test Failed..java.lang.AssertionError: expected [* The maximum quantity allowed for purchase is 500.] but found [SHOPPING CART IS EMPTY]
+2020-11-23 00:11:791 INFO  TestBase :86 - **************verifyEmptyCartFinished***************
+2020-11-23 00:11:853 INFO  TestBase :93 - chrome browser closed..
+2020-11-23 00:11:614 INFO  ExtentListener :21 - Add To Cart Test Finished..
+2020-11-23 00:11:73 INFO  ExtentListener :28 - Add To Cart Class Started..
+2020-11-23 00:11:601 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-11-23 00:11:602 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:609 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-23 00:11:22 INFO  TestBase :68 - **************verifyUpdateAddItemCartStarted***************
+2020-11-23 00:11:28 INFO  ExtentListener :51 - verifyUpdateAddItemCart Test Started..
+2020-11-23 00:11:84 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (6077c4b79c5f4ed91b7f3f179d3e4e94)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:183 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:194 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:198 INFO  LoginPage :62 - user clicks on the account...
+2020-11-23 00:11:226 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-23 00:11:884 INFO  LoginPage :74 - user id entered..
+2020-11-23 00:11:23 INFO  LoginPage :80 - password entered..
+2020-11-23 00:11:108 INFO  LoginPage :86 - login button clicked..
+2020-11-23 00:11:315 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (6077c4b79c5f4ed91b7f3f179d3e4e94)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:382 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:409 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-23 00:11:479 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-23 00:11:630 INFO  VerificationHelper :68 - ADD TO CART
+2020-11-23 00:11:672 INFO  ProductCategoryPage :167 - clickin on : ADD TO CART
+2020-11-23 00:11:815 INFO  VerificationHelper :101 - The tile of the page is: Shopping Cart
+2020-11-23 00:11:906 INFO  AddToCart :51 - update the qty to : 1000
+2020-11-23 00:11:79 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (6077c4b79c5f4ed91b7f3f179d3e4e94)] -> xpath: //span[text()='Update']] for :200 seconds
+2020-11-23 00:11:150 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:216 INFO  VerificationHelper :68 - UPDATE
+2020-11-23 00:11:255 INFO  AddToCart :59 - clickin on : UPDATE
+2020-11-23 00:11:346 INFO  VerificationHelper :68 - * The maximum quantity allowed for purchase is 500.
+2020-11-23 00:11:395 INFO  AssertionHelper :23 - verify text with * The maximum quantity allowed for purchase is 500. and * The maximum quantity allowed for purchase is 500.
+2020-11-23 00:11:396 INFO  ExtentListener :57 - verifyUpdateAddItemCart Test Passed..
+2020-11-23 00:11:397 INFO  TestBase :86 - **************verifyUpdateAddItemCartFinished***************
+2020-11-23 00:11:887 INFO  TestBase :68 - **************verifyEmptyCartStarted***************
+2020-11-23 00:11:889 INFO  ExtentListener :51 - verifyEmptyCart Test Started..
+2020-11-23 00:11:905 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (6077c4b79c5f4ed91b7f3f179d3e4e94)] -> xpath: //span[text()='Empty Cart']] for :200 seconds
+2020-11-23 00:11:940 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:991 INFO  VerificationHelper :68 - EMPTY CART
+2020-11-23 00:11:24 INFO  AddToCart :72 - clickin on : EMPTY CART
+2020-11-23 00:11:00 INFO  VerificationHelper :68 - SHOPPING CART IS EMPTY
+2020-11-23 00:11:33 INFO  AssertionHelper :23 - verify text with SHOPPING CART IS EMPTY and SHOPPING CART IS EMPTY
+2020-11-23 00:11:34 INFO  ExtentListener :57 - verifyEmptyCart Test Passed..
+2020-11-23 00:11:35 INFO  TestBase :86 - **************verifyEmptyCartFinished***************
+2020-11-23 00:11:84 INFO  TestBase :93 - chrome browser closed..
+2020-11-23 00:11:806 INFO  ExtentListener :21 - Add To Cart Test Finished..
+2020-11-23 00:11:857 INFO  ExtentListener :28 - LoginTest Class Started..
+2020-11-23 00:11:418 INFO  TestBase :129 - Initialize Web driver: 1636291061
+2020-11-23 00:11:419 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:427 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-23 00:11:233 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-11-23 00:11:237 INFO  ExtentListener :51 - testLoginToApplication Test Started..
+2020-11-23 00:11:267 INFO  VerificationHelper :101 - The tile of the page is: Home page
+2020-11-23 00:11:347 INFO  LoginPage :62 - user clicks on the account...
+2020-11-23 00:11:378 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-23 00:11:196 INFO  LoginPage :74 - user id entered..
+2020-11-23 00:11:310 INFO  LoginPage :80 - password entered..
+2020-11-23 00:11:392 INFO  LoginPage :86 - login button clicked..
+2020-11-23 00:11:544 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (4427788dd176fa0d1a98d2102cab41a9)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:612 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:613 INFO  ExtentListener :57 - testLoginToApplication Test Passed..
+2020-11-23 00:11:615 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-11-23 00:11:45 INFO  TestBase :93 - chrome browser closed..
+2020-11-23 00:11:829 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-11-23 00:11:830 INFO  ExtentListener :28 - verifyProductNameInSortedOrderInProductCategoryPage Class Started..
+2020-11-23 00:11:167 INFO  TestBase :129 - Initialize Web driver: 1151512955
+2020-11-23 00:11:167 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:170 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-23 00:11:461 INFO  TestBase :68 - **************verifyProductNameInSortedOrderInProductCategoryPageStarted***************
+2020-11-23 00:11:463 INFO  ExtentListener :51 - verifyProductNameInSortedOrderInProductCategoryPage Test Started..
+2020-11-23 00:11:503 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (0e72fb9f00e925418342cc5075516bd6)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:536 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:543 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:547 INFO  LoginPage :62 - user clicks on the account...
+2020-11-23 00:11:589 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-23 00:11:371 INFO  LoginPage :74 - user id entered..
+2020-11-23 00:11:511 INFO  LoginPage :80 - password entered..
+2020-11-23 00:11:599 INFO  LoginPage :86 - login button clicked..
+2020-11-23 00:11:776 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (0e72fb9f00e925418342cc5075516bd6)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:810 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:816 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-23 00:11:907 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-23 00:11:918 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-23 00:11:961 INFO  DropDownHelper :38 - visibleTextSelected is: Name
+2020-11-23 00:11:971 INFO  ProductCategoryPage :104 - products sorted on the basis of name..[IPhone, Samsung Galaxy, Sony Xperia]
+2020-11-23 00:11:971 INFO  ProductCategoryPage :87 - products sorted..
+2020-11-23 00:11:972 INFO  ExtentListener :57 - verifyProductNameInSortedOrderInProductCategoryPage Test Passed..
+2020-11-23 00:11:973 INFO  TestBase :86 - **************verifyProductNameInSortedOrderInProductCategoryPageFinished***************
+2020-11-23 00:11:30 INFO  TestBase :93 - chrome browser closed..
+2020-11-23 00:11:797 INFO  ExtentListener :21 - verifyProductNameInSortedOrderInProductCategoryPage Test Finished..
+2020-11-23 00:11:798 INFO  ExtentListener :28 - verifyProductPriceSortingInProductCategoryPage Class Started..
+2020-11-23 00:11:81 INFO  TestBase :129 - Initialize Web driver: 215478702
+2020-11-23 00:11:81 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:85 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-23 00:11:973 INFO  TestBase :68 - **************verifyProductPriceSortingInProductCategoryPageStarted***************
+2020-11-23 00:11:974 INFO  ExtentListener :51 - verifyProductPriceSortingInProductCategoryPage Test Started..
+2020-11-23 00:11:992 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (4afc4149106cded4b378ccdcb5da1833)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:26 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:27 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:32 INFO  LoginPage :62 - user clicks on the account...
+2020-11-23 00:11:69 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-23 00:11:761 INFO  LoginPage :74 - user id entered..
+2020-11-23 00:11:899 INFO  LoginPage :80 - password entered..
+2020-11-23 00:11:04 INFO  LoginPage :86 - login button clicked..
+2020-11-23 00:11:757 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (4afc4149106cded4b378ccdcb5da1833)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:787 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:792 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-23 00:11:868 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-23 00:11:836 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-11-23 00:11:885 INFO  DropDownHelper :38 - visibleTextSelected is: Price
+2020-11-23 00:11:580 INFO  ProductCategoryPage :134 - products sorted on the basis of price..[100.0, 130.0, 500.0]
+2020-11-23 00:11:581 INFO  ProductCategoryPage :134 - products sorted on the basis of price..[100.0, 130.0, 500.0]
+2020-11-23 00:11:582 INFO  ExtentListener :57 - verifyProductPriceSortingInProductCategoryPage Test Passed..
+2020-11-23 00:11:582 INFO  TestBase :86 - **************verifyProductPriceSortingInProductCategoryPageFinished***************
+2020-11-23 00:11:624 INFO  TestBase :93 - chrome browser closed..
+2020-11-23 00:11:344 INFO  ExtentListener :21 - verifyProductPriceSortingInProductCategoryPage Test Finished..
+2020-11-23 00:11:344 INFO  ExtentListener :28 - verifyProductDeatilsPage Class Started..
+2020-11-23 00:11:623 INFO  TestBase :129 - Initialize Web driver: 2110785285
+2020-11-23 00:11:624 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:625 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-23 00:11:647 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-11-23 00:11:650 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-11-23 00:11:672 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (326c49a3f8a07c5d8c6c789aca18e0b4)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:706 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:709 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:712 INFO  LoginPage :62 - user clicks on the account...
+2020-11-23 00:11:741 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-23 00:11:369 INFO  LoginPage :74 - user id entered..
+2020-11-23 00:11:539 INFO  LoginPage :80 - password entered..
+2020-11-23 00:11:631 INFO  LoginPage :86 - login button clicked..
+2020-11-23 00:11:789 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (326c49a3f8a07c5d8c6c789aca18e0b4)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:817 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:822 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-23 00:11:895 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-23 00:11:53 INFO  VerificationHelper :68 - $100.00
+2020-11-23 00:11:151 INFO  ProductCategoryPage :153 - clickin on : Xperia
+2020-11-23 00:11:622 INFO  VerificationHelper :101 - The tile of the page is: Sony Xperia - Mobile
+2020-11-23 00:11:688 INFO  VerificationHelper :68 - $100.00
+2020-11-23 00:11:727 INFO  AssertionHelper :23 - verify text with $100.00 and $100.00
+2020-11-23 00:11:728 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-11-23 00:11:730 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-11-23 00:11:792 INFO  TestBase :93 - chrome browser closed..
+2020-11-23 00:11:512 INFO  ExtentListener :21 - verifyProductDeatilsPage Test Finished..
+2020-11-23 00:11:513 INFO  ExtentListener :28 - Add To Cart Class Started..
+2020-11-23 00:11:863 INFO  TestBase :129 - Initialize Web driver: 790538253
+2020-11-23 00:11:863 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:866 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-11-23 00:11:180 INFO  TestBase :68 - **************verifyUpdateAddItemCartStarted***************
+2020-11-23 00:11:182 INFO  ExtentListener :51 - verifyUpdateAddItemCart Test Started..
+2020-11-23 00:11:203 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (edc2b1e0ed6c1e2e472c157ecfacb4ef)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:236 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:239 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-11-23 00:11:242 INFO  LoginPage :62 - user clicks on the account...
+2020-11-23 00:11:272 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-11-23 00:11:29 INFO  LoginPage :74 - user id entered..
+2020-11-23 00:11:153 INFO  LoginPage :80 - password entered..
+2020-11-23 00:11:231 INFO  LoginPage :86 - login button clicked..
+2020-11-23 00:11:489 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (edc2b1e0ed6c1e2e472c157ecfacb4ef)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-11-23 00:11:522 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:529 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-11-23 00:11:607 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-11-23 00:11:43 INFO  VerificationHelper :68 - ADD TO CART
+2020-11-23 00:11:83 INFO  ProductCategoryPage :167 - clickin on : ADD TO CART
+2020-11-23 00:11:243 INFO  VerificationHelper :101 - The tile of the page is: Shopping Cart
+2020-11-23 00:11:339 INFO  AddToCart :51 - update the qty to : 1000
+2020-11-23 00:11:600 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (edc2b1e0ed6c1e2e472c157ecfacb4ef)] -> xpath: //span[text()='Update']] for :200 seconds
+2020-11-23 00:11:643 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:705 INFO  VerificationHelper :68 - UPDATE
+2020-11-23 00:11:745 INFO  AddToCart :59 - clickin on : UPDATE
+2020-11-23 00:11:807 INFO  VerificationHelper :68 - * The maximum quantity allowed for purchase is 500.
+2020-11-23 00:11:840 INFO  AssertionHelper :23 - verify text with * The maximum quantity allowed for purchase is 500. and * The maximum quantity allowed for purchase is 500.
+2020-11-23 00:11:841 INFO  ExtentListener :57 - verifyUpdateAddItemCart Test Passed..
+2020-11-23 00:11:841 INFO  TestBase :86 - **************verifyUpdateAddItemCartFinished***************
+2020-11-23 00:11:896 INFO  TestBase :68 - **************verifyEmptyCartStarted***************
+2020-11-23 00:11:898 INFO  ExtentListener :51 - verifyEmptyCart Test Started..
+2020-11-23 00:11:918 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (edc2b1e0ed6c1e2e472c157ecfacb4ef)] -> xpath: //span[text()='Empty Cart']] for :200 seconds
+2020-11-23 00:11:951 INFO  WaitHelper :141 - element is visible now
+2020-11-23 00:11:13 INFO  VerificationHelper :68 - EMPTY CART
+2020-11-23 00:11:191 INFO  AddToCart :72 - clickin on : EMPTY CART
+2020-11-23 00:11:205 INFO  VerificationHelper :68 - SHOPPING CART IS EMPTY
+2020-11-23 00:11:236 INFO  AssertionHelper :23 - verify text with SHOPPING CART IS EMPTY and SHOPPING CART IS EMPTY
+2020-11-23 00:11:236 INFO  ExtentListener :57 - verifyEmptyCart Test Passed..
+2020-11-23 00:11:237 INFO  TestBase :86 - **************verifyEmptyCartFinished***************
+2020-11-23 00:11:302 INFO  TestBase :93 - chrome browser closed..
+2020-11-23 00:11:10 INFO  ExtentListener :21 - Add To Cart Test Finished..
