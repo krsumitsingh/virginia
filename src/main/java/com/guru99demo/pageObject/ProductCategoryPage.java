@@ -12,6 +12,7 @@ import com.guru99demo.helper.assertions.VerificationHelper;
 import com.guru99demo.helper.javaScript.JavaScriptHelper;
 import com.guru99demo.helper.logger.LoggerHelper;
 import com.guru99demo.helper.select.DropDownHelper;
+import com.guru99demo.helper.window.WindowHelper;
 import com.guru99demo.testBase.TestBase;
 
 public class ProductCategoryPage {
@@ -19,6 +20,7 @@ public class ProductCategoryPage {
 	private WebDriver driver;
 	private Logger log = LoggerHelper.getLogger(ProductCategoryPage.class);
 	JavaScriptHelper javascripthelper;
+	WindowHelper windowhelper;
 
 	@FindBy(css = "p.welcome-msg")
 	WebElement homePageMessage;
@@ -40,11 +42,23 @@ public class ProductCategoryPage {
 	
 	@FindBy(xpath="//span[text()='Add to Cart']")
 	public WebElement addToCartBtn;
+	
+	@FindBy(xpath="//li[1]/div[1]/div[3]/ul[1]/li[2]/a[1]")
+	public WebElement firstProductAddToCompare;
+	
+	@FindBy(xpath="//li[2]/div[1]/div[3]/ul[1]/li[2]/a[1]")
+	public WebElement secondProductAddToCompare;
+	
+	@FindBy(xpath="//span[text()='Compare']")
+	public WebElement compareBtn;
+	
+	
 
 	public ProductCategoryPage(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 		javascripthelper = new JavaScriptHelper(driver);
+		windowhelper = new WindowHelper(driver);
 
 	}
 
@@ -170,7 +184,24 @@ public class ProductCategoryPage {
 		return new AddToCart(driver);
 	}
 	
+	/**
+	 * this method will add products to compare
+	 * @param element
+	 */
+	public void addToCompareProducts(WebElement element){
+		String text=new VerificationHelper(driver).getTextFromElement(element);
+		log.info("clickin on : " + text);
+		TestBase.logExtentReport("clickin on : " + text);
+		javascripthelper.clickElement(element);
+	}
 	
-	
+	public CompareProducts clickOnCompare(WebElement element, int i){
+		String text=new VerificationHelper(driver).getTextFromElement(element);
+		log.info("clickin on : " + text);
+		TestBase.logExtentReport("clickin on : " + text);
+		javascripthelper.clickElement(element);		
+		windowhelper.switchToWindow(i);
+		return new CompareProducts(driver);
+	}
 
 }

@@ -54,7 +54,7 @@
                 </li>
                 <li>
                   <a href="#" class="navigator-link " panel-name="testlist-Suite">
-                    <span class="test-stats">5 tests</span>
+                    <span class="test-stats">6 tests</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -91,7 +91,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">6 methods,   6 passed</span>
+                    <span class="method-stats">7 methods,   7 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -103,6 +103,11 @@
                       <span>
                         <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Suite" title="testScripts.loginPage.LoginTest" hash-for-method="testLoginToApplication">testLoginToApplication</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="testScripts.compareProducts.VerifyCompareProducts" hash-for-method="verifyCompareProducts">verifyCompareProducts</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
@@ -226,6 +231,21 @@
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">testScripts.compareProducts.VerifyCompareProducts</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyCompareProducts">
+                  </a> <!-- verifyCompareProducts -->
+                  <span class="method-name">verifyCompareProducts</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
         </div> <!-- panel Suite -->
         <div panel-name="test-xml-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
@@ -244,26 +264,31 @@
       &lt;class name=&quot;testScripts.loginPage.LoginTest&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- LoginTest --&gt;
-  &lt;test name=&quot;verifyProductNameInSortedOrderInProductCategoryPage&quot;&gt;
+  &lt;test name=&quot;ProductNameInSortedOrderInProductCategoryPage&quot;&gt;
     &lt;classes&gt;
       &lt;class name=&quot;testScripts.productCategoryPage.VerifyProductNameInSortedOrder&quot;/&gt;
     &lt;/classes&gt;
-  &lt;/test&gt; &lt;!-- verifyProductNameInSortedOrderInProductCategoryPage --&gt;
-  &lt;test name=&quot;verifyProductPriceSortingInProductCategoryPage&quot;&gt;
+  &lt;/test&gt; &lt;!-- ProductNameInSortedOrderInProductCategoryPage --&gt;
+  &lt;test name=&quot;ProductPriceSortingInProductCategoryPage&quot;&gt;
     &lt;classes&gt;
       &lt;class name=&quot;testScripts.productCategoryPage.VerifyProductPriceInSortedOrder&quot;/&gt;
     &lt;/classes&gt;
-  &lt;/test&gt; &lt;!-- verifyProductPriceSortingInProductCategoryPage --&gt;
-  &lt;test name=&quot;verifyProductDeatilsPage&quot;&gt;
+  &lt;/test&gt; &lt;!-- ProductPriceSortingInProductCategoryPage --&gt;
+  &lt;test name=&quot;ProductDeatilsPage&quot;&gt;
     &lt;classes&gt;
       &lt;class name=&quot;testScripts.productDetailPage.VerifyProductDetailPage&quot;/&gt;
     &lt;/classes&gt;
-  &lt;/test&gt; &lt;!-- verifyProductDeatilsPage --&gt;
-  &lt;test name=&quot;Add To Cart&quot;&gt;
+  &lt;/test&gt; &lt;!-- ProductDeatilsPage --&gt;
+  &lt;test name=&quot;AddToCart&quot;&gt;
     &lt;classes&gt;
       &lt;class name=&quot;testScripts.addToCart.VerifyAddToCartPage&quot;/&gt;
     &lt;/classes&gt;
-  &lt;/test&gt; &lt;!-- Add To Cart --&gt;
+  &lt;/test&gt; &lt;!-- AddToCart --&gt;
+  &lt;test name=&quot;Compare Products&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;testScripts.compareProducts.VerifyCompareProducts&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Compare Products --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
             </pre>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -278,16 +303,19 @@
                 <span class="test-name">LoginTest (1 class)</span>
               </li>
               <li>
-                <span class="test-name">verifyProductNameInSortedOrderInProductCategoryPage (1 class)</span>
+                <span class="test-name">ProductNameInSortedOrderInProductCategoryPage (1 class)</span>
               </li>
               <li>
-                <span class="test-name">verifyProductPriceSortingInProductCategoryPage (1 class)</span>
+                <span class="test-name">ProductPriceSortingInProductCategoryPage (1 class)</span>
               </li>
               <li>
-                <span class="test-name">verifyProductDeatilsPage (1 class)</span>
+                <span class="test-name">ProductDeatilsPage (1 class)</span>
               </li>
               <li>
-                <span class="test-name">Add To Cart (1 class)</span>
+                <span class="test-name">AddToCart (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">Compare Products (1 class)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -313,36 +341,40 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(6);
+data.addRows(7);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'verifyProductDeatilsPage')
 data.setCell(0, 2, 'testScripts.productDetailPage.VerifyProductDetailPage')
-data.setCell(0, 3, 13079);
+data.setCell(0, 3, 13226);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'verifyProductPriceSortingInProductCategoryPage')
 data.setCell(1, 2, 'testScripts.productCategoryPage.VerifyProductPriceInSortedOrder')
-data.setCell(1, 3, 12607);
+data.setCell(1, 3, 13188);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'verifyUpdateAddItemCart')
-data.setCell(2, 2, 'testScripts.addToCart.VerifyAddToCartPage')
-data.setCell(2, 3, 7659);
+data.setCell(2, 1, 'verifyCompareProducts')
+data.setCell(2, 2, 'testScripts.compareProducts.VerifyCompareProducts')
+data.setCell(2, 3, 9885);
 data.setCell(3, 0, 3)
-data.setCell(3, 1, 'verifyProductNameInSortedOrderInProductCategoryPage')
-data.setCell(3, 2, 'testScripts.productCategoryPage.VerifyProductNameInSortedOrder')
-data.setCell(3, 3, 6510);
+data.setCell(3, 1, 'verifyUpdateAddItemCart')
+data.setCell(3, 2, 'testScripts.addToCart.VerifyAddToCartPage')
+data.setCell(3, 3, 7627);
 data.setCell(4, 0, 4)
-data.setCell(4, 1, 'testLoginToApplication')
-data.setCell(4, 2, 'testScripts.loginPage.LoginTest')
-data.setCell(4, 3, 2380);
+data.setCell(4, 1, 'verifyProductNameInSortedOrderInProductCategoryPage')
+data.setCell(4, 2, 'testScripts.productCategoryPage.VerifyProductNameInSortedOrder')
+data.setCell(4, 3, 6061);
 data.setCell(5, 0, 5)
-data.setCell(5, 1, 'verifyEmptyCart')
-data.setCell(5, 2, 'testScripts.addToCart.VerifyAddToCartPage')
-data.setCell(5, 3, 1339);
+data.setCell(5, 1, 'testLoginToApplication')
+data.setCell(5, 2, 'testScripts.loginPage.LoginTest')
+data.setCell(5, 3, 2646);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'verifyEmptyCart')
+data.setCell(6, 2, 'testScripts.addToCart.VerifyAddToCartPage')
+data.setCell(6, 3, 1292);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 43 seconds</span>
+              <span class="suite-total-time">Total running time: 53 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -389,6 +421,12 @@ return data;
                 <span class="reporter-method-output">verifyUpdateAddItemCart Test Passed..</span>
               </div> <!-- reporter-method-output-div -->
             </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyCompareProducts</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">verifyCompareProducts Test Passed..</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="ignored-methods-Suite" class="panel">
@@ -404,7 +442,7 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">testScripts.addToCart.VerifyAddToCartPage</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">testScripts.compareProducts.VerifyCompareProducts</div> <!-- chronological-class-name -->
               <div class="configuration-suite before">
                 <span class="method-name">beforeSuite</span>
                 <span class="method-start">0 ms</span>
@@ -414,147 +452,174 @@ return data;
               <div class="chronological-class-name">testScripts.loginPage.LoginTest</div> <!-- chronological-class-name -->
               <div class="configuration-test before">
                 <span class="method-name">beforeTest</span>
-                <span class="method-start">232 ms</span>
+                <span class="method-start">218 ms</span>
               </div> <!-- configuration-test before -->
               <div class="configuration-class before">
                 <span class="method-name">beforeClass</span>
-                <span class="method-start">6840 ms</span>
+                <span class="method-start">6653 ms</span>
               </div> <!-- configuration-class before -->
               <div class="configuration-method before">
                 <span class="method-name">beforeMethod(public void testScripts.loginPage.LoginTest.testLoginToApplication())</span>
-                <span class="method-start">13605 ms</span>
+                <span class="method-start">10386 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">testLoginToApplication</span>
-                <span class="method-start">13605 ms</span>
+                <span class="method-start">10387 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">afterMethod([TestResult name=testLoginToApplication status=SUCCESS method=LoginTest.testLoginToApplication()[pri...)</span>
-                <span class="method-start">15986 ms</span>
+                <span class="method-start">13034 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-test after">
                 <span class="method-name">afterTest</span>
-                <span class="method-start">16417 ms</span>
+                <span class="method-start">13492 ms</span>
               </div> <!-- configuration-test after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testScripts.productCategoryPage.VerifyProductNameInSortedOrder</div> <!-- chronological-class-name -->
               <div class="configuration-test before">
                 <span class="method-name">beforeTest</span>
-                <span class="method-start">17203 ms</span>
+                <span class="method-start">14251 ms</span>
               </div> <!-- configuration-test before -->
               <div class="configuration-class before">
                 <span class="method-name">beforeClass</span>
-                <span class="method-start">22557 ms</span>
+                <span class="method-start">19650 ms</span>
               </div> <!-- configuration-class before -->
               <div class="configuration-method before">
                 <span class="method-name">beforeMethod(public void testScripts.productCategoryPage.VerifyProductNameInSortedOrder.verifyProductNameInSorted...)</span>
-                <span class="method-start">25833 ms</span>
+                <span class="method-start">22965 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">verifyProductNameInSortedOrderInProductCategoryPage</span>
-                <span class="method-start">25834 ms</span>
+                <span class="method-start">22966 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">afterMethod([TestResult name=verifyProductNameInSortedOrderInProductCategoryPage status=SUCCESS method=VerifyPro...)</span>
-                <span class="method-start">32345 ms</span>
+                <span class="method-start">29028 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-test after">
                 <span class="method-name">afterTest</span>
-                <span class="method-start">32402 ms</span>
+                <span class="method-start">29107 ms</span>
               </div> <!-- configuration-test after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testScripts.productCategoryPage.VerifyProductPriceInSortedOrder</div> <!-- chronological-class-name -->
               <div class="configuration-test before">
                 <span class="method-name">beforeTest</span>
-                <span class="method-start">33170 ms</span>
+                <span class="method-start">30432 ms</span>
               </div> <!-- configuration-test before -->
               <div class="configuration-class before">
                 <span class="method-name">beforeClass</span>
-                <span class="method-start">38470 ms</span>
+                <span class="method-start">35828 ms</span>
               </div> <!-- configuration-class before -->
               <div class="configuration-method before">
                 <span class="method-name">beforeMethod(public void testScripts.productCategoryPage.VerifyProductPriceInSortedOrder.verifyProductPriceSortin...)</span>
-                <span class="method-start">41345 ms</span>
+                <span class="method-start">39707 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">verifyProductPriceSortingInProductCategoryPage</span>
-                <span class="method-start">41346 ms</span>
+                <span class="method-start">39708 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">afterMethod([TestResult name=verifyProductPriceSortingInProductCategoryPage status=SUCCESS method=VerifyProductP...)</span>
-                <span class="method-start">53954 ms</span>
+                <span class="method-start">52897 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-test after">
                 <span class="method-name">afterTest</span>
-                <span class="method-start">53996 ms</span>
+                <span class="method-start">52945 ms</span>
               </div> <!-- configuration-test after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testScripts.productDetailPage.VerifyProductDetailPage</div> <!-- chronological-class-name -->
               <div class="configuration-test before">
                 <span class="method-name">beforeTest</span>
-                <span class="method-start">54717 ms</span>
+                <span class="method-start">53688 ms</span>
               </div> <!-- configuration-test before -->
               <div class="configuration-class before">
                 <span class="method-name">beforeClass</span>
-                <span class="method-start">60011 ms</span>
+                <span class="method-start">59069 ms</span>
               </div> <!-- configuration-class before -->
               <div class="configuration-method before">
                 <span class="method-name">beforeMethod(public void testScripts.productDetailPage.VerifyProductDetailPage.verifyProductDeatilsPage())</span>
-                <span class="method-start">63019 ms</span>
+                <span class="method-start">62258 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">verifyProductDeatilsPage</span>
-                <span class="method-start">63020 ms</span>
+                <span class="method-start">62259 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">afterMethod([TestResult name=verifyProductDeatilsPage status=SUCCESS method=VerifyProductDetailPage.verifyProduc...)</span>
-                <span class="method-start">76101 ms</span>
+                <span class="method-start">75486 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-test after">
                 <span class="method-name">afterTest</span>
-                <span class="method-start">76164 ms</span>
+                <span class="method-start">75532 ms</span>
               </div> <!-- configuration-test after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testScripts.addToCart.VerifyAddToCartPage</div> <!-- chronological-class-name -->
               <div class="configuration-test before">
                 <span class="method-name">beforeTest</span>
-                <span class="method-start">76885 ms</span>
+                <span class="method-start">76281 ms</span>
               </div> <!-- configuration-test before -->
               <div class="configuration-class before">
                 <span class="method-name">beforeClass</span>
-                <span class="method-start">82252 ms</span>
+                <span class="method-start">81778 ms</span>
               </div> <!-- configuration-class before -->
               <div class="configuration-method before">
                 <span class="method-name">beforeMethod(public void testScripts.addToCart.VerifyAddToCartPage.verifyUpdateAddItemCart())</span>
-                <span class="method-start">85551 ms</span>
+                <span class="method-start">85285 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">verifyUpdateAddItemCart</span>
-                <span class="method-start">85553 ms</span>
+                <span class="method-start">85285 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">afterMethod([TestResult name=verifyUpdateAddItemCart status=SUCCESS method=VerifyAddToCartPage.verifyUpdateAddIt...)</span>
-                <span class="method-start">93213 ms</span>
+                <span class="method-start">92913 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">beforeMethod(public void testScripts.addToCart.VerifyAddToCartPage.verifyEmptyCart())</span>
-                <span class="method-start">93268 ms</span>
+                <span class="method-start">92972 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">verifyEmptyCart</span>
-                <span class="method-start">93269 ms</span>
+                <span class="method-start">92973 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">afterMethod([TestResult name=verifyEmptyCart status=SUCCESS method=VerifyAddToCartPage.verifyEmptyCart()[pri:2, ...)</span>
-                <span class="method-start">94609 ms</span>
+                <span class="method-start">94266 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-test after">
                 <span class="method-name">afterTest</span>
-                <span class="method-start">94674 ms</span>
+                <span class="method-start">94323 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testScripts.compareProducts.VerifyCompareProducts</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">beforeTest</span>
+                <span class="method-start">95068 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="configuration-class before">
+                <span class="method-name">beforeClass</span>
+                <span class="method-start">100619 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod(public void testScripts.compareProducts.VerifyCompareProducts.verifyCompareProducts())</span>
+                <span class="method-start">103769 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyCompareProducts</span>
+                <span class="method-start">103770 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod([TestResult name=verifyCompareProducts status=SUCCESS method=VerifyCompareProducts.verifyCompareProd...)</span>
+                <span class="method-start">113657 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-test after">
+                <span class="method-name">afterTest</span>
+                <span class="method-start">113727 ms</span>
               </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

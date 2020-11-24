@@ -9,24 +9,29 @@
       <class name="testScripts.loginPage.LoginTest"/>
     </classes>
   </test> <!-- LoginTest -->
-  <test name="verifyProductNameInSortedOrderInProductCategoryPage">
+  <test name="ProductNameInSortedOrderInProductCategoryPage">
     <classes>
       <class name="testScripts.productCategoryPage.VerifyProductNameInSortedOrder"/>
     </classes>
-  </test> <!-- verifyProductNameInSortedOrderInProductCategoryPage -->
-  <test name="verifyProductPriceSortingInProductCategoryPage">
+  </test> <!-- ProductNameInSortedOrderInProductCategoryPage -->
+  <test name="ProductPriceSortingInProductCategoryPage">
     <classes>
       <class name="testScripts.productCategoryPage.VerifyProductPriceInSortedOrder"/>
     </classes>
-  </test> <!-- verifyProductPriceSortingInProductCategoryPage -->
-  <test name="verifyProductDeatilsPage">
+  </test> <!-- ProductPriceSortingInProductCategoryPage -->
+  <test name="ProductDeatilsPage">
     <classes>
       <class name="testScripts.productDetailPage.VerifyProductDetailPage"/>
     </classes>
-  </test> <!-- verifyProductDeatilsPage -->
-  <test name="Add To Cart">
+  </test> <!-- ProductDeatilsPage -->
+  <test name="AddToCart">
     <classes>
       <class name="testScripts.addToCart.VerifyAddToCartPage"/>
     </classes>
-  </test> <!-- Add To Cart -->
+  </test> <!-- AddToCart -->
+  <test name="Compare Products">
+    <classes>
+      <class name="testScripts.compareProducts.VerifyCompareProducts"/>
+    </classes>
+  </test> <!-- Compare Products -->
 </suite> <!-- Failed suite [Suite] -->

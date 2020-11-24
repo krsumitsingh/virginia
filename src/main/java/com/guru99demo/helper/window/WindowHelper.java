@@ -19,7 +19,7 @@ public class WindowHelper {
 	 * switch to parent window method
 	 */
 	public void switchToParentWindow() {
-		log.info("switch tom parent window");
+		log.info("switch to parent window");
 		driver.switchTo().defaultContent();
 	}
 

@@ -5,6 +5,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import com.guru99demo.helper.logger.LoggerHelper;
+import com.guru99demo.testBase.TestBase;
 
 public class JavaScriptHelper {
 	
@@ -53,7 +54,8 @@ public class JavaScriptHelper {
 	 * @param element
 	 */
 	public void scrollToElementAndClick(WebElement element){
-		log.info("scroll to element and click: "+element.getText());
+		//log.info("scroll to element and click: "+element.getText());
+		TestBase.logExtentReport("scroll to element "+element.getText()+"and click");
 		scrollToElement(element);
 		element.click();
 	}
@@ -70,9 +72,11 @@ public class JavaScriptHelper {
 	/**
 	 * scroll to element directly and click method
 	 * @param element
+	 * @throws InterruptedException 
 	 */
 	public void scrollIntoViewAndClick(WebElement element){
-		log.info("scroll to element and click element: "+element.getText());
+		//log.info("scroll to element and click element: "+element.getText());
+		TestBase.logExtentReport("scroll to "+element.getText()+" and click");
 		scrollIntoView(element);
 		element.click();
 	}

@@ -36,6 +36,10 @@
     </classes>
   </test> 
   
-  
+  <test name="Compare Products">
+    <classes>
+      <class name="testScripts.compareProducts.VerifyCompareProducts"></class>
+    </classes>
+  </test> 
   
 </suite>
