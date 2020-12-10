@@ -6,7 +6,7 @@
         <listener class-name="com.guru99demo.helper.listener.ExtentListener"></listener>
     </listeners>
     
-  <test name="LoginTest">
+ <!--  <test name="LoginTest">
     <classes>
       <class name="testScripts.loginPage.LoginTest"></class>
     </classes>
@@ -40,6 +40,13 @@
     <classes>
       <class name="testScripts.compareProducts.VerifyCompareProducts"></class>
     </classes>
+  </test>  -->
+  
+   <test name="My Account and Wishlist">
+    <classes>
+      <class name="testScripts.myAccountPage.VerifyMyAccount"></class>
+    </classes>
   </test> 
+  
   
 </suite>

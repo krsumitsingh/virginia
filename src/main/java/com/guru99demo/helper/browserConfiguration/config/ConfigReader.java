@@ -12,6 +12,10 @@ public interface ConfigReader {
 	public String getUserName();
 	public String getPassword();
 	public String getQty();
-	
+	public String getFirstName();
+	public String getLastName();
+	public String getEmailAddress();
+	public String getPwd();
+	public String getConfirmPwd();
 	
 }

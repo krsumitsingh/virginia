@@ -57,6 +57,31 @@ public class PropertyReader implements ConfigReader {
 	public String getQty(){
 		return OR.getProperty("qty");
 	}
+
+	@Override
+	public String getFirstName() {
+		return OR.getProperty("firstName");
+	}
+
+	@Override
+	public String getLastName() {
+		return OR.getProperty("lastName");
+	}
+
+	@Override
+	public String getEmailAddress() {
+		return OR.getProperty("emailAddress");
+	}
+
+	@Override
+	public String getPwd() {
+		return OR.getProperty("pwd");
+	}
+
+	@Override
+	public String getConfirmPwd() {
+		return OR.getProperty("confPwd");
+	}
 	
 
 }

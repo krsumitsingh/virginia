@@ -1,387 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="7" passed="7">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
     <line>
-      <![CDATA[LoginTest Class Started..]]>
+      <![CDATA[My Account and Wishlist Class Started..]]>
     </line>
     <line>
-      <![CDATA[testLoginToApplication Test Started..]]>
+      <![CDATA[createNewAccount Test Started..]]>
     </line>
     <line>
-      <![CDATA[testLoginToApplication Test Passed..]]>
-    </line>
-    <line>
-      <![CDATA[LoginTest Test Finished..]]>
-    </line>
-    <line>
-      <![CDATA[ProductNameInSortedOrderInProductCategoryPage Class Started..]]>
-    </line>
-    <line>
-      <![CDATA[verifyProductNameInSortedOrderInProductCategoryPage Test Started..]]>
-    </line>
-    <line>
-      <![CDATA[verifyProductNameInSortedOrderInProductCategoryPage Test Passed..]]>
-    </line>
-    <line>
-      <![CDATA[ProductNameInSortedOrderInProductCategoryPage Test Finished..]]>
-    </line>
-    <line>
-      <![CDATA[ProductPriceSortingInProductCategoryPage Class Started..]]>
-    </line>
-    <line>
-      <![CDATA[verifyProductPriceSortingInProductCategoryPage Test Started..]]>
-    </line>
-    <line>
-      <![CDATA[verifyProductPriceSortingInProductCategoryPage Test Passed..]]>
-    </line>
-    <line>
-      <![CDATA[ProductPriceSortingInProductCategoryPage Test Finished..]]>
-    </line>
-    <line>
-      <![CDATA[ProductDeatilsPage Class Started..]]>
-    </line>
-    <line>
-      <![CDATA[verifyProductDeatilsPage Test Started..]]>
-    </line>
-    <line>
-      <![CDATA[verifyProductDeatilsPage Test Passed..]]>
-    </line>
-    <line>
-      <![CDATA[ProductDeatilsPage Test Finished..]]>
-    </line>
-    <line>
-      <![CDATA[AddToCart Class Started..]]>
-    </line>
-    <line>
-      <![CDATA[verifyUpdateAddItemCart Test Started..]]>
-    </line>
-    <line>
-      <![CDATA[verifyUpdateAddItemCart Test Passed..]]>
-    </line>
-    <line>
-      <![CDATA[verifyEmptyCart Test Started..]]>
-    </line>
-    <line>
-      <![CDATA[verifyEmptyCart Test Passed..]]>
-    </line>
-    <line>
-      <![CDATA[AddToCart Test Finished..]]>
-    </line>
-    <line>
-      <![CDATA[Compare Products Class Started..]]>
-    </line>
-    <line>
-      <![CDATA[verifyCompareProducts Test Started..]]>
-    </line>
-    <line>
-      <![CDATA[verifyCompareProducts Test Passed..]]>
+      <![CDATA[createNewAccount Test Passed..]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="114233" started-at="2020-11-24T18:34:52Z" finished-at="2020-11-24T18:36:46Z">
+  <suite name="Suite" duration-ms="12325" started-at="2020-12-10T19:08:24Z" finished-at="2020-12-10T19:08:37Z">
     <groups>
     </groups>
-    <test name="LoginTest" duration-ms="14024" started-at="2020-11-24T18:34:52Z" finished-at="2020-11-24T18:35:06Z">
-      <class name="testScripts.loginPage.LoginTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testScripts.loginPage.LoginTest@2669b199]" name="beforeTest" is-config="true" duration-ms="6431" started-at="2020-11-25T00:04:52Z" finished-at="2020-11-25T00:04:58Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testScripts.loginPage.LoginTest@2669b199]" name="beforeClass" is-config="true" duration-ms="3730" started-at="2020-11-25T00:04:58Z" finished-at="2020-11-25T00:05:02Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testScripts.loginPage.LoginTest@2669b199]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-11-25T00:05:02Z" finished-at="2020-11-25T00:05:02Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testScripts.loginPage.LoginTest.testLoginToApplication()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="testLoginToApplication()[pri:0, instance:testScripts.loginPage.LoginTest@2669b199]" name="testLoginToApplication" duration-ms="2646" started-at="2020-11-25T00:05:02Z" description="login test with valid credentials" finished-at="2020-11-25T00:05:04Z">
-          <reporter-output>
-            <line>
-              <![CDATA[testLoginToApplication Test Passed..]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- testLoginToApplication -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testScripts.loginPage.LoginTest@2669b199]" name="afterMethod" is-config="true" duration-ms="457" started-at="2020-11-25T00:05:04Z" finished-at="2020-11-25T00:05:05Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=testLoginToApplication status=SUCCESS method=LoginTest.testLoginToApplication()[pri:0, instance:testScripts.loginPage.LoginTest@2669b199] output=testLoginToApplication Test Passed..]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:testScripts.loginPage.LoginTest@2669b199]" name="afterTest" is-config="true" duration-ms="745" started-at="2020-11-25T00:05:05Z" finished-at="2020-11-25T00:05:06Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterTest -->
-      </class> <!-- testScripts.loginPage.LoginTest -->
-    </test> <!-- LoginTest -->
-    <test name="ProductNameInSortedOrderInProductCategoryPage" duration-ms="16177" started-at="2020-11-24T18:35:06Z" finished-at="2020-11-24T18:35:22Z">
-      <class name="testScripts.productCategoryPage.VerifyProductNameInSortedOrder">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testScripts.productCategoryPage.VerifyProductNameInSortedOrder@5dfcfece]" name="beforeTest" is-config="true" duration-ms="5398" started-at="2020-11-25T00:05:06Z" finished-at="2020-11-25T00:05:11Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testScripts.productCategoryPage.VerifyProductNameInSortedOrder@5dfcfece]" name="beforeClass" is-config="true" duration-ms="3315" started-at="2020-11-25T00:05:11Z" finished-at="2020-11-25T00:05:14Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testScripts.productCategoryPage.VerifyProductNameInSortedOrder@5dfcfece]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-11-25T00:05:14Z" finished-at="2020-11-25T00:05:14Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testScripts.productCategoryPage.VerifyProductNameInSortedOrder.verifyProductNameInSortedOrderInProductCategoryPage()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="verifyProductNameInSortedOrderInProductCategoryPage()[pri:0, instance:testScripts.productCategoryPage.VerifyProductNameInSortedOrder@5dfcfece]" name="verifyProductNameInSortedOrderInProductCategoryPage" duration-ms="6061" started-at="2020-11-25T00:05:14Z" finished-at="2020-11-25T00:05:20Z">
-          <reporter-output>
-            <line>
-              <![CDATA[verifyProductNameInSortedOrderInProductCategoryPage Test Passed..]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyProductNameInSortedOrderInProductCategoryPage -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testScripts.productCategoryPage.VerifyProductNameInSortedOrder@5dfcfece]" name="afterMethod" is-config="true" duration-ms="79" started-at="2020-11-25T00:05:20Z" finished-at="2020-11-25T00:05:21Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=verifyProductNameInSortedOrderInProductCategoryPage status=SUCCESS method=VerifyProductNameInSortedOrder.verifyProductNameInSortedOrderInProductCategoryPage()[pri:0, instance:testScripts.productCategoryPage.VerifyProductNameInSortedOrder@5dfcfece] output=verifyProductNameInSortedOrderInProductCategoryPage Test Passed..]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:testScripts.productCategoryPage.VerifyProductNameInSortedOrder@5dfcfece]" name="afterTest" is-config="true" duration-ms="1320" started-at="2020-11-25T00:05:21Z" finished-at="2020-11-25T00:05:22Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterTest -->
-      </class> <!-- testScripts.productCategoryPage.VerifyProductNameInSortedOrder -->
-    </test> <!-- ProductNameInSortedOrderInProductCategoryPage -->
-    <test name="ProductPriceSortingInProductCategoryPage" duration-ms="23251" started-at="2020-11-24T18:35:22Z" finished-at="2020-11-24T18:35:45Z">
-      <class name="testScripts.productCategoryPage.VerifyProductPriceInSortedOrder">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testScripts.productCategoryPage.VerifyProductPriceInSortedOrder@2ef5e5e3]" name="beforeTest" is-config="true" duration-ms="5396" started-at="2020-11-25T00:05:22Z" finished-at="2020-11-25T00:05:27Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testScripts.productCategoryPage.VerifyProductPriceInSortedOrder@2ef5e5e3]" name="beforeClass" is-config="true" duration-ms="3878" started-at="2020-11-25T00:05:27Z" finished-at="2020-11-25T00:05:31Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testScripts.productCategoryPage.VerifyProductPriceInSortedOrder@2ef5e5e3]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-11-25T00:05:31Z" finished-at="2020-11-25T00:05:31Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testScripts.productCategoryPage.VerifyProductPriceInSortedOrder.verifyProductPriceSortingInProductCategoryPage()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="verifyProductPriceSortingInProductCategoryPage()[pri:0, instance:testScripts.productCategoryPage.VerifyProductPriceInSortedOrder@2ef5e5e3]" name="verifyProductPriceSortingInProductCategoryPage" duration-ms="13188" started-at="2020-11-25T00:05:31Z" finished-at="2020-11-25T00:05:44Z">
-          <reporter-output>
-            <line>
-              <![CDATA[verifyProductPriceSortingInProductCategoryPage Test Passed..]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyProductPriceSortingInProductCategoryPage -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testScripts.productCategoryPage.VerifyProductPriceInSortedOrder@2ef5e5e3]" name="afterMethod" is-config="true" duration-ms="48" started-at="2020-11-25T00:05:44Z" finished-at="2020-11-25T00:05:44Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=verifyProductPriceSortingInProductCategoryPage status=SUCCESS method=VerifyProductPriceInSortedOrder.verifyProductPriceSortingInProductCategoryPage()[pri:0, instance:testScripts.productCategoryPage.VerifyProductPriceInSortedOrder@2ef5e5e3] output=verifyProductPriceSortingInProductCategoryPage Test Passed..]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:testScripts.productCategoryPage.VerifyProductPriceInSortedOrder@2ef5e5e3]" name="afterTest" is-config="true" duration-ms="738" started-at="2020-11-25T00:05:44Z" finished-at="2020-11-25T00:05:45Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterTest -->
-      </class> <!-- testScripts.productCategoryPage.VerifyProductPriceInSortedOrder -->
-    </test> <!-- ProductPriceSortingInProductCategoryPage -->
-    <test name="ProductDeatilsPage" duration-ms="22588" started-at="2020-11-24T18:35:45Z" finished-at="2020-11-24T18:36:08Z">
-      <class name="testScripts.productDetailPage.VerifyProductDetailPage">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testScripts.productDetailPage.VerifyProductDetailPage@9629756]" name="beforeTest" is-config="true" duration-ms="5381" started-at="2020-11-25T00:05:45Z" finished-at="2020-11-25T00:05:51Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testScripts.productDetailPage.VerifyProductDetailPage@9629756]" name="beforeClass" is-config="true" duration-ms="3189" started-at="2020-11-25T00:05:51Z" finished-at="2020-11-25T00:05:54Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testScripts.productDetailPage.VerifyProductDetailPage@9629756]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-11-25T00:05:54Z" finished-at="2020-11-25T00:05:54Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testScripts.productDetailPage.VerifyProductDetailPage.verifyProductDeatilsPage()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="verifyProductDeatilsPage()[pri:0, instance:testScripts.productDetailPage.VerifyProductDetailPage@9629756]" name="verifyProductDeatilsPage" duration-ms="13226" started-at="2020-11-25T00:05:54Z" finished-at="2020-11-25T00:06:07Z">
-          <reporter-output>
-            <line>
-              <![CDATA[verifyProductDeatilsPage Test Passed..]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyProductDeatilsPage -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testScripts.productDetailPage.VerifyProductDetailPage@9629756]" name="afterMethod" is-config="true" duration-ms="46" started-at="2020-11-25T00:06:07Z" finished-at="2020-11-25T00:06:07Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=verifyProductDeatilsPage status=SUCCESS method=VerifyProductDetailPage.verifyProductDeatilsPage()[pri:0, instance:testScripts.productDetailPage.VerifyProductDetailPage@9629756] output=verifyProductDeatilsPage Test Passed..]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:testScripts.productDetailPage.VerifyProductDetailPage@9629756]" name="afterTest" is-config="true" duration-ms="744" started-at="2020-11-25T00:06:07Z" finished-at="2020-11-25T00:06:08Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterTest -->
-      </class> <!-- testScripts.productDetailPage.VerifyProductDetailPage -->
-    </test> <!-- ProductDeatilsPage -->
-    <test name="AddToCart" duration-ms="18783" started-at="2020-11-24T18:36:08Z" finished-at="2020-11-24T18:36:27Z">
-      <class name="testScripts.addToCart.VerifyAddToCartPage">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testScripts.addToCart.VerifyAddToCartPage@4f933fd1]" name="beforeTest" is-config="true" duration-ms="5497" started-at="2020-11-25T00:06:08Z" finished-at="2020-11-25T00:06:13Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testScripts.addToCart.VerifyAddToCartPage@4f933fd1]" name="beforeClass" is-config="true" duration-ms="3506" started-at="2020-11-25T00:06:13Z" finished-at="2020-11-25T00:06:17Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testScripts.addToCart.VerifyAddToCartPage@4f933fd1]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-11-25T00:06:17Z" finished-at="2020-11-25T00:06:17Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testScripts.addToCart.VerifyAddToCartPage.verifyUpdateAddItemCart()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="verifyUpdateAddItemCart()[pri:1, instance:testScripts.addToCart.VerifyAddToCartPage@4f933fd1]" name="verifyUpdateAddItemCart" duration-ms="7627" started-at="2020-11-25T00:06:17Z" finished-at="2020-11-25T00:06:24Z">
-          <reporter-output>
-            <line>
-              <![CDATA[verifyUpdateAddItemCart Test Passed..]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyUpdateAddItemCart -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testScripts.addToCart.VerifyAddToCartPage@4f933fd1]" name="afterMethod" is-config="true" duration-ms="58" started-at="2020-11-25T00:06:24Z" finished-at="2020-11-25T00:06:24Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=verifyUpdateAddItemCart status=SUCCESS method=VerifyAddToCartPage.verifyUpdateAddItemCart()[pri:1, instance:testScripts.addToCart.VerifyAddToCartPage@4f933fd1] output=verifyUpdateAddItemCart Test Passed..]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testScripts.addToCart.VerifyAddToCartPage@4f933fd1]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-11-25T00:06:24Z" finished-at="2020-11-25T00:06:24Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testScripts.addToCart.VerifyAddToCartPage.verifyEmptyCart()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="verifyEmptyCart()[pri:2, instance:testScripts.addToCart.VerifyAddToCartPage@4f933fd1]" name="verifyEmptyCart" duration-ms="1292" started-at="2020-11-25T00:06:24Z" finished-at="2020-11-25T00:06:26Z">
-          <reporter-output>
-            <line>
-              <![CDATA[verifyEmptyCart Test Passed..]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyEmptyCart -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testScripts.addToCart.VerifyAddToCartPage@4f933fd1]" name="afterMethod" is-config="true" duration-ms="57" started-at="2020-11-25T00:06:26Z" finished-at="2020-11-25T00:06:26Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=verifyEmptyCart status=SUCCESS method=VerifyAddToCartPage.verifyEmptyCart()[pri:2, instance:testScripts.addToCart.VerifyAddToCartPage@4f933fd1] output=verifyEmptyCart Test Passed..]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:testScripts.addToCart.VerifyAddToCartPage@4f933fd1]" name="afterTest" is-config="true" duration-ms="740" started-at="2020-11-25T00:06:26Z" finished-at="2020-11-25T00:06:27Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterTest -->
-      </class> <!-- testScripts.addToCart.VerifyAddToCartPage -->
-    </test> <!-- AddToCart -->
-    <test name="Compare Products" duration-ms="19379" started-at="2020-11-24T18:36:27Z" finished-at="2020-11-24T18:36:46Z">
-      <class name="testScripts.compareProducts.VerifyCompareProducts">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testScripts.compareProducts.VerifyCompareProducts@28feb3fa]" name="beforeSuite" is-config="true" duration-ms="213" started-at="2020-11-25T00:04:51Z" finished-at="2020-11-25T00:04:52Z">
+    <test name="My Account and Wishlist" duration-ms="12325" started-at="2020-12-10T19:08:24Z" finished-at="2020-12-10T19:08:37Z">
+      <class name="testScripts.myAccountPage.VerifyMyAccount">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testScripts.myAccountPage.VerifyMyAccount@2669b199]" name="beforeSuite" is-config="true" duration-ms="262" started-at="2020-12-11T00:38:24Z" finished-at="2020-12-11T00:38:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testScripts.compareProducts.VerifyCompareProducts@28feb3fa]" name="beforeTest" is-config="true" duration-ms="5551" started-at="2020-11-25T00:06:27Z" finished-at="2020-11-25T00:06:32Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testScripts.myAccountPage.VerifyMyAccount@2669b199]" name="beforeTest" is-config="true" duration-ms="6568" started-at="2020-12-11T00:38:24Z" finished-at="2020-12-11T00:38:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testScripts.compareProducts.VerifyCompareProducts@28feb3fa]" name="beforeClass" is-config="true" duration-ms="3150" started-at="2020-11-25T00:06:32Z" finished-at="2020-11-25T00:06:35Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testScripts.myAccountPage.VerifyMyAccount@2669b199]" name="beforeClass" is-config="true" duration-ms="3200" started-at="2020-12-11T00:38:31Z" finished-at="2020-12-11T00:38:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testScripts.compareProducts.VerifyCompareProducts@28feb3fa]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-11-25T00:06:35Z" finished-at="2020-11-25T00:06:35Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testScripts.myAccountPage.VerifyMyAccount@2669b199]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-12-11T00:38:34Z" finished-at="2020-12-11T00:38:34Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testScripts.compareProducts.VerifyCompareProducts.verifyCompareProducts()]]>
+                <![CDATA[public void testScripts.myAccountPage.VerifyMyAccount.createNewAccount()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="verifyCompareProducts()[pri:1, instance:testScripts.compareProducts.VerifyCompareProducts@28feb3fa]" name="verifyCompareProducts" duration-ms="9885" started-at="2020-11-25T00:06:35Z" finished-at="2020-11-25T00:06:45Z">
+        <test-method status="PASS" signature="createNewAccount()[pri:0, instance:testScripts.myAccountPage.VerifyMyAccount@2669b199]" name="createNewAccount" duration-ms="1137" started-at="2020-12-11T00:38:34Z" description="create a new account" finished-at="2020-12-11T00:38:35Z">
           <reporter-output>
             <line>
-              <![CDATA[verifyCompareProducts Test Passed..]]>
+              <![CDATA[createNewAccount Test Passed..]]>
             </line>
           </reporter-output>
-        </test-method> <!-- verifyCompareProducts -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testScripts.compareProducts.VerifyCompareProducts@28feb3fa]" name="afterMethod" is-config="true" duration-ms="70" started-at="2020-11-25T00:06:45Z" finished-at="2020-11-25T00:06:45Z">
+        </test-method> <!-- createNewAccount -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testScripts.myAccountPage.VerifyMyAccount@2669b199]" name="afterMethod" is-config="true" duration-ms="604" started-at="2020-12-11T00:38:35Z" finished-at="2020-12-11T00:38:36Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=verifyCompareProducts status=SUCCESS method=VerifyCompareProducts.verifyCompareProducts()[pri:1, instance:testScripts.compareProducts.VerifyCompareProducts@28feb3fa] output=verifyCompareProducts Test Passed..]]]>
+                <![CDATA[[TestResult name=createNewAccount status=SUCCESS method=VerifyMyAccount.createNewAccount()[pri:0, instance:testScripts.myAccountPage.VerifyMyAccount@2669b199] output=createNewAccount Test Passed..]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:testScripts.compareProducts.VerifyCompareProducts@28feb3fa]" name="afterTest" is-config="true" duration-ms="719" started-at="2020-11-25T00:06:45Z" finished-at="2020-11-25T00:06:46Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testScripts.myAccountPage.VerifyMyAccount@2669b199]" name="afterTest" is-config="true" duration-ms="802" started-at="2020-12-11T00:38:36Z" finished-at="2020-12-11T00:38:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-      </class> <!-- testScripts.compareProducts.VerifyCompareProducts -->
-    </test> <!-- Compare Products -->
+      </class> <!-- testScripts.myAccountPage.VerifyMyAccount -->
+    </test> <!-- My Account and Wishlist -->
   </suite> <!-- Suite -->
 </testng-results>
