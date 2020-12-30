@@ -21,6 +21,7 @@ public class ProductCategoryPage {
 	private Logger log = LoggerHelper.getLogger(ProductCategoryPage.class);
 	JavaScriptHelper javascripthelper;
 	WindowHelper windowhelper;
+	String text="";
 
 	@FindBy(css = "p.welcome-msg")
 	WebElement homePageMessage;
@@ -51,6 +52,9 @@ public class ProductCategoryPage {
 	
 	@FindBy(xpath="//span[text()='Compare']")
 	public WebElement compareBtn;
+	
+	@FindBy(xpath="//a[@class='link-wishlist']")
+	public WebElement addWishlist;
 	
 	
 
@@ -163,7 +167,7 @@ public class ProductCategoryPage {
 	 * @return
 	 */
 	public ProductDetailPage clickProductItem(WebElement element) {
-		String text=new VerificationHelper(driver).getAttributeFromElement(element, "alt");
+		text=new VerificationHelper(driver).getAttributeFromElement(element, "alt");
 		log.info("clickin on : " + text);
 		TestBase.logExtentReport("clickin on : " + text);
 		javascripthelper.clickElement(element);
@@ -177,7 +181,7 @@ public class ProductCategoryPage {
 	 * @return
 	 */
 	public AddToCart clickAddToCart(WebElement element) {
-		String text=new VerificationHelper(driver).getTextFromElement(element);
+		text=new VerificationHelper(driver).getTextFromElement(element);
 		log.info("clickin on : " + text);
 		TestBase.logExtentReport("clickin on : " + text);
 		javascripthelper.clickElement(element);
@@ -204,4 +208,15 @@ public class ProductCategoryPage {
 		return new CompareProducts(driver);
 	}
 
+	public WishlistPage clickAddToWishlist(WebElement element){		
+		text=new VerificationHelper(driver).getTextFromElement(element);
+		log.info("clickin on : " + text);
+		TestBase.logExtentReport("clickin on : " + text);
+		javascripthelper.clickElement(element);	
+		return new WishlistPage(driver);
+		
+	}
+	
+	
+	
 }

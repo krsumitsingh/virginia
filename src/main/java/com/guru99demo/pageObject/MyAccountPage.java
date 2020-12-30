@@ -1,5 +1,8 @@
 package com.guru99demo.pageObject;
 
+import java.util.Random;
+import java.util.UUID;
+
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -23,6 +26,7 @@ public class MyAccountPage extends TestBase {
 	JavaScriptHelper javascripthelper;
 	VerificationHelper verificationhelper;
 	AlertHelper alertHelper;
+	Random randomGenerator = new Random();
 
 	@FindBy(xpath = "//span[text()='Create an Account']")
 	WebElement createAnAccountBtn;
@@ -55,14 +59,18 @@ public class MyAccountPage extends TestBase {
 		TestBase.logExtentReport("My Account Page Object Created");
 
 	}
+	
+	// Generate a random email
+    //final String randomEmail = randomEmail();
 
 	public void clickCreateAnAccount() {
-		log.info("user clicks on the Log In link...");
+		log.info("user clicks create account...");
 		javascripthelper.clickElement(createAnAccountBtn);
-		TestBase.logExtentReport("Log In link clicked..");
+		TestBase.logExtentReport("user clicks create account..");
 	}
 
 	public void setFirstName() {
+		firstName.click();
 		log.info("entering firstName.." + ObjectReader.reader.getFirstName());
 		TestBase.logExtentReport("entering firstName.." + ObjectReader.reader.getFirstName());
 		this.firstName.sendKeys(ObjectReader.reader.getFirstName());
@@ -71,25 +79,42 @@ public class MyAccountPage extends TestBase {
 	public void setLastName() {
 		log.info("entering lastName.." + ObjectReader.reader.getLastName());
 		TestBase.logExtentReport("entering lastName.." + ObjectReader.reader.getLastName());
-		this.firstName.sendKeys(ObjectReader.reader.getLastName());
+		this.lastName.sendKeys(ObjectReader.reader.getLastName());
 	}
 
 	public void setEmailAddress() {
-		log.info("entering emailAddress.." + ObjectReader.reader.getEmailAddress());
-		TestBase.logExtentReport("entering emailAddress.." + ObjectReader.reader.getEmailAddress());
-		this.firstName.sendKeys(ObjectReader.reader.getEmailAddress());
+		int randomInt=randomGenerator.nextInt(1000);
+		log.info("entering emailAddress.." +randomInt+ObjectReader.reader.getEmailAddress());
+		TestBase.logExtentReport("entering emailAddress.." +randomInt+ObjectReader.reader.getEmailAddress());
+		this.emailAddress.sendKeys(randomInt+ObjectReader.reader.getEmailAddress());
 	}
+	
+	
 
 	public void setPassword() {
 		log.info("entering password.." + ObjectReader.reader.getPwd());
 		TestBase.logExtentReport("entering password.." + ObjectReader.reader.getPwd());
-		this.firstName.sendKeys(ObjectReader.reader.getPwd());
+		this.password.sendKeys(ObjectReader.reader.getPwd());
 	}
 
 	public void setConfirmPassword() {
 		log.info("confirming password.." + ObjectReader.reader.getConfirmPwd());
 		TestBase.logExtentReport("confirming password.." + ObjectReader.reader.getConfirmPwd());
-		this.firstName.sendKeys(ObjectReader.reader.getConfirmPwd());
+		this.confirmPassword.sendKeys(ObjectReader.reader.getConfirmPwd());
 	}
 
+
+	public void clickRegister() {
+		log.info("user clicks register...");
+		javascripthelper.clickElement(registerBtn);
+		TestBase.logExtentReport("user clicks register..");
+	}
+	
+	
+	/* private static String randomEmail() {
+	        return "random-" + UUID.randomUUID().toString() + "@example.com";
+	    }*/
+	 
+	 
+	
 }

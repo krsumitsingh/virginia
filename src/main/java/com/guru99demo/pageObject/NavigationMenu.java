@@ -23,7 +23,7 @@ public class NavigationMenu {
 	WebElement mobileMenu;
 
 	@FindBy(xpath = "//a[text()='TV']")
-	WebElement tvMenu;
+	public WebElement tvMenu;
 
 	public NavigationMenu(WebDriver driver) {
 		this.driver = driver;

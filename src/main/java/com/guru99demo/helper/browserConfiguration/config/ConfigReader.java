@@ -17,5 +17,6 @@ public interface ConfigReader {
 	public String getEmailAddress();
 	public String getPwd();
 	public String getConfirmPwd();
+	public String getMessage();
 	
 }

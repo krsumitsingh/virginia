@@ -41,8 +41,10 @@ public class HomePage {
 		return new MyAccountPage(driver);
 	}
 	
-	public boolean verifySuccessLoginMsg() {
+	public boolean verifyMsg() {
 		return new VerificationHelper(driver).elementIsDisplayed(createAccountMsg);
 	}
+	
+	
 
 }

@@ -14,7 +14,6 @@ import com.guru99demo.testBase.TestBase;
 
 public class ProductDetailPage {
 	
-	
 	private WebDriver driver;
 	private Logger log = LoggerHelper.getLogger(ProductDetailPage.class);
 	WaitHelper waitHelper;
@@ -37,11 +36,4 @@ public class ProductDetailPage {
 		return new VerificationHelper(driver).getTextFromElement(actualPrice);
 		
 	}
-	
-	
-	
-	
-	
-	
-
 }

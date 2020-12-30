@@ -10097,3 +10097,891 @@ Session ID: d4fc20ed024ce9246f7f2cf63520dec1
 2020-12-11 00:12:723 INFO  TestBase :86 - **************createNewAccountFinished***************
 2020-12-11 00:12:328 INFO  TestBase :93 - chrome browser closed..
 2020-12-11 00:12:141 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-13 22:12:559 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-13 22:12:569 INFO  TestBase :129 - Initialize Web driver: 1789110533
+2020-12-13 22:12:584 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-13 22:12:601 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-13 22:12:489 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-13 22:12:505 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-13 22:12:520 INFO  HomePage :38 - user clicks on my account link...
+2020-12-13 22:12:815 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-13 22:12:826 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-13 22:12:312 INFO  TestBase :93 - chrome browser closed..
+2020-12-13 22:12:75 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-27 22:12:15 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-27 22:12:348 INFO  TestBase :129 - Initialize Web driver: 1789110533
+2020-12-27 22:12:350 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-27 22:12:372 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-27 22:12:74 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-27 22:12:94 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-27 22:12:167 INFO  HomePage :38 - user clicks on my account link...
+2020-12-27 22:12:260 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-27 22:12:261 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-27 22:12:334 INFO  TestBase :93 - chrome browser closed..
+2020-12-27 22:12:124 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-27 22:12:81 INFO  TestBase :129 - Initialize Web driver: 2038232668
+2020-12-27 22:12:84 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-27 22:12:91 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-27 22:12:460 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-27 22:12:492 INFO  HomePage :38 - user clicks on my account link...
+2020-12-27 22:12:452 INFO  MyAccountPage :60 - user clicks on the Log In link...
+2020-12-27 22:12:196 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-27 22:12:728 INFO  TestBase :93 - chrome browser closed..
+2020-12-27 22:12:487 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-27 22:12:833 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-12-27 22:12:834 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-27 22:12:842 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-27 22:12:555 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-27 22:12:559 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-27 22:12:588 INFO  HomePage :38 - user clicks on my account link...
+2020-12-27 22:12:174 INFO  MyAccountPage :60 - user clicks on the Log In link...
+2020-12-27 22:12:333 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-27 22:12:334 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-27 22:12:771 INFO  TestBase :93 - chrome browser closed..
+2020-12-27 22:12:453 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-27 23:12:466 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-27 23:12:759 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-12-27 23:12:761 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-27 23:12:769 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-27 23:12:511 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-27 23:12:515 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-27 23:12:542 INFO  HomePage :38 - user clicks on my account link...
+2020-12-27 23:12:634 INFO  MyAccountPage :60 - user clicks create account...
+2020-12-27 23:12:196 INFO  MyAccountPage :66 - entering firstName..Cynthia
+2020-12-27 23:12:303 INFO  MyAccountPage :72 - entering lastName..Bridgeport
+2020-12-27 23:12:352 INFO  MyAccountPage :78 - entering emailAddress..cb@yopmail.com
+2020-12-27 23:12:411 INFO  MyAccountPage :84 - entering password..cb@1234$
+2020-12-27 23:12:459 INFO  MyAccountPage :90 - confirming password..cb@1234$
+2020-12-27 23:12:515 INFO  MyAccountPage :97 - user clicks register...
+2020-12-27 23:12:647 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-27 23:12:649 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-27 23:12:405 INFO  TestBase :93 - chrome browser closed..
+2020-12-27 23:12:154 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-27 23:12:946 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-27 23:12:451 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-12-27 23:12:452 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-27 23:12:459 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-27 23:12:156 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-27 23:12:163 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-27 23:12:191 INFO  HomePage :38 - user clicks on my account link...
+2020-12-27 23:12:170 INFO  MyAccountPage :60 - user clicks create account...
+2020-12-27 23:12:744 INFO  MyAccountPage :66 - entering firstName..Cynthia
+2020-12-27 23:12:810 INFO  MyAccountPage :72 - entering lastName..Bridgeport
+2020-12-27 23:12:866 INFO  MyAccountPage :78 - entering emailAddress..cb@yopmail.com
+2020-12-27 23:12:975 INFO  MyAccountPage :84 - entering password..cb@1234$
+2020-12-27 23:12:41 INFO  MyAccountPage :90 - confirming password..cb@1234$
+2020-12-27 23:12:148 INFO  MyAccountPage :97 - user clicks register...
+2020-12-27 23:12:622 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-27 23:12:623 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-27 23:12:381 INFO  TestBase :93 - chrome browser closed..
+2020-12-27 23:12:161 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-27 23:12:153 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-27 23:12:549 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-12-27 23:12:550 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-27 23:12:559 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-27 23:12:185 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-27 23:12:189 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-27 23:12:217 INFO  HomePage :38 - user clicks on my account link...
+2020-12-27 23:12:248 INFO  MyAccountPage :60 - user clicks create account...
+2020-12-27 23:12:938 INFO  MyAccountPage :67 - entering firstName..Cynthia
+2020-12-27 23:12:17 INFO  MyAccountPage :73 - entering lastName..Bridgeport
+2020-12-27 23:12:63 INFO  MyAccountPage :79 - entering emailAddress..cb@yopmail.com
+2020-12-27 23:12:132 INFO  MyAccountPage :85 - entering password..cb@1234$
+2020-12-27 23:12:409 INFO  MyAccountPage :91 - confirming password..cb@1234$
+2020-12-27 23:12:241 INFO  MyAccountPage :98 - user clicks register...
+2020-12-27 23:12:293 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-27 23:12:293 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-27 23:12:903 INFO  TestBase :93 - chrome browser closed..
+2020-12-27 23:12:887 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-27 23:12:285 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-27 23:12:622 INFO  TestBase :129 - Initialize Web driver: 345887595
+2020-12-27 23:12:623 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-27 23:12:630 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-27 23:12:308 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-27 23:12:313 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-27 23:12:339 INFO  HomePage :38 - user clicks on my account link...
+2020-12-27 23:12:326 INFO  MyAccountPage :60 - user clicks create account...
+2020-12-27 23:12:950 INFO  MyAccountPage :67 - entering firstName..Cynthia
+2020-12-27 23:12:03 INFO  MyAccountPage :73 - entering lastName..Bridgeport
+2020-12-27 23:12:75 INFO  MyAccountPage :79 - entering emailAddress..cb@yopmail.com
+2020-12-27 23:12:130 INFO  MyAccountPage :85 - entering password..cb@1234$
+2020-12-27 23:12:176 INFO  MyAccountPage :91 - confirming password..cb@1234$
+2020-12-27 23:12:238 INFO  MyAccountPage :98 - user clicks register...
+2020-12-27 23:12:654 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-27 23:12:655 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-27 23:12:418 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-27 23:12:789 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-27 23:12:139 INFO  TestBase :129 - Initialize Web driver: 345887595
+2020-12-27 23:12:140 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-27 23:12:146 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-27 23:12:854 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-27 23:12:860 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-27 23:12:894 INFO  HomePage :38 - user clicks on my account link...
+2020-12-27 23:12:224 INFO  MyAccountPage :60 - user clicks create account...
+2020-12-27 23:12:235 INFO  MyAccountPage :67 - entering firstName..Cynthia
+2020-12-27 23:12:282 INFO  MyAccountPage :73 - entering lastName..Bridgeport
+2020-12-27 23:12:329 INFO  MyAccountPage :79 - entering emailAddress..cb@yopmail.com
+2020-12-27 23:12:387 INFO  MyAccountPage :85 - entering password..cb@1234$
+2020-12-27 23:12:434 INFO  MyAccountPage :91 - confirming password..cb@1234$
+2020-12-27 23:12:502 INFO  MyAccountPage :98 - user clicks register...
+2020-12-27 23:12:545 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-27 23:12:546 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-27 23:12:156 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-27 23:12:926 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-27 23:12:287 INFO  TestBase :129 - Initialize Web driver: 345887595
+2020-12-27 23:12:288 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-27 23:12:295 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-27 23:12:921 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-27 23:12:926 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-27 23:12:961 INFO  HomePage :38 - user clicks on my account link...
+2020-12-27 23:12:931 INFO  MyAccountPage :60 - user clicks create account...
+2020-12-27 23:12:580 INFO  MyAccountPage :67 - entering firstName..Cynthia
+2020-12-27 23:12:633 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-27 23:12:634 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-27 23:12:402 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-27 23:12:810 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-27 23:12:109 INFO  TestBase :129 - Initialize Web driver: 345887595
+2020-12-27 23:12:110 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-27 23:12:117 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-27 23:12:794 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-27 23:12:801 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-27 23:12:830 INFO  HomePage :38 - user clicks on my account link...
+2020-12-27 23:12:869 INFO  MyAccountPage :60 - user clicks create account...
+2020-12-27 23:12:478 INFO  MyAccountPage :67 - entering firstName..Cynthia
+2020-12-27 23:12:533 INFO  MyAccountPage :73 - entering lastName..Bridgeport
+2020-12-27 23:12:607 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-27 23:12:608 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-27 23:12:423 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-27 23:12:259 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-27 23:12:555 INFO  TestBase :129 - Initialize Web driver: 345887595
+2020-12-27 23:12:556 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-27 23:12:563 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-27 23:12:159 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-27 23:12:163 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-27 23:12:194 INFO  HomePage :38 - user clicks on my account link...
+2020-12-27 23:12:171 INFO  MyAccountPage :60 - user clicks create account...
+2020-12-27 23:12:780 INFO  MyAccountPage :67 - entering firstName..Cynthia
+2020-12-27 23:12:827 INFO  MyAccountPage :73 - entering lastName..Bridgeport
+2020-12-27 23:12:942 INFO  MyAccountPage :79 - entering emailAddress..cb@yopmail.com
+2020-12-27 23:12:32 INFO  MyAccountPage :85 - entering password..cb@1234$
+2020-12-27 23:12:503 INFO  MyAccountPage :91 - confirming password..cb@1234$
+2020-12-27 23:12:889 INFO  MyAccountPage :98 - user clicks register...
+2020-12-27 23:12:147 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-27 23:12:148 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-27 23:12:537 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-27 23:12:351 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-27 23:12:705 INFO  TestBase :129 - Initialize Web driver: 345887595
+2020-12-27 23:12:706 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-27 23:12:713 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-27 23:12:343 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-27 23:12:350 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-27 23:12:381 INFO  HomePage :38 - user clicks on my account link...
+2020-12-27 23:12:392 INFO  MyAccountPage :60 - user clicks create account...
+2020-12-27 23:12:27 INFO  MyAccountPage :67 - entering firstName..Cynthia
+2020-12-27 23:12:80 INFO  MyAccountPage :73 - entering lastName..Bridgeport
+2020-12-27 23:12:188 INFO  MyAccountPage :79 - entering emailAddress..cb@yopmail.com
+2020-12-27 23:12:277 INFO  MyAccountPage :85 - entering password..cb@1234$
+2020-12-27 23:12:764 INFO  MyAccountPage :91 - confirming password..cb@1234$
+2020-12-27 23:12:07 INFO  MyAccountPage :98 - user clicks register...
+2020-12-27 23:12:963 ERROR VerificationHelper :32 - element not  displayed
+2020-12-27 23:12:967 ERROR ExtentListener :38 - createNewAccount Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-12-27 23:12:353 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-27 23:12:747 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-27 23:12:618 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-27 23:12:815 INFO  TestBase :129 - Initialize Web driver: 345887595
+2020-12-27 23:12:816 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-27 23:12:824 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-27 23:12:724 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-27 23:12:730 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-27 23:12:764 INFO  HomePage :38 - user clicks on my account link...
+2020-12-27 23:12:749 INFO  MyAccountPage :63 - user clicks create account...
+2020-12-27 23:12:350 INFO  MyAccountPage :70 - entering firstName..Cynthia
+2020-12-27 23:12:400 INFO  MyAccountPage :76 - entering lastName..Bridgeport
+2020-12-27 23:12:514 INFO  MyAccountPage :83 - entering emailAddress..98cb@yopmail.com
+2020-12-27 23:12:608 INFO  MyAccountPage :89 - entering password..cb@1234$
+2020-12-27 23:12:120 INFO  MyAccountPage :95 - confirming password..cb@1234$
+2020-12-27 23:12:445 INFO  MyAccountPage :102 - user clicks register...
+2020-12-27 23:12:954 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-27 23:12:955 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-27 23:12:393 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-27 23:12:468 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-27 23:12:718 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-12-27 23:12:719 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-27 23:12:727 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-27 23:12:330 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-27 23:12:338 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-27 23:12:363 INFO  HomePage :38 - user clicks on my account link...
+2020-12-27 23:12:360 INFO  MyAccountPage :63 - user clicks create account...
+2020-12-27 23:12:984 INFO  MyAccountPage :70 - entering firstName..Cynthia
+2020-12-27 23:12:69 INFO  MyAccountPage :76 - entering lastName..Bridgeport
+2020-12-27 23:12:168 INFO  MyAccountPage :83 - entering emailAddress..285cb@yopmail.com
+2020-12-27 23:12:275 INFO  MyAccountPage :89 - entering password..cb@1234$
+2020-12-27 23:12:730 INFO  MyAccountPage :95 - confirming password..cb@1234$
+2020-12-27 23:12:994 INFO  MyAccountPage :102 - user clicks register...
+2020-12-27 23:12:454 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-27 23:12:455 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-27 23:12:810 INFO  TestBase :93 - chrome browser closed..
+2020-12-27 23:12:572 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-28 00:12:997 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-28 00:12:206 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-12-28 00:12:207 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-28 00:12:214 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-28 00:12:137 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-28 00:12:141 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-28 00:12:169 INFO  HomePage :38 - user clicks on my account link...
+2020-12-28 00:12:200 INFO  MyAccountPage :67 - user clicks create account...
+2020-12-28 00:12:819 INFO  MyAccountPage :74 - entering firstName..Cynthia
+2020-12-28 00:12:876 INFO  MyAccountPage :80 - entering lastName..Bridgeport
+2020-12-28 00:12:968 INFO  MyAccountPage :94 - entering emailAddress..random-89b8778d-a25d-465e-a449-f152b933b592@example.com
+2020-12-28 00:12:154 INFO  MyAccountPage :100 - entering password..cb@1234$
+2020-12-28 00:12:908 INFO  MyAccountPage :106 - confirming password..cb@1234$
+2020-12-28 00:12:26 INFO  MyAccountPage :113 - user clicks register...
+2020-12-28 00:12:399 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-28 00:12:400 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-28 00:12:826 INFO  TestBase :93 - chrome browser closed..
+2020-12-28 00:12:308 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-28 00:12:103 INFO  ExtentListener :28 - LoginTest Class Started..
+2020-12-28 00:12:414 INFO  TestBase :129 - Initialize Web driver: 768185844
+2020-12-28 00:12:415 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-28 00:12:422 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-28 00:12:56 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-12-28 00:12:61 INFO  ExtentListener :51 - testLoginToApplication Test Started..
+2020-12-28 00:12:95 INFO  VerificationHelper :101 - The tile of the page is: Home page
+2020-12-28 00:12:174 INFO  LoginPage :62 - user clicks on the account...
+2020-12-28 00:12:220 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-12-28 00:12:22 INFO  LoginPage :74 - user id entered..
+2020-12-28 00:12:122 INFO  LoginPage :80 - password entered..
+2020-12-28 00:12:205 INFO  LoginPage :86 - login button clicked..
+2020-12-28 00:12:248 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (1e112b9247a42fca7b7f61256ec68f52)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-28 00:12:313 INFO  WaitHelper :141 - element is visible now
+2020-12-28 00:12:314 INFO  ExtentListener :57 - testLoginToApplication Test Passed..
+2020-12-28 00:12:315 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-12-28 00:12:808 INFO  TestBase :93 - chrome browser closed..
+2020-12-28 00:12:660 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-12-28 00:12:661 INFO  ExtentListener :28 - ProductNameInSortedOrderInProductCategoryPage Class Started..
+2020-12-28 00:12:995 INFO  TestBase :129 - Initialize Web driver: 1306535359
+2020-12-28 00:12:995 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-28 00:12:999 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-28 00:12:745 INFO  TestBase :68 - **************verifyProductNameInSortedOrderInProductCategoryPageStarted***************
+2020-12-28 00:12:746 INFO  ExtentListener :51 - verifyProductNameInSortedOrderInProductCategoryPage Test Started..
+2020-12-28 00:12:771 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (d86f19769d1940851e2525f5c31e3037)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-28 00:12:805 INFO  WaitHelper :141 - element is visible now
+2020-12-28 00:12:812 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-28 00:12:817 INFO  LoginPage :62 - user clicks on the account...
+2020-12-28 00:12:846 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-12-28 00:12:832 INFO  LoginPage :74 - user id entered..
+2020-12-28 00:12:939 INFO  LoginPage :80 - password entered..
+2020-12-28 00:12:26 INFO  LoginPage :86 - login button clicked..
+2020-12-28 00:12:116 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (d86f19769d1940851e2525f5c31e3037)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-28 00:12:154 INFO  WaitHelper :141 - element is visible now
+2020-12-28 00:12:159 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-12-28 00:12:252 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-12-28 00:12:323 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-12-28 00:12:373 INFO  DropDownHelper :38 - visibleTextSelected is: Name
+2020-12-28 00:12:221 INFO  ProductCategoryPage :118 - products sorted on the basis of name..[IPhone, Samsung Galaxy, Sony Xperia]
+2020-12-28 00:12:221 INFO  ProductCategoryPage :101 - products sorted..
+2020-12-28 00:12:222 INFO  ExtentListener :57 - verifyProductNameInSortedOrderInProductCategoryPage Test Passed..
+2020-12-28 00:12:223 INFO  TestBase :86 - **************verifyProductNameInSortedOrderInProductCategoryPageFinished***************
+2020-12-28 00:12:279 INFO  TestBase :93 - chrome browser closed..
+2020-12-28 00:12:989 INFO  ExtentListener :21 - ProductNameInSortedOrderInProductCategoryPage Test Finished..
+2020-12-28 00:12:990 INFO  ExtentListener :28 - ProductPriceSortingInProductCategoryPage Class Started..
+2020-12-28 00:12:246 INFO  TestBase :129 - Initialize Web driver: 485047320
+2020-12-28 00:12:246 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-28 00:12:249 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-28 00:12:819 INFO  TestBase :68 - **************verifyProductPriceSortingInProductCategoryPageStarted***************
+2020-12-28 00:12:820 INFO  ExtentListener :51 - verifyProductPriceSortingInProductCategoryPage Test Started..
+2020-12-28 00:12:839 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (572a58536b6522a701b372b7feadf1be)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-28 00:12:870 INFO  WaitHelper :141 - element is visible now
+2020-12-28 00:12:871 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-28 00:12:873 INFO  LoginPage :62 - user clicks on the account...
+2020-12-28 00:12:903 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-12-28 00:12:753 INFO  LoginPage :74 - user id entered..
+2020-12-28 00:12:848 INFO  LoginPage :80 - password entered..
+2020-12-28 00:12:931 INFO  LoginPage :86 - login button clicked..
+2020-12-28 00:12:970 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (572a58536b6522a701b372b7feadf1be)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-28 00:12:999 INFO  WaitHelper :141 - element is visible now
+2020-12-28 00:12:05 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-12-28 00:12:61 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-12-28 00:12:48 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-12-28 00:12:94 INFO  DropDownHelper :38 - visibleTextSelected is: Price
+2020-12-28 00:12:27 INFO  ProductCategoryPage :148 - products sorted on the basis of price..[100.0, 130.0, 500.0, 615.0]
+2020-12-28 00:12:28 INFO  ProductCategoryPage :148 - products sorted on the basis of price..[100.0, 130.0, 500.0, 615.0]
+2020-12-28 00:12:28 INFO  ProductCategoryPage :148 - products sorted on the basis of price..[100.0, 130.0, 500.0, 615.0]
+2020-12-28 00:12:29 INFO  ExtentListener :57 - verifyProductPriceSortingInProductCategoryPage Test Passed..
+2020-12-28 00:12:29 INFO  TestBase :86 - **************verifyProductPriceSortingInProductCategoryPageFinished***************
+2020-12-28 00:12:77 INFO  TestBase :93 - chrome browser closed..
+2020-12-28 00:12:796 INFO  ExtentListener :21 - ProductPriceSortingInProductCategoryPage Test Finished..
+2020-12-28 00:12:797 INFO  ExtentListener :28 - ProductDeatilsPage Class Started..
+2020-12-28 00:12:936 INFO  TestBase :129 - Initialize Web driver: 1399398408
+2020-12-28 00:12:936 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-28 00:12:940 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-28 00:12:540 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-12-28 00:12:541 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-12-28 00:12:561 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (d6917512d947f47ccd770b2851cda123)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-28 00:12:602 INFO  WaitHelper :141 - element is visible now
+2020-12-28 00:12:604 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-28 00:12:607 INFO  LoginPage :62 - user clicks on the account...
+2020-12-28 00:12:649 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-12-28 00:12:509 INFO  LoginPage :74 - user id entered..
+2020-12-28 00:12:604 INFO  LoginPage :80 - password entered..
+2020-12-28 00:12:688 INFO  LoginPage :86 - login button clicked..
+2020-12-28 00:12:821 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (d6917512d947f47ccd770b2851cda123)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-28 00:12:852 INFO  WaitHelper :141 - element is visible now
+2020-12-28 00:12:858 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-12-28 00:12:919 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-12-28 00:12:232 INFO  VerificationHelper :68 - $100.00
+2020-12-28 00:12:325 INFO  ProductCategoryPage :167 - clickin on : Xperia
+2020-12-28 00:12:236 INFO  VerificationHelper :101 - The tile of the page is: Sony Xperia - Mobile
+2020-12-28 00:12:304 INFO  VerificationHelper :68 - $100.00
+2020-12-28 00:12:341 INFO  AssertionHelper :23 - verify text with $100.00 and $100.00
+2020-12-28 00:12:342 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-12-28 00:12:343 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-12-28 00:12:398 INFO  TestBase :93 - chrome browser closed..
+2020-12-28 00:12:98 INFO  ExtentListener :21 - ProductDeatilsPage Test Finished..
+2020-12-28 00:12:99 INFO  ExtentListener :28 - AddToCart Class Started..
+2020-12-28 00:12:448 INFO  TestBase :129 - Initialize Web driver: 2136419383
+2020-12-28 00:12:448 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-28 00:12:451 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-28 00:12:487 INFO  TestBase :68 - **************verifyUpdateAddItemCartStarted***************
+2020-12-28 00:12:488 INFO  ExtentListener :51 - verifyUpdateAddItemCart Test Started..
+2020-12-28 00:12:508 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (a14755f05c72650da897a9cee0bcd611)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-28 00:12:551 INFO  WaitHelper :141 - element is visible now
+2020-12-28 00:12:553 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-28 00:12:555 INFO  LoginPage :62 - user clicks on the account...
+2020-12-28 00:12:586 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-12-28 00:12:703 INFO  LoginPage :74 - user id entered..
+2020-12-28 00:12:811 INFO  LoginPage :80 - password entered..
+2020-12-28 00:12:888 INFO  LoginPage :86 - login button clicked..
+2020-12-28 00:12:938 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (a14755f05c72650da897a9cee0bcd611)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-28 00:12:968 INFO  WaitHelper :141 - element is visible now
+2020-12-28 00:12:973 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-12-28 00:12:32 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-12-28 00:12:419 INFO  VerificationHelper :68 - ADD TO CART
+2020-12-28 00:12:453 INFO  ProductCategoryPage :181 - clickin on : ADD TO CART
+2020-12-28 00:12:898 INFO  VerificationHelper :101 - The tile of the page is: Shopping Cart
+2020-12-28 00:12:02 INFO  AddToCart :51 - update the qty to : 1000
+2020-12-28 00:12:85 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (a14755f05c72650da897a9cee0bcd611)] -> xpath: //span[text()='Update']] for :200 seconds
+2020-12-28 00:12:117 INFO  WaitHelper :141 - element is visible now
+2020-12-28 00:12:169 INFO  VerificationHelper :68 - UPDATE
+2020-12-28 00:12:205 INFO  AddToCart :59 - clickin on : UPDATE
+2020-12-28 00:12:407 INFO  VerificationHelper :68 - * The maximum quantity allowed for purchase is 500.
+2020-12-28 00:12:445 INFO  AssertionHelper :23 - verify text with * The maximum quantity allowed for purchase is 500. and * The maximum quantity allowed for purchase is 500.
+2020-12-28 00:12:446 INFO  ExtentListener :57 - verifyUpdateAddItemCart Test Passed..
+2020-12-28 00:12:446 INFO  TestBase :86 - **************verifyUpdateAddItemCartFinished***************
+2020-12-28 00:12:496 INFO  TestBase :68 - **************verifyEmptyCartStarted***************
+2020-12-28 00:12:497 INFO  ExtentListener :51 - verifyEmptyCart Test Started..
+2020-12-28 00:12:528 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (a14755f05c72650da897a9cee0bcd611)] -> xpath: //span[text()='Empty Cart']] for :200 seconds
+2020-12-28 00:12:559 INFO  WaitHelper :141 - element is visible now
+2020-12-28 00:12:601 INFO  VerificationHelper :68 - EMPTY CART
+2020-12-28 00:12:650 INFO  AddToCart :72 - clickin on : EMPTY CART
+2020-12-28 00:12:571 INFO  VerificationHelper :68 - SHOPPING CART IS EMPTY
+2020-12-28 00:12:608 INFO  AssertionHelper :23 - verify text with SHOPPING CART IS EMPTY and SHOPPING CART IS EMPTY
+2020-12-28 00:12:609 INFO  ExtentListener :57 - verifyEmptyCart Test Passed..
+2020-12-28 00:12:610 INFO  TestBase :86 - **************verifyEmptyCartFinished***************
+2020-12-28 00:12:660 INFO  TestBase :93 - chrome browser closed..
+2020-12-28 00:12:322 INFO  ExtentListener :21 - AddToCart Test Finished..
+2020-12-28 00:12:323 INFO  ExtentListener :28 - Compare Products Class Started..
+2020-12-28 00:12:433 INFO  TestBase :129 - Initialize Web driver: 1867108691
+2020-12-28 00:12:433 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-28 00:12:436 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-28 00:12:71 INFO  TestBase :68 - **************verifyCompareProductsStarted***************
+2020-12-28 00:12:73 INFO  ExtentListener :51 - verifyCompareProducts Test Started..
+2020-12-28 00:12:89 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (abb19d1e48c5f052226324bb2187ed97)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-28 00:12:119 INFO  WaitHelper :141 - element is visible now
+2020-12-28 00:12:121 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-28 00:12:124 INFO  LoginPage :62 - user clicks on the account...
+2020-12-28 00:12:152 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-12-28 00:12:84 INFO  LoginPage :74 - user id entered..
+2020-12-28 00:12:178 INFO  LoginPage :80 - password entered..
+2020-12-28 00:12:264 INFO  LoginPage :86 - login button clicked..
+2020-12-28 00:12:509 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (abb19d1e48c5f052226324bb2187ed97)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-28 00:12:542 INFO  WaitHelper :141 - element is visible now
+2020-12-28 00:12:546 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-12-28 00:12:602 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-12-28 00:12:251 INFO  VerificationHelper :68 - Add to Compare
+2020-12-28 00:12:282 INFO  ProductCategoryPage :193 - clickin on : Add to Compare
+2020-12-28 00:12:267 INFO  VerificationHelper :68 - Add to Compare
+2020-12-28 00:12:299 INFO  ProductCategoryPage :193 - clickin on : Add to Compare
+2020-12-28 00:12:311 INFO  VerificationHelper :68 - COMPARE
+2020-12-28 00:12:342 INFO  ProductCategoryPage :200 - clickin on : COMPARE
+2020-12-28 00:12:435 INFO  WindowHelper :35 - switched to: 1 child window
+2020-12-28 00:12:450 INFO  WindowHelper :35 - switched to: 1 child window
+2020-12-28 00:12:546 INFO  VerificationHelper :68 - COMPARE PRODUCTS
+2020-12-28 00:12:598 INFO  AssertionHelper :23 - verify text with COMPARE PRODUCTS and COMPARE PRODUCTS
+2020-12-28 00:12:635 INFO  CompareProducts :52 - The prodcucts added for comparison are...Sony Xperia
+2020-12-28 00:12:667 INFO  CompareProducts :52 - The prodcucts added for comparison are...IPhone
+2020-12-28 00:12:722 INFO  JavaScriptHelper :68 - scroll to element: CLOSE WINDOW
+2020-12-28 00:12:796 INFO  ExtentListener :57 - verifyCompareProducts Test Passed..
+2020-12-28 00:12:796 INFO  TestBase :86 - **************verifyCompareProductsFinished***************
+2020-12-28 00:12:869 INFO  TestBase :93 - chrome browser closed..
+2020-12-28 00:12:584 INFO  ExtentListener :21 - Compare Products Test Finished..
+2020-12-28 00:12:613 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-28 00:12:948 INFO  TestBase :129 - Initialize Web driver: 630642676
+2020-12-28 00:12:948 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-28 00:12:951 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-28 00:12:749 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-28 00:12:750 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-28 00:12:756 INFO  HomePage :38 - user clicks on my account link...
+2020-12-28 00:12:885 INFO  MyAccountPage :67 - user clicks create account...
+2020-12-28 00:12:583 INFO  MyAccountPage :74 - entering firstName..Cynthia
+2020-12-28 00:12:640 INFO  MyAccountPage :80 - entering lastName..Bridgeport
+2020-12-28 00:12:728 INFO  MyAccountPage :87 - entering emailAddress..672cb@yopmail.com
+2020-12-28 00:12:854 INFO  MyAccountPage :95 - entering password..cb@1234$
+2020-12-28 00:12:790 INFO  MyAccountPage :101 - confirming password..cb@1234$
+2020-12-28 00:12:894 INFO  MyAccountPage :108 - user clicks register...
+2020-12-28 00:12:307 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-28 00:12:307 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-28 00:12:361 INFO  TestBase :93 - chrome browser closed..
+2020-12-28 00:12:555 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-30 22:12:945 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-30 22:12:60 INFO  TestBase :129 - Initialize Web driver: 1789110533
+2020-12-30 22:12:61 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-30 22:12:94 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-30 22:12:942 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-30 22:12:01 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-30 22:12:80 INFO  HomePage :38 - user clicks on my account link...
+2020-12-30 22:12:589 INFO  MyAccountPage :67 - user clicks create account...
+2020-12-30 22:12:479 INFO  MyAccountPage :74 - entering firstName..Cynthia
+2020-12-30 22:12:559 INFO  MyAccountPage :80 - entering lastName..Bridgeport
+2020-12-30 22:12:971 INFO  MyAccountPage :87 - entering emailAddress..344cb@yopmail.com
+2020-12-30 22:12:97 INFO  MyAccountPage :95 - entering password..cb@1234$
+2020-12-30 22:12:181 INFO  MyAccountPage :101 - confirming password..cb@1234$
+2020-12-30 22:12:360 INFO  MyAccountPage :108 - user clicks register...
+2020-12-30 22:12:946 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-30 22:12:947 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-30 22:12:504 INFO  TestBase :93 - chrome browser closed..
+2020-12-30 22:12:263 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-30 22:12:397 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-30 22:12:727 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-12-30 22:12:728 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-30 22:12:735 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-30 22:12:551 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-30 22:12:556 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-30 22:12:591 INFO  HomePage :38 - user clicks on my account link...
+2020-12-30 22:12:689 INFO  MyAccountPage :67 - user clicks create account...
+2020-12-30 22:12:328 INFO  MyAccountPage :74 - entering firstName..Cynthia
+2020-12-30 22:12:384 INFO  MyAccountPage :80 - entering lastName..Bridgeport
+2020-12-30 22:12:498 INFO  MyAccountPage :87 - entering emailAddress..568cb@yopmail.com
+2020-12-30 22:12:590 INFO  MyAccountPage :95 - entering password..cb@1234$
+2020-12-30 22:12:07 INFO  MyAccountPage :101 - confirming password..cb@1234$
+2020-12-30 22:12:137 INFO  MyAccountPage :108 - user clicks register...
+2020-12-30 22:12:565 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-30 22:12:566 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-30 22:12:949 INFO  TestBase :93 - chrome browser closed..
+2020-12-30 22:12:757 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-30 23:12:874 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-30 23:12:388 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-12-30 23:12:390 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-30 23:12:397 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-30 23:12:26 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-30 23:12:30 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-30 23:12:61 INFO  HomePage :38 - user clicks on my account link...
+2020-12-30 23:12:61 INFO  MyAccountPage :67 - user clicks create account...
+2020-12-30 23:12:724 INFO  MyAccountPage :74 - entering firstName..Cynthia
+2020-12-30 23:12:775 INFO  MyAccountPage :80 - entering lastName..Bridgeport
+2020-12-30 23:12:878 INFO  MyAccountPage :87 - entering emailAddress..205cb@yopmail.com
+2020-12-30 23:12:973 INFO  MyAccountPage :95 - entering password..cb@1234$
+2020-12-30 23:12:225 INFO  MyAccountPage :101 - confirming password..cb@1234$
+2020-12-30 23:12:757 INFO  MyAccountPage :108 - user clicks register...
+2020-12-30 23:12:242 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-30 23:12:243 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-30 23:12:794 INFO  TestBase :68 - **************addWishlistStarted***************
+2020-12-30 23:12:798 INFO  ExtentListener :51 - addWishlist Test Started..
+2020-12-30 23:12:912 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (ec37cd21e66da2006d08ef6130bb7186)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-30 23:12:964 INFO  WaitHelper :141 - element is visible now
+2020-12-30 23:12:977 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-30 23:12:101 INFO  NavigationMenu :37 - clickin on : TV
+2020-12-30 23:12:164 INFO  ExtentListener :57 - addWishlist Test Passed..
+2020-12-30 23:12:165 INFO  TestBase :86 - **************addWishlistFinished***************
+2020-12-30 23:12:231 INFO  TestBase :93 - chrome browser closed..
+2020-12-30 23:12:399 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-31 00:12:199 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-31 00:12:431 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-12-31 00:12:432 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:439 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-31 00:12:99 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-31 00:12:105 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-31 00:12:132 INFO  HomePage :38 - user clicks on my account link...
+2020-12-31 00:12:197 INFO  MyAccountPage :67 - user clicks create account...
+2020-12-31 00:12:832 INFO  MyAccountPage :74 - entering firstName..Cynthia
+2020-12-31 00:12:889 INFO  MyAccountPage :80 - entering lastName..Bridgeport
+2020-12-31 00:12:996 INFO  MyAccountPage :87 - entering emailAddress..710cb@yopmail.com
+2020-12-31 00:12:90 INFO  MyAccountPage :95 - entering password..cb@1234$
+2020-12-31 00:12:177 INFO  MyAccountPage :101 - confirming password..cb@1234$
+2020-12-31 00:12:861 INFO  MyAccountPage :108 - user clicks register...
+2020-12-31 00:12:135 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-31 00:12:136 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-31 00:12:494 INFO  TestBase :68 - **************addWishlistStarted***************
+2020-12-31 00:12:495 INFO  ExtentListener :51 - addWishlist Test Started..
+2020-12-31 00:12:523 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (673a0b2ee8f24a94fa4ec93dace0f1da)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-31 00:12:757 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:765 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:814 INFO  NavigationMenu :37 - clickin on : TV
+2020-12-31 00:12:842 INFO  VerificationHelper :68 - Add to Wishlist
+2020-12-31 00:12:889 INFO  ProductCategoryPage :213 - clickin on : Add to Wishlist
+2020-12-31 00:12:942 ERROR VerificationHelper :32 - element not  displayed
+2020-12-31 00:12:948 ERROR ExtentListener :38 - addWishlist Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2020-12-31 00:12:420 INFO  TestBase :86 - **************addWishlistFinished***************
+2020-12-31 00:12:514 INFO  TestBase :93 - chrome browser closed..
+2020-12-31 00:12:354 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-31 00:12:585 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-31 00:12:998 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-12-31 00:12:999 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:07 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-31 00:12:711 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-31 00:12:717 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-31 00:12:749 INFO  HomePage :38 - user clicks on my account link...
+2020-12-31 00:12:998 INFO  MyAccountPage :67 - user clicks create account...
+2020-12-31 00:12:726 INFO  MyAccountPage :74 - entering firstName..Cynthia
+2020-12-31 00:12:791 INFO  MyAccountPage :80 - entering lastName..Bridgeport
+2020-12-31 00:12:896 INFO  MyAccountPage :87 - entering emailAddress..642cb@yopmail.com
+2020-12-31 00:12:994 INFO  MyAccountPage :95 - entering password..cb@1234$
+2020-12-31 00:12:119 INFO  MyAccountPage :101 - confirming password..cb@1234$
+2020-12-31 00:12:431 INFO  MyAccountPage :108 - user clicks register...
+2020-12-31 00:12:49 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-31 00:12:50 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-31 00:12:482 INFO  TestBase :68 - **************addWishlistStarted***************
+2020-12-31 00:12:484 INFO  ExtentListener :51 - addWishlist Test Started..
+2020-12-31 00:12:506 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (040e4dfe726eca7bf333a34e44740dc8)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-31 00:12:716 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:725 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:762 INFO  NavigationMenu :37 - clickin on : TV
+2020-12-31 00:12:797 INFO  VerificationHelper :68 - Add to Wishlist
+2020-12-31 00:12:847 INFO  ProductCategoryPage :213 - clickin on : Add to Wishlist
+2020-12-31 00:12:862 INFO  ExtentListener :57 - addWishlist Test Passed..
+2020-12-31 00:12:863 INFO  TestBase :86 - **************addWishlistFinished***************
+2020-12-31 00:12:912 INFO  TestBase :93 - chrome browser closed..
+2020-12-31 00:12:615 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-31 00:12:915 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-31 00:12:185 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-12-31 00:12:186 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:194 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-31 00:12:780 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-31 00:12:784 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-31 00:12:808 INFO  HomePage :38 - user clicks on my account link...
+2020-12-31 00:12:793 INFO  MyAccountPage :67 - user clicks create account...
+2020-12-31 00:12:412 INFO  MyAccountPage :74 - entering firstName..Cynthia
+2020-12-31 00:12:468 INFO  MyAccountPage :80 - entering lastName..Bridgeport
+2020-12-31 00:12:573 INFO  MyAccountPage :87 - entering emailAddress..132cb@yopmail.com
+2020-12-31 00:12:673 INFO  MyAccountPage :95 - entering password..cb@1234$
+2020-12-31 00:12:114 INFO  MyAccountPage :101 - confirming password..cb@1234$
+2020-12-31 00:12:230 INFO  MyAccountPage :108 - user clicks register...
+2020-12-31 00:12:354 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-31 00:12:355 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-31 00:12:814 INFO  TestBase :68 - **************addWishlistStarted***************
+2020-12-31 00:12:816 INFO  ExtentListener :51 - addWishlist Test Started..
+2020-12-31 00:12:995 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (17e99bccdaccff7f0a09d5d513168ae1)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-31 00:12:62 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:77 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:129 INFO  NavigationMenu :37 - clickin on : TV
+2020-12-31 00:12:159 INFO  VerificationHelper :68 - Add to Wishlist
+2020-12-31 00:12:208 INFO  ProductCategoryPage :213 - clickin on : Add to Wishlist
+2020-12-31 00:12:263 INFO  ExtentListener :57 - addWishlist Test Passed..
+2020-12-31 00:12:263 INFO  TestBase :86 - **************addWishlistFinished***************
+2020-12-31 00:12:317 INFO  TestBase :93 - chrome browser closed..
+2020-12-31 00:12:891 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-31 00:12:505 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-31 00:12:856 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-12-31 00:12:857 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:864 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-31 00:12:627 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-31 00:12:632 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-31 00:12:659 INFO  HomePage :38 - user clicks on my account link...
+2020-12-31 00:12:693 INFO  MyAccountPage :67 - user clicks create account...
+2020-12-31 00:12:332 INFO  MyAccountPage :74 - entering firstName..Cynthia
+2020-12-31 00:12:399 INFO  MyAccountPage :80 - entering lastName..Bridgeport
+2020-12-31 00:12:524 INFO  MyAccountPage :87 - entering emailAddress..60cb@yopmail.com
+2020-12-31 00:12:630 INFO  MyAccountPage :95 - entering password..cb@1234$
+2020-12-31 00:12:461 INFO  MyAccountPage :101 - confirming password..cb@1234$
+2020-12-31 00:12:594 INFO  MyAccountPage :108 - user clicks register...
+2020-12-31 00:12:147 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-31 00:12:148 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-31 00:12:552 INFO  TestBase :68 - **************addWishlistStarted***************
+2020-12-31 00:12:553 INFO  ExtentListener :51 - addWishlist Test Started..
+2020-12-31 00:12:577 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (43880d5d3c86baaf0c4fc94addb36e87)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-31 00:12:635 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:643 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:686 INFO  NavigationMenu :37 - clickin on : TV
+2020-12-31 00:12:731 INFO  VerificationHelper :68 - Add to Wishlist
+2020-12-31 00:12:769 INFO  ProductCategoryPage :213 - clickin on : Add to Wishlist
+2020-12-31 00:12:916 INFO  VerificationHelper :68 - SHARE WISHLIST
+2020-12-31 00:12:973 INFO  WishlistPage :59 - clickin on : SHARE WISHLIST
+2020-12-31 00:12:833 INFO  ExtentListener :57 - addWishlist Test Passed..
+2020-12-31 00:12:835 INFO  TestBase :86 - **************addWishlistFinished***************
+2020-12-31 00:12:879 INFO  TestBase :93 - chrome browser closed..
+2020-12-31 00:12:574 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-31 00:12:34 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-31 00:12:413 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-12-31 00:12:414 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:422 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-31 00:12:288 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-31 00:12:292 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-31 00:12:323 INFO  HomePage :38 - user clicks on my account link...
+2020-12-31 00:12:318 INFO  MyAccountPage :67 - user clicks create account...
+2020-12-31 00:12:957 INFO  MyAccountPage :74 - entering firstName..Cynthia
+2020-12-31 00:12:17 INFO  MyAccountPage :80 - entering lastName..Bridgeport
+2020-12-31 00:12:133 INFO  MyAccountPage :87 - entering emailAddress..450cb@yopmail.com
+2020-12-31 00:12:236 INFO  MyAccountPage :95 - entering password..cb@1234$
+2020-12-31 00:12:683 INFO  MyAccountPage :101 - confirming password..cb@1234$
+2020-12-31 00:12:797 INFO  MyAccountPage :108 - user clicks register...
+2020-12-31 00:12:40 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-31 00:12:41 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-31 00:12:467 INFO  TestBase :68 - **************addWishlistStarted***************
+2020-12-31 00:12:470 INFO  ExtentListener :51 - addWishlist Test Started..
+2020-12-31 00:12:672 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (3c00bb639e5fe3c7fb235fd02d924ac8)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-31 00:12:736 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:747 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:817 INFO  NavigationMenu :37 - clickin on : TV
+2020-12-31 00:12:828 INFO  VerificationHelper :68 - Add to Wishlist
+2020-12-31 00:12:883 INFO  ProductCategoryPage :213 - clickin on : Add to Wishlist
+2020-12-31 00:12:965 INFO  VerificationHelper :68 - SHARE WISHLIST
+2020-12-31 00:12:17 INFO  WishlistPage :68 - clickin on : SHARE WISHLIST
+2020-12-31 00:12:855 INFO  WishlistPage :75 - entering emailAddress..858cb@yopmail.com
+2020-12-31 00:12:939 INFO  WishlistPage :81 - entering message..a quick brown fox jumps over the lazy dog
+2020-12-31 00:12:78 INFO  ExtentListener :57 - addWishlist Test Passed..
+2020-12-31 00:12:79 INFO  TestBase :86 - **************addWishlistFinished***************
+2020-12-31 00:12:136 INFO  TestBase :93 - chrome browser closed..
+2020-12-31 00:12:67 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-31 00:12:657 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-31 00:12:890 INFO  TestBase :129 - Initialize Web driver: 948115224
+2020-12-31 00:12:891 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:899 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-31 00:12:679 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-31 00:12:686 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-31 00:12:719 INFO  HomePage :38 - user clicks on my account link...
+2020-12-31 00:12:730 INFO  MyAccountPage :67 - user clicks create account...
+2020-12-31 00:12:340 INFO  MyAccountPage :74 - entering firstName..Cynthia
+2020-12-31 00:12:390 INFO  MyAccountPage :80 - entering lastName..Bridgeport
+2020-12-31 00:12:504 INFO  MyAccountPage :87 - entering emailAddress..174cb@yopmail.com
+2020-12-31 00:12:608 INFO  MyAccountPage :95 - entering password..cb@1234$
+2020-12-31 00:12:254 INFO  MyAccountPage :101 - confirming password..cb@1234$
+2020-12-31 00:12:372 INFO  MyAccountPage :108 - user clicks register...
+2020-12-31 00:12:604 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-31 00:12:605 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-31 00:12:962 INFO  TestBase :68 - **************addWishlistStarted***************
+2020-12-31 00:12:965 INFO  ExtentListener :51 - addWishlist Test Started..
+2020-12-31 00:12:149 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (7ec8ca262949b70cb05e60d00da5fe2b)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-31 00:12:206 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:215 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:275 INFO  NavigationMenu :37 - clickin on : TV
+2020-12-31 00:12:314 INFO  VerificationHelper :68 - Add to Wishlist
+2020-12-31 00:12:364 INFO  ProductCategoryPage :213 - clickin on : Add to Wishlist
+2020-12-31 00:12:487 INFO  VerificationHelper :68 - SHARE WISHLIST
+2020-12-31 00:12:520 INFO  WishlistPage :68 - clickin on : SHARE WISHLIST
+2020-12-31 00:12:359 INFO  WishlistPage :75 - entering emailAddress..685cb@yopmail.com
+2020-12-31 00:12:427 INFO  WishlistPage :81 - entering message..a quick brown fox jumps over the lazy dog
+2020-12-31 00:12:609 INFO  VerificationHelper :68 - SHARE WISHLIST
+2020-12-31 00:12:656 INFO  WishlistPage :68 - clickin on : SHARE WISHLIST
+2020-12-31 00:12:622 INFO  ExtentListener :57 - addWishlist Test Passed..
+2020-12-31 00:12:622 INFO  TestBase :86 - **************addWishlistFinished***************
+2020-12-31 00:12:670 INFO  TestBase :93 - chrome browser closed..
+2020-12-31 00:12:422 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
+2020-12-31 00:12:650 INFO  ExtentListener :28 - LoginTest Class Started..
+2020-12-31 00:12:860 INFO  TestBase :129 - Initialize Web driver: 768185844
+2020-12-31 00:12:861 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:869 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-31 00:12:738 INFO  TestBase :68 - **************testLoginToApplicationStarted***************
+2020-12-31 00:12:743 INFO  ExtentListener :51 - testLoginToApplication Test Started..
+2020-12-31 00:12:775 INFO  VerificationHelper :101 - The tile of the page is: Home page
+2020-12-31 00:12:851 INFO  LoginPage :62 - user clicks on the account...
+2020-12-31 00:12:895 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-12-31 00:12:886 INFO  LoginPage :74 - user id entered..
+2020-12-31 00:12:998 INFO  LoginPage :80 - password entered..
+2020-12-31 00:12:86 INFO  LoginPage :86 - login button clicked..
+2020-12-31 00:12:129 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (16fab1edf880fed36f99f7a277880a86)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-31 00:12:205 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:206 INFO  ExtentListener :57 - testLoginToApplication Test Passed..
+2020-12-31 00:12:207 INFO  TestBase :86 - **************testLoginToApplicationFinished***************
+2020-12-31 00:12:639 INFO  TestBase :93 - chrome browser closed..
+2020-12-31 00:12:905 INFO  ExtentListener :21 - LoginTest Test Finished..
+2020-12-31 00:12:906 INFO  ExtentListener :28 - ProductNameInSortedOrderInProductCategoryPage Class Started..
+2020-12-31 00:12:191 INFO  TestBase :129 - Initialize Web driver: 1306535359
+2020-12-31 00:12:192 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:196 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-31 00:12:901 INFO  TestBase :68 - **************verifyProductNameInSortedOrderInProductCategoryPageStarted***************
+2020-12-31 00:12:903 INFO  ExtentListener :51 - verifyProductNameInSortedOrderInProductCategoryPage Test Started..
+2020-12-31 00:12:923 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (437113aca5bae9b3c39a3a52da9f0075)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-31 00:12:956 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:964 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:969 INFO  LoginPage :62 - user clicks on the account...
+2020-12-31 00:12:00 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-12-31 00:12:895 INFO  LoginPage :74 - user id entered..
+2020-12-31 00:12:04 INFO  LoginPage :80 - password entered..
+2020-12-31 00:12:88 INFO  LoginPage :86 - login button clicked..
+2020-12-31 00:12:138 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (437113aca5bae9b3c39a3a52da9f0075)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-31 00:12:174 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:179 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-12-31 00:12:247 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-12-31 00:12:433 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-12-31 00:12:480 INFO  DropDownHelper :38 - visibleTextSelected is: Name
+2020-12-31 00:12:338 INFO  ProductCategoryPage :122 - products sorted on the basis of name..[IPhone, Samsung Galaxy, Sony Xperia]
+2020-12-31 00:12:338 INFO  ProductCategoryPage :105 - products sorted..
+2020-12-31 00:12:339 INFO  ExtentListener :57 - verifyProductNameInSortedOrderInProductCategoryPage Test Passed..
+2020-12-31 00:12:340 INFO  TestBase :86 - **************verifyProductNameInSortedOrderInProductCategoryPageFinished***************
+2020-12-31 00:12:397 INFO  TestBase :93 - chrome browser closed..
+2020-12-31 00:12:85 INFO  ExtentListener :21 - ProductNameInSortedOrderInProductCategoryPage Test Finished..
+2020-12-31 00:12:86 INFO  ExtentListener :28 - ProductPriceSortingInProductCategoryPage Class Started..
+2020-12-31 00:12:364 INFO  TestBase :129 - Initialize Web driver: 485047320
+2020-12-31 00:12:364 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:367 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-31 00:12:69 INFO  TestBase :68 - **************verifyProductPriceSortingInProductCategoryPageStarted***************
+2020-12-31 00:12:70 INFO  ExtentListener :51 - verifyProductPriceSortingInProductCategoryPage Test Started..
+2020-12-31 00:12:87 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (b1743d46141e62320c4b5fc187be85ae)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-31 00:12:118 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:119 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:122 INFO  LoginPage :62 - user clicks on the account...
+2020-12-31 00:12:152 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-12-31 00:12:112 INFO  LoginPage :74 - user id entered..
+2020-12-31 00:12:232 INFO  LoginPage :80 - password entered..
+2020-12-31 00:12:322 INFO  LoginPage :86 - login button clicked..
+2020-12-31 00:12:396 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (b1743d46141e62320c4b5fc187be85ae)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-31 00:12:424 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:430 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-12-31 00:12:485 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-12-31 00:12:315 INFO  DropDownHelper :21 - DropDownHelper object created..
+2020-12-31 00:12:361 INFO  DropDownHelper :38 - visibleTextSelected is: Price
+2020-12-31 00:12:128 INFO  ProductCategoryPage :152 - products sorted on the basis of price..[100.0, 130.0, 500.0, 615.0]
+2020-12-31 00:12:129 INFO  ProductCategoryPage :152 - products sorted on the basis of price..[100.0, 130.0, 500.0, 615.0]
+2020-12-31 00:12:129 INFO  ProductCategoryPage :152 - products sorted on the basis of price..[100.0, 130.0, 500.0, 615.0]
+2020-12-31 00:12:130 INFO  ExtentListener :57 - verifyProductPriceSortingInProductCategoryPage Test Passed..
+2020-12-31 00:12:131 INFO  TestBase :86 - **************verifyProductPriceSortingInProductCategoryPageFinished***************
+2020-12-31 00:12:180 INFO  TestBase :93 - chrome browser closed..
+2020-12-31 00:12:902 INFO  ExtentListener :21 - ProductPriceSortingInProductCategoryPage Test Finished..
+2020-12-31 00:12:903 INFO  ExtentListener :28 - ProductDeatilsPage Class Started..
+2020-12-31 00:12:150 INFO  TestBase :129 - Initialize Web driver: 1399398408
+2020-12-31 00:12:150 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:153 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-31 00:12:850 INFO  TestBase :68 - **************verifyProductDeatilsPageStarted***************
+2020-12-31 00:12:851 INFO  ExtentListener :51 - verifyProductDeatilsPage Test Started..
+2020-12-31 00:12:869 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (c912cdb5b468667f8c30c877cba41f8e)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-31 00:12:901 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:903 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:908 INFO  LoginPage :62 - user clicks on the account...
+2020-12-31 00:12:939 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-12-31 00:12:926 INFO  LoginPage :74 - user id entered..
+2020-12-31 00:12:24 INFO  LoginPage :80 - password entered..
+2020-12-31 00:12:106 INFO  LoginPage :86 - login button clicked..
+2020-12-31 00:12:126 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (c912cdb5b468667f8c30c877cba41f8e)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-31 00:12:161 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:166 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-12-31 00:12:226 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-12-31 00:12:575 INFO  VerificationHelper :68 - $100.00
+2020-12-31 00:12:662 INFO  ProductCategoryPage :171 - clickin on : Xperia
+2020-12-31 00:12:349 INFO  VerificationHelper :101 - The tile of the page is: Sony Xperia - Mobile
+2020-12-31 00:12:415 INFO  VerificationHelper :68 - $100.00
+2020-12-31 00:12:454 INFO  AssertionHelper :23 - verify text with $100.00 and $100.00
+2020-12-31 00:12:458 INFO  ExtentListener :57 - verifyProductDeatilsPage Test Passed..
+2020-12-31 00:12:463 INFO  TestBase :86 - **************verifyProductDeatilsPageFinished***************
+2020-12-31 00:12:518 INFO  TestBase :93 - chrome browser closed..
+2020-12-31 00:12:228 INFO  ExtentListener :21 - ProductDeatilsPage Test Finished..
+2020-12-31 00:12:229 INFO  ExtentListener :28 - AddToCart Class Started..
+2020-12-31 00:12:389 INFO  TestBase :129 - Initialize Web driver: 2136419383
+2020-12-31 00:12:389 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:392 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-31 00:12:71 INFO  TestBase :68 - **************verifyUpdateAddItemCartStarted***************
+2020-12-31 00:12:71 INFO  ExtentListener :51 - verifyUpdateAddItemCart Test Started..
+2020-12-31 00:12:94 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (cc6bdf45c269c34fd7e8a2969eaec59d)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-31 00:12:125 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:127 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:130 INFO  LoginPage :62 - user clicks on the account...
+2020-12-31 00:12:170 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-12-31 00:12:77 INFO  LoginPage :74 - user id entered..
+2020-12-31 00:12:172 INFO  LoginPage :80 - password entered..
+2020-12-31 00:12:254 INFO  LoginPage :86 - login button clicked..
+2020-12-31 00:12:360 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (cc6bdf45c269c34fd7e8a2969eaec59d)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-31 00:12:392 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:398 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-12-31 00:12:458 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-12-31 00:12:382 INFO  VerificationHelper :68 - ADD TO CART
+2020-12-31 00:12:417 INFO  ProductCategoryPage :185 - clickin on : ADD TO CART
+2020-12-31 00:12:829 INFO  VerificationHelper :101 - The tile of the page is: Shopping Cart
+2020-12-31 00:12:30 INFO  AddToCart :51 - update the qty to : 1000
+2020-12-31 00:12:98 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (cc6bdf45c269c34fd7e8a2969eaec59d)] -> xpath: //span[text()='Update']] for :200 seconds
+2020-12-31 00:12:131 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:192 INFO  VerificationHelper :68 - UPDATE
+2020-12-31 00:12:232 INFO  AddToCart :59 - clickin on : UPDATE
+2020-12-31 00:12:446 INFO  VerificationHelper :68 - * The maximum quantity allowed for purchase is 500.
+2020-12-31 00:12:481 INFO  AssertionHelper :23 - verify text with * The maximum quantity allowed for purchase is 500. and * The maximum quantity allowed for purchase is 500.
+2020-12-31 00:12:482 INFO  ExtentListener :57 - verifyUpdateAddItemCart Test Passed..
+2020-12-31 00:12:483 INFO  TestBase :86 - **************verifyUpdateAddItemCartFinished***************
+2020-12-31 00:12:538 INFO  TestBase :68 - **************verifyEmptyCartStarted***************
+2020-12-31 00:12:539 INFO  ExtentListener :51 - verifyEmptyCart Test Started..
+2020-12-31 00:12:565 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (cc6bdf45c269c34fd7e8a2969eaec59d)] -> xpath: //span[text()='Empty Cart']] for :200 seconds
+2020-12-31 00:12:596 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:639 INFO  VerificationHelper :68 - EMPTY CART
+2020-12-31 00:12:674 INFO  AddToCart :72 - clickin on : EMPTY CART
+2020-12-31 00:12:591 INFO  VerificationHelper :68 - SHOPPING CART IS EMPTY
+2020-12-31 00:12:628 INFO  AssertionHelper :23 - verify text with SHOPPING CART IS EMPTY and SHOPPING CART IS EMPTY
+2020-12-31 00:12:629 INFO  ExtentListener :57 - verifyEmptyCart Test Passed..
+2020-12-31 00:12:629 INFO  TestBase :86 - **************verifyEmptyCartFinished***************
+2020-12-31 00:12:725 INFO  TestBase :93 - chrome browser closed..
+2020-12-31 00:12:408 INFO  ExtentListener :21 - AddToCart Test Finished..
+2020-12-31 00:12:409 INFO  ExtentListener :28 - Compare Products Class Started..
+2020-12-31 00:12:627 INFO  TestBase :129 - Initialize Web driver: 1867108691
+2020-12-31 00:12:627 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:631 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-31 00:12:424 INFO  TestBase :68 - **************verifyCompareProductsStarted***************
+2020-12-31 00:12:426 INFO  ExtentListener :51 - verifyCompareProducts Test Started..
+2020-12-31 00:12:443 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (f9913054ef489695bf0d92832a1a7b7a)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-31 00:12:478 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:480 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:483 INFO  LoginPage :62 - user clicks on the account...
+2020-12-31 00:12:524 INFO  LoginPage :68 - user clicks on the Log In link...
+2020-12-31 00:12:429 INFO  LoginPage :74 - user id entered..
+2020-12-31 00:12:524 INFO  LoginPage :80 - password entered..
+2020-12-31 00:12:608 INFO  LoginPage :86 - login button clicked..
+2020-12-31 00:12:605 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (f9913054ef489695bf0d92832a1a7b7a)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-31 00:12:635 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:641 INFO  VerificationHelper :101 - The tile of the page is: My Account
+2020-12-31 00:12:701 INFO  NavigationMenu :37 - clickin on : MOBILE
+2020-12-31 00:12:177 INFO  VerificationHelper :68 - Add to Compare
+2020-12-31 00:12:211 INFO  ProductCategoryPage :197 - clickin on : Add to Compare
+2020-12-31 00:12:277 INFO  VerificationHelper :68 - Add to Compare
+2020-12-31 00:12:313 INFO  ProductCategoryPage :197 - clickin on : Add to Compare
+2020-12-31 00:12:299 INFO  VerificationHelper :68 - COMPARE
+2020-12-31 00:12:337 INFO  ProductCategoryPage :204 - clickin on : COMPARE
+2020-12-31 00:12:472 INFO  WindowHelper :35 - switched to: 1 child window
+2020-12-31 00:12:497 INFO  WindowHelper :35 - switched to: 1 child window
+2020-12-31 00:12:595 INFO  VerificationHelper :68 - COMPARE PRODUCTS
+2020-12-31 00:12:632 INFO  AssertionHelper :23 - verify text with COMPARE PRODUCTS and COMPARE PRODUCTS
+2020-12-31 00:12:666 INFO  CompareProducts :52 - The prodcucts added for comparison are...Sony Xperia
+2020-12-31 00:12:695 INFO  CompareProducts :52 - The prodcucts added for comparison are...IPhone
+2020-12-31 00:12:749 INFO  JavaScriptHelper :68 - scroll to element: CLOSE WINDOW
+2020-12-31 00:12:819 INFO  ExtentListener :57 - verifyCompareProducts Test Passed..
+2020-12-31 00:12:820 INFO  TestBase :86 - **************verifyCompareProductsFinished***************
+2020-12-31 00:12:907 INFO  TestBase :93 - chrome browser closed..
+2020-12-31 00:12:599 INFO  ExtentListener :21 - Compare Products Test Finished..
+2020-12-31 00:12:599 INFO  ExtentListener :28 - My Account and Wishlist Class Started..
+2020-12-31 00:12:775 INFO  TestBase :129 - Initialize Web driver: 630642676
+2020-12-31 00:12:775 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:779 INFO  WaitHelper :49 - waiting for page to load: 100
+2020-12-31 00:12:459 INFO  TestBase :68 - **************createNewAccountStarted***************
+2020-12-31 00:12:460 INFO  ExtentListener :51 - createNewAccount Test Started..
+2020-12-31 00:12:463 INFO  HomePage :38 - user clicks on my account link...
+2020-12-31 00:12:507 INFO  MyAccountPage :67 - user clicks create account...
+2020-12-31 00:12:130 INFO  MyAccountPage :74 - entering firstName..Cynthia
+2020-12-31 00:12:178 INFO  MyAccountPage :80 - entering lastName..Bridgeport
+2020-12-31 00:12:334 INFO  MyAccountPage :87 - entering emailAddress..452cb@yopmail.com
+2020-12-31 00:12:473 INFO  MyAccountPage :95 - entering password..cb@1234$
+2020-12-31 00:12:79 INFO  MyAccountPage :101 - confirming password..cb@1234$
+2020-12-31 00:12:774 INFO  MyAccountPage :108 - user clicks register...
+2020-12-31 00:12:173 INFO  ExtentListener :57 - createNewAccount Test Passed..
+2020-12-31 00:12:174 INFO  TestBase :86 - **************createNewAccountFinished***************
+2020-12-31 00:12:223 INFO  TestBase :68 - **************addWishlistStarted***************
+2020-12-31 00:12:225 INFO  ExtentListener :51 - addWishlist Test Started..
+2020-12-31 00:12:243 INFO  WaitHelper :138 - waiting for :[[ChromeDriver: chrome on WINDOWS (7598c8142900d4ed735cc373d498f54e)] -> xpath: //a[text()='Mobile']] for :200 seconds
+2020-12-31 00:12:266 INFO  WaitHelper :141 - element is visible now
+2020-12-31 00:12:267 INFO  WaitHelper :39 - Implicit Wait has been set to: 150
+2020-12-31 00:12:318 INFO  NavigationMenu :37 - clickin on : TV
+2020-12-31 00:12:321 INFO  VerificationHelper :68 - Add to Wishlist
+2020-12-31 00:12:355 INFO  ProductCategoryPage :213 - clickin on : Add to Wishlist
+2020-12-31 00:12:431 INFO  VerificationHelper :68 - SHARE WISHLIST
+2020-12-31 00:12:483 INFO  WishlistPage :68 - clickin on : SHARE WISHLIST
+2020-12-31 00:12:316 INFO  WishlistPage :75 - entering emailAddress..64cb@yopmail.com
+2020-12-31 00:12:380 INFO  WishlistPage :81 - entering message..a quick brown fox jumps over the lazy dog
+2020-12-31 00:12:556 INFO  VerificationHelper :68 - SHARE WISHLIST
+2020-12-31 00:12:590 INFO  WishlistPage :68 - clickin on : SHARE WISHLIST
+2020-12-31 00:12:476 INFO  ExtentListener :57 - addWishlist Test Passed..
+2020-12-31 00:12:476 INFO  TestBase :86 - **************addWishlistFinished***************
+2020-12-31 00:12:518 INFO  TestBase :93 - chrome browser closed..
+2020-12-31 00:12:279 INFO  ExtentListener :21 - My Account and Wishlist Test Finished..
